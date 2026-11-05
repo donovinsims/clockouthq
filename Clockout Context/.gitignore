@@ -1,0 +1,67 @@
+# Root .gitignore for the Clockout knowledge base.
+# Scope: local archives, OS metadata, credentials and tool state.
+# Deliberately does NOT exclude Markdown, YAML, JSON, CSV or the docs/ tree.
+
+# --- macOS metadata ---
+.DS_Store
+._*
+.AppleDouble
+.LSOverride
+.Spotlight-V100
+.Trashes
+Icon?
+
+# --- Windows / other metadata ---
+Thumbs.db
+desktop.ini
+
+# --- Editor and IDE caches ---
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+*.tmp
+*.temp
+
+# --- Local environment and credentials ---
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+*.p12
+*.pfx
+*.jks
+*.keystore
+credentials*.json
+secrets*.json
+service-account*.json
+cookies*.json
+cookies*.txt
+session-state*
+storage-state*
+auth-state*
+.netrc
+
+# --- Archives and exports (kept locally, never tracked) ---
+*.zip
+*.7z
+*.rar
+*.tar
+*.tar.gz
+*.tgz
+*.dmg
+*.bak
+backups/
+exports/
+drafts-archive/
+
+# --- Agent and tool local state ---
+.freebuff/
+.agents/state/
+*.log
+
+# --- Python bytecode from running the validator ---
+__pycache__/
+*.pyc

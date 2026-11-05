@@ -1,0 +1,20 @@
+Give your first agent a job with a clear stopping point.
+
+Example: prepare a reading list from a folder of sample documents.
+
+The input:
+A small set of documents you've approved for the test.
+
+The job:
+Find items about one topic. Return the filename, a short summary, and the passage supporting it.
+
+The stopping point:
+A draft list for you to review. No sending, deleting, or changing the source files.
+
+Test it with three documents, including one that doesn't belong. Check whether it leaves that one out and whether each summary matches its source.
+
+Only then consider adding a scheduled run or more documents.
+
+This is a build plan, not a claim that every agent tool supports the same features. Choose the tool after you've defined the job.
+
+A small workflow you can check beats a sprawling assistant you can't explain.

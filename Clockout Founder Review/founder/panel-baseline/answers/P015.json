@@ -1,0 +1,13 @@
+{
+ "id": "P015",
+ "buys": false,
+ "purchases_first_month": 0,
+ "reason_code": "trust",
+ "reason": "I have heard a version of this before, paid a marketing outfit over a thousand a month for a year and got click reports and no jobs. A free hour and a one-page write-up sounds nice, but I am not giving up a job-day to sit down with another guy who wants to sell me a fix.",
+ "objection": "The $1,500 to $3,500 fixed price is not the fixed price, it is only decided after I have already given him the hour and the look at how I run things. That is the same setup that got me last time: free diagnosis, then a bill I did not see coming and no way to tell if the work did anything.",
+ "would_change_my_mind": "He comes to me instead of me going to him, 20 minutes at my shop while I am between calls, and shows me one concrete fix he already did for another shop like mine, with the price printed on it before I open my books.",
+ "price_too_cheap": 0,
+ "price_cheap": 800,
+ "price_expensive": 2500,
+ "price_too_expensive": 4000
+}

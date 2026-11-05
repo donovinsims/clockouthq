@@ -1,0 +1,13 @@
+{
+ "id": "P014",
+ "buys": false,
+ "purchases_first_month": 0,
+ "reason_code": "need",
+ "reason": "I already know where my time goes, it is the same three places every week, so paying someone $1,500 to $3,500 to tell me what I already suspect does not add up against what that money buys me elsewhere. I set all this up myself and I would rather keep tinkering at 11pm than hand over accounts and a check.",
+ "objection": "Free look is fine, but how do I know this will actually pay for itself? A one-page write-up does not show me dollars saved, and I have been sold efficiency before by people who did not understand a 60-unit portfolio.",
+ "would_change_my_mind": "If someone I actually know in the business, another landlord, not a referral from him, told me the fix landed in writing with a number attached and he left them fully able to run it, I would take the free hour seriously.",
+ "price_too_cheap": 300,
+ "price_cheap": 800,
+ "price_expensive": 1500,
+ "price_too_expensive": 3500
+}

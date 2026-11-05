@@ -1,0 +1,49 @@
+[
+  {
+    "id": "A",
+    "topic": "using AI to turn a messy work request into a clear checklist",
+    "audience": "A",
+    "category": "practical_education",
+    "format": "long",
+    "takeaway": "Specify the deliverable, missing inputs and review criteria before asking AI to draft.",
+    "desired_outcome": "A nine-to-five professional can turn one vague task into a checkable brief."
+  },
+  {
+    "id": "B",
+    "topic": "agent workflow recurring document review input output approval",
+    "audience": "A",
+    "category": "agents_tools_builds",
+    "format": "long",
+    "pattern": "walkthrough",
+    "takeaway": "A draft-only document comparison agent needs bounded inputs, evidence and human approval.",
+    "desired_outcome": "Understand a useful agent architecture without an unverified product claim."
+  },
+  {
+    "id": "C",
+    "topic": "owner bottleneck recurring manual follow up handoff",
+    "audience": "B",
+    "category": "business_operations",
+    "format": "long",
+    "takeaway": "Diagnose why a recurring follow-up waits before adding automation.",
+    "desired_outcome": "Identify an owner, exit condition and meaningful baseline for one process."
+  },
+  {
+    "id": "D",
+    "topic": "college summer work baseball product operations career founder",
+    "audience": "A",
+    "category": "founder_journey",
+    "format": "long",
+    "takeaway": "Use supported highway-department and career background to frame current practical teaching direction.",
+    "desired_outcome": "An authentic reflection without invented scenes or measurable results.",
+    "supported_facts": [
+      {
+        "claim": "Worked for Winnebago County Highway Department during college summers",
+        "source": "voice-clone/profiles/donovin-sims/facts.md"
+      },
+      {
+        "claim": "Building Clockout as a solo founder",
+        "source": "voice-clone/profiles/donovin-sims/facts.md"
+      }
+    ]
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "id": "A01",
+    "filename": "CLOCKOUT SOT-GPTWORKMODE-2026-10-29.zip",
+    "sha256": "d23438d18b0afd705fefa1d2045416e19c1004af00212d4fd7f7d4a7bcd2ab97",
+    "original_top_level": "CLOCKOUT SOT-GPTWORKMODE-2026-10-29",
+    "files_reviewed": 78,
+    "review": "Complete file-level comparison and content/privacy review; primary matched previously authored baseline exactly; secondary separately reviewed; not just inferred from filename."
+  },
+  {
+    "id": "A02",
+    "filename": "Clockout-Source-of-Truth-2026-10-29.zip",
+    "sha256": "d2915b14fd1e3c21e9fb9f8bcc07e6168f046cfb74974d209c16cc82900b03e4",
+    "original_top_level": "docs",
+    "files_reviewed": 51,
+    "review": "Complete file-level comparison and content/privacy review; primary matched previously authored baseline exactly; secondary separately reviewed; not just inferred from filename."
+  }
+]

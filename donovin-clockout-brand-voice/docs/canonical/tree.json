@@ -1,0 +1,874 @@
+{
+  "sha": "0a3d45f9cc04c6c3446409c4f21034634fbd1fcb",
+  "url": "https://api.github.com/repos/donovinsims/clockout-knowledge-base/git/trees/0a3d45f9cc04c6c3446409c4f21034634fbd1fcb",
+  "tree": [
+    {
+      "path": ".gitignore",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "f5a2d5d5aa816181a23ec2f8ad25317bf10361f4",
+      "size": 956,
+      "url": "https://api.github.com/repos/donovinsims/clockout-knowledge-base/git/blobs/f5a2d5d5aa816181a23ec2f8ad25317bf10361f4"
+    },
+    {
+      "path": "README.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "0191f773b0936e385263589e7fff38659a952278",
+      "size": 1702,
+      "url": "https://api.github.com/repos/donovinsims/clockout-knowledge-base/git/blobs/0191f773b0936e385263589e7fff38659a952278"
+    },
+    {
+      "path": "docs",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "4f308e62060575a5f0e4b0a681ea32acaab2af78",
+      "url": "https://api.github.com/repos/donovinsims/clockout-knowledge-base/git/trees/4f308e62060575a5f0e4b0a681ea32acaab2af78"
+    },
+    {
+      "path": "docs/.gitignore",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "df15b934c13150e58a3a78d721076ed5fff8fc19",
+      "size": 215,
+      "url": "https://api.github.com/repos/donovinsims/clockout-knowledge-base/git/blobs/df15b934c13150e58a3a78d721076ed5fff8fc19"
+    },
+    {
+      "path": "docs/01-founder",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "3dc4d72dacd0c3850eaf38d9c2ea4d8124e2ec1e",
+      "url": "https://api.github.com/repos/donovinsims/clockout-knowledge-base/git/trees/3dc4d72dacd0c3850eaf38d9c2ea4d8124e2ec1e"
+    },
+    {
+      "path": "docs/01-founder/profile.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "2e29a95c4a1c787e54017f4fa17e11872fb3d0cc",
+      "size": 5289,
+      "url": "https://api.github.com/repos/donovinsims/clockout-knowledge-base/git/blobs/2e29a95c4a1c787e54017f4fa17e11872fb3d0cc"
+    },
+    {
+      "path": "docs/01-founder/working-with-donovin.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "ed2f7213c8f6451613a38d27e3ca0c691b795a65",
+      "size": 2493,
+      "url": "https://api.github.com/repos/donovinsims/clockout-knowledge-base/git/blobs/ed2f7213c8f6451613a38d27e3ca0c691b795a65"
+    },
+    {
+      "path": "docs/02-business-foundation",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "2a9be0f60dc9904229cd1f4ab7881bc15bfe8bdb",
+      "url": "https://api.github.com/repos/donovinsims/clockout-knowledge-base/git/trees/2a9be0f60dc9904229cd1f4ab7881bc15bfe8bdb"
+    },
+    {
+      "path": "docs/02-business-foundation/business-plan.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "f983afc887933ea9a847f7420349cfcb74362bac",
+      "size": 16865,
+      "url": "https://api.github.com/repos/donovinsims/clockout-knowledge-base/git/blobs/f983afc887933ea9a847f7420349cfcb74362bac"
+    },
+    {
+      "path": "docs/02-business-foundation/services-and-mentor-boundaries.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "cb559ba81abedc52adbd0ce938c8bc014291a0fe",
+      "size": 2733,
+      "url": "https://api.github.com/repos/donovinsims/clockout-knowledge-base/git/blobs/cb559ba81abedc52adbd0ce938c8bc014291a0fe"
+    },
+    {
+      "path": "docs/03-market-research",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "98234364a5b1a33554b6a68085186324f090061d",
+      "url": "https://api.github.com/repos/donovinsims/clockout-knowledge-base/git/trees/98234364a5b1a33554b6a68085186324f090061d"
+    },
+    {
+      "path": "docs/03-market-research/market-and-qualification.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "043655ae1c5f05e14eb7691c1e70332cc60e2498",
+      "size": 3205,
+      "url": "https://api.github.com/repos/donovinsims/clockout-knowledge-base/git/blobs/043655ae1c5f05e14eb7691c1e70332cc60e2498"
+    },
+    {
+      "path": "docs/03-market-research/property-management-validation.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "29e839a0e0bea849cf6251d80cf3c3b0cd8b582c",
+      "size": 14656,
+      "url": "https://api.github.com/repos/donovinsims/clockout-knowledge-base/git/blobs/29e839a0e0bea849cf6251d80cf3c3b0cd8b582c"
+    },
+    {
+      "path": "docs/04-offers-and-sales",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "7f39f72fc9204c2567754db3096484ded402533f",
+      "url": "https://api.github.com/repos/donovinsims/clockout-knowledge-base/git/trees/7f39f72fc9204c2567754db3096484ded402533f"
+    },
+    {
+      "path": "docs/04-offers-and-sales/sales-playbook.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "f72c9f005db81b4fab718350e6cc79763783a42a",
+      "size": 11929,
+      "url": "https://api.github.com/repos/donovinsims/clockout-knowledge-base/git/blobs/f72c9f005db81b4fab718350e6cc79763783a42a"
+    },
+    {
+      "path": "docs/04-offers-and-sales/website-offer.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "eaf9ad505dba302152c69560f90c7328894b1aca",
+      "size": 3284,
+      "url": "https://api.github.com/repos/donovinsims/clockout-knowledge-base/git/blobs/eaf9ad505dba302152c69560f90c7328894b1aca"
+    },
+    {
+      "path": "docs/04-offers-and-sales/website-sales-operating-system.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "0a18163cb587983addc46374d1861f35c206283d",
+      "size": 19742,
+      "url": "https://api.github.com/repos/donovinsims/clockout-knowledge-base/git/blobs/0a18163cb587983addc46374d1861f35c206283d"
+    },
+    {
+      "path": "docs/05-delivery-and-operations",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "3629522445044e4fdc711c6b115770bfd73e2b6f",
+      "url": "https://api.github.com/repos/donovinsims/clockout-knowledge-base/git/trees/3629522445044e4fdc711c6b115770bfd73e2b6f"
+    },
+    {
+      "path": "docs/05-delivery-and-operations/delivery-playbook.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "47a5966aace9acd3fad3f4663dcf4c8f67ef1157",
+      "size": 12776,
+      "url": "https://api.github.com/repos/donovinsims/clockout-knowledge-base/git/blobs/47a5966aace9acd3fad3f4663dcf4c8f67ef1157"
+    },
+    {
+      "path": "docs/05-delivery-and-operations/optional-service-playbooks.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "73bd1d13ad320f2d37fca06539769eea7e102ba4",
+      "size": 4687,
+      "url": "https://api.github.com/repos/donovinsims/clockout-knowledge-base/git/blobs/73bd1d13ad320f2d37fca06539769eea7e102ba4"
+    },
+    {
+      "path": "docs/05-delivery-and-operations/qa-launch-and-support.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "27d71bf0b9dd66e784199bc3b0aed404465d28d5",
+      "size": 5191,
+      "url": "https://api.github.com/repos/donovinsims/clockout-knowledge-base/git/blobs/27d71bf0b9dd66e784199bc3b0aed404465d28d5"
+    },
+    {
+      "path": "docs/06-marketing-and-brand",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "4a27b5d0d3faf98c2412ad29f9a7db2b3322553d",
+      "url": "https://api.github.com/repos/donovinsims/clockout-knowledge-base/git/trees/4a27b5d0d3faf98c2412ad29f9a7db2b3322553d"
+    },
+    {
+      "path": "docs/06-marketing-and-brand/brand-and-messaging.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "5ed236a64933c5ca1567714af1bcb00a67939185",
+      "size": 3046,
+      "url": "https://api.github.com/repos/donovinsims/clockout-knowledge-base/git/blobs/5ed236a64933c5ca1567714af1bcb00a67939185"
+    },
+    {
+      "path": "docs/06-marketing-and-brand/google-business-profile.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "b36e4c107bcd956f6cb0bcaaa8d541f3cff396d1",
+      "size": 4061,
+      "url": "https://api.github.com/repos/donovinsims/clockout-knowledge-base/git/blobs/b36e4c107bcd956f6cb0bcaaa8d541f3cff396d1"
+    },
+    {
+      "path": "docs/06-marketing-and-brand/website-status.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "f21681b1b369d5f06eae81876977db47dffabfaf",
+      "size": 3007,
+      "url": "https://api.github.com/repos/donovinsims/clockout-knowledge-base/git/blobs/f21681b1b369d5f06eae81876977db47dffabfaf"
+    },
+    {
+      "path": "docs/07-tools-and-systems",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "1e67a95327507fbd7252f0fca372bd76958ed0db",
+      "url": "https://api.github.com/repos/donovinsims/clockout-knowledge-base/git/trees/1e67a95327507fbd7252f0fca372bd76958ed0db"
+    },
+    {
+      "path": "docs/07-tools-and-systems/execution-system.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "267418667f89013df9173d772fa5f41f9bfe001f",
+      "size": 2986,
+      "url": "https://api.github.com/repos/donovinsims/clockout-knowledge-base/git/blobs/267418667f89013df9173d772fa5f41f9bfe001f"
+    },
+    {
+      "path": "docs/07-tools-and-systems/github-setup-and-maintenance.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "faf579cb28e304aab058a8e368dcdce94dd72c83",
+      "size": 8038,
+      "url": "https://api.github.com/repos/donovinsims/clockout-knowledge-base/git/blobs/faf579cb28e304aab058a8e368dcdce94dd72c83"
+    },
+    {
+      "path": "docs/07-tools-and-systems/tool-register.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "fe2d80d488374b20a295b3e7f400f046e5c78207",
+      "size": 3816,
+      "url": "https://api.github.com/repos/donovinsims/clockout-knowledge-base/git/blobs/fe2d80d488374b20a295b3e7f400f046e5c78207"
+    },
+    {
+      "path": "docs/08-finance-and-goals",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "f000a5ec239b01ba2a8aca63bc594af4915459be",
+      "url": "https://api.github.com/repos/donovinsims/clockout-knowledge-base/git/trees/f000a5ec239b01ba2a8aca63bc594af4915459be"
+    },
+    {
+      "path": "docs/08-finance-and-goals/cash-and-metrics.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "9eda21452a0f48b1d3c7a82edc5fe27a69305ea8",
+      "size": 4963,
+      "url": "https://api.github.com/repos/donovinsims/clockout-knowledge-base/git/blobs/9eda21452a0f48b1d3c7a82edc5fe27a69305ea8"
+    },
+    {
+      "path": "docs/09-execution-and-decisions",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "fe9ea1390187b408a4570dde44b2a9c063d91a7b",
+      "url": "https://api.github.com/repos/donovinsims/clockout-knowledge-base/git/trees/fe9ea1390187b408a4570dde44b2a9c063d91a7b"
+    },
+    {
+      "path": "docs/09-execution-and-decisions/contradictions.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "af80c71068f030f79c2a3766d95e43c229182128",
+      "size": 5513,
+      "url": "https://api.github.com/repos/donovinsims/clockout-knowledge-base/git/blobs/af80c71068f030f79c2a3766d95e43c229182128"
+    },
+    {
+      "path": "docs/09-execution-and-decisions/decision-log.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "04ddd9fd4fa68cde95f570937cfc054e8b459c4b",
+      "size": 3655,
+      "url": "https://api.github.com/repos/donovinsims/clockout-knowledge-base/git/blobs/04ddd9fd4fa68cde95f570937cfc054e8b459c4b"
+    },
+    {
+      "path": "docs/09-execution-and-decisions/history-2026-09-to-10.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "b29abf92cb3a1e45c01d20586e59051c0061673b",
+      "size": 11661,
+      "url": "https://api.github.com/repos/donovinsims/clockout-knowledge-base/git/blobs/b29abf92cb3a1e45c01d20586e59051c0061673b"
+    },
+    {
+      "path": "docs/09-execution-and-decisions/november-10-review.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "3d32daf91a6bc3af2ee9468aeb5b2278bb7bf8d3",
+      "size": 4135,
+      "url": "https://api.github.com/repos/donovinsims/clockout-knowledge-base/git/blobs/3d32daf91a6bc3af2ee9468aeb5b2278bb7bf8d3"
+    },
+    {
+      "path": "docs/09-execution-and-decisions/roadmap.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "f01228e1215fe526d17a32bef48396d12a570927",
+      "size": 3111,
+      "url": "https://api.github.com/repos/donovinsims/clockout-knowledge-base/git/blobs/f01228e1215fe526d17a32bef48396d12a570927"
+    },
+    {
+      "path": "docs/09-execution-and-decisions/website-sales-sprint.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "5b8919844f224247a1722b2ddaa97c0182a8b2d3",
+      "size": 4116,
+      "url": "https://api.github.com/repos/donovinsims/clockout-knowledge-base/git/blobs/5b8919844f224247a1722b2ddaa97c0182a8b2d3"
+    },
+    {
+      "path": "docs/10-reference-and-archive",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "c097ba6da85b028e69a4131bf5245e154ac5ad27",
+      "url": "https://api.github.com/repos/donovinsims/clockout-knowledge-base/git/trees/c097ba6da85b028e69a4131bf5245e154ac5ad27"
+    },
+    {
+      "path": "docs/10-reference-and-archive/ACCURACY_AND_DEPTH_REVIEW.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "8f1da5348c0e2a58ea34903ef504af02b91cb695",
+      "size": 9176,
+      "url": "https://api.github.com/repos/donovinsims/clockout-knowledge-base/git/blobs/8f1da5348c0e2a58ea34903ef504af02b91cb695"
+    },
+    {
+      "path": "docs/10-reference-and-archive/CONSOLIDATION_REPORT.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "c921a6fd8c1c25a4f7a0f4b687a5192077e18579",
+      "size": 6845,
+      "url": "https://api.github.com/repos/donovinsims/clockout-knowledge-base/git/blobs/c921a6fd8c1c25a4f7a0f4b687a5192077e18579"
+    },
+    {
+      "path": "docs/10-reference-and-archive/COVERAGE_AND_GAPS.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "a752159a3c56441d5fc8d58c5ba36ab17d84f984",
+      "size": 4409,
+      "url": "https://api.github.com/repos/donovinsims/clockout-knowledge-base/git/blobs/a752159a3c56441d5fc8d58c5ba36ab17d84f984"
+    },
+    {
+      "path": "docs/10-reference-and-archive/FUNCTIONAL_SCENARIOS.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "841bfbfbc138a4e9056dcb54a97615f5b22817a2",
+      "size": 10895,
+      "url": "https://api.github.com/repos/donovinsims/clockout-knowledge-base/git/blobs/841bfbfbc138a4e9056dcb54a97615f5b22817a2"
+    },
+    {
+      "path": "docs/10-reference-and-archive/MENTOR_LIBRARY.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "60bdf190705a56d3c454d92d3779cff67eadebdd",
+      "size": 1177,
+      "url": "https://api.github.com/repos/donovinsims/clockout-knowledge-base/git/blobs/60bdf190705a56d3c454d92d3779cff67eadebdd"
+    },
+    {
+      "path": "docs/10-reference-and-archive/OPERATING_SYSTEM_IMPROVEMENT_REPORT.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "c9c061a84b986ab736dd645612ff454618b5b7b4",
+      "size": 8999,
+      "url": "https://api.github.com/repos/donovinsims/clockout-knowledge-base/git/blobs/c9c061a84b986ab736dd645612ff454618b5b7b4"
+    },
+    {
+      "path": "docs/10-reference-and-archive/OPERATING_SYSTEM_VALIDATION.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "711872b31f9ebbbd6b41b1ff662cd739cee555f8",
+      "size": 3312,
+      "url": "https://api.github.com/repos/donovinsims/clockout-knowledge-base/git/blobs/711872b31f9ebbbd6b41b1ff662cd739cee555f8"
+    },
+    {
+      "path": "docs/10-reference-and-archive/PROVENANCE.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "263201279dbe164de134ebe0b05b213880f0234e",
+      "size": 4386,
+      "url": "https://api.github.com/repos/donovinsims/clockout-knowledge-base/git/blobs/263201279dbe164de134ebe0b05b213880f0234e"
+    },
+    {
+      "path": "docs/10-reference-and-archive/README.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "7d63ba3e5882162be12015a05b5e70f34c58864d",
+      "size": 2427,
+      "url": "https://api.github.com/repos/donovinsims/clockout-knowledge-base/git/blobs/7d63ba3e5882162be12015a05b5e70f34c58864d"
+    },
+    {
+      "path": "docs/10-reference-and-archive/SOURCE_REGISTER.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "76423b073befa9d21a6f0102dde167cadc5b471f",
+      "size": 6930,
+      "url": "https://api.github.com/repos/donovinsims/clockout-knowledge-base/git/blobs/76423b073befa9d21a6f0102dde167cadc5b471f"
+    },
+    {
+      "path": "docs/10-reference-and-archive/VALIDATION.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "ab289e912ed7caa404831ff1b3c8f2c4ea79a6e8",
+      "size": 3183,
+      "url": "https://api.github.com/repos/donovinsims/clockout-knowledge-base/git/blobs/ab289e912ed7caa404831ff1b3c8f2c4ea79a6e8"
+    },
+    {
+      "path": "docs/10-reference-and-archive/claims.yaml",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "a1c5dc31864d04e66e199e6ab1f97ee8f03dbca0",
+      "size": 5576,
+      "url": "https://api.github.com/repos/donovinsims/clockout-knowledge-base/git/blobs/a1c5dc31864d04e66e199e6ab1f97ee8f03dbca0"
+    },
+    {
+      "path": "docs/10-reference-and-archive/file-coverage.csv",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "bb93f38b618f7b23d95a30b9613a6bfdbcea7010",
+      "size": 37818,
+      "url": "https://api.github.com/repos/donovinsims/clockout-knowledge-base/git/blobs/bb93f38b618f7b23d95a30b9613a6bfdbcea7010"
+    },
+    {
+      "path": "docs/10-reference-and-archive/file-disposition.csv",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "a9496b2f35da9ae544404aa164a4e492f4b29ce1",
+      "size": 44852,
+      "url": "https://api.github.com/repos/donovinsims/clockout-knowledge-base/git/blobs/a9496b2f35da9ae544404aa164a4e492f4b29ce1"
+    },
+    {
+      "path": "docs/10-reference-and-archive/input-archives.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "79170510ee095620aec41c548a73cca4d3ee99c8",
+      "size": 874,
+      "url": "https://api.github.com/repos/donovinsims/clockout-knowledge-base/git/blobs/79170510ee095620aec41c548a73cca4d3ee99c8"
+    },
+    {
+      "path": "docs/10-reference-and-archive/reference-library-inventory.csv",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "e61a2fbc356bd111f0249e36a6b7351a7cbe42ce",
+      "size": 12709,
+      "url": "https://api.github.com/repos/donovinsims/clockout-knowledge-base/git/blobs/e61a2fbc356bd111f0249e36a6b7351a7cbe42ce"
+    },
+    {
+      "path": "docs/10-reference-and-archive/source-extracts",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "20b3aae49253b1ed7f16b6be47428648f6a0e758",
+      "url": "https://api.github.com/repos/donovinsims/clockout-knowledge-base/git/trees/20b3aae49253b1ed7f16b6be47428648f6a0e758"
+    },
+    {
+      "path": "docs/10-reference-and-archive/source-extracts/L01.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "c7732b3a6e1a5d8f8d7855328578d351ea33411a",
+      "size": 16892,
+      "url": "https://api.github.com/repos/donovinsims/clockout-knowledge-base/git/blobs/c7732b3a6e1a5d8f8d7855328578d351ea33411a"
+    },
+    {
+      "path": "docs/10-reference-and-archive/source-extracts/L02.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "31992b0ea8206c27219fa543f6671180991d4e04",
+      "size": 3221,
+      "url": "https://api.github.com/repos/donovinsims/clockout-knowledge-base/git/blobs/31992b0ea8206c27219fa543f6671180991d4e04"
+    },
+    {
+      "path": "docs/10-reference-and-archive/source-extracts/L03.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "d53b2e23d57f63ba96ef6986d73b03c73fa64685",
+      "size": 7693,
+      "url": "https://api.github.com/repos/donovinsims/clockout-knowledge-base/git/blobs/d53b2e23d57f63ba96ef6986d73b03c73fa64685"
+    },
+    {
+      "path": "docs/10-reference-and-archive/source-extracts/L04.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "7d1efa4e64fe57720f44343756f7b57d36b207ed",
+      "size": 7390,
+      "url": "https://api.github.com/repos/donovinsims/clockout-knowledge-base/git/blobs/7d1efa4e64fe57720f44343756f7b57d36b207ed"
+    },
+    {
+      "path": "docs/10-reference-and-archive/source-extracts/L05.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "64fccb1b66d6e17a2e6c44844a61740391a4bde3",
+      "size": 5075,
+      "url": "https://api.github.com/repos/donovinsims/clockout-knowledge-base/git/blobs/64fccb1b66d6e17a2e6c44844a61740391a4bde3"
+    },
+    {
+      "path": "docs/10-reference-and-archive/source-extracts/L06.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "3ae426653f642bbd8b353b767ee3e24ecc49858f",
+      "size": 5450,
+      "url": "https://api.github.com/repos/donovinsims/clockout-knowledge-base/git/blobs/3ae426653f642bbd8b353b767ee3e24ecc49858f"
+    },
+    {
+      "path": "docs/10-reference-and-archive/source-extracts/L07.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "d4a085a4f179e1bb67311427032645619a8f9e42",
+      "size": 2386,
+      "url": "https://api.github.com/repos/donovinsims/clockout-knowledge-base/git/blobs/d4a085a4f179e1bb67311427032645619a8f9e42"
+    },
+    {
+      "path": "docs/10-reference-and-archive/source-extracts/L08.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "17db50caa03874023f177131cff720bb3c173df8",
+      "size": 5383,
+      "url": "https://api.github.com/repos/donovinsims/clockout-knowledge-base/git/blobs/17db50caa03874023f177131cff720bb3c173df8"
+    },
+    {
+      "path": "docs/10-reference-and-archive/source-extracts/L09.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "70946dfbf09cc1c6ab0a811ff8cadbcd4aa77921",
+      "size": 10146,
+      "url": "https://api.github.com/repos/donovinsims/clockout-knowledge-base/git/blobs/70946dfbf09cc1c6ab0a811ff8cadbcd4aa77921"
+    },
+    {
+      "path": "docs/10-reference-and-archive/source-extracts/L10.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "71d63d8e48853ac44730a5e538c2207033c417e8",
+      "size": 969,
+      "url": "https://api.github.com/repos/donovinsims/clockout-knowledge-base/git/blobs/71d63d8e48853ac44730a5e538c2207033c417e8"
+    },
+    {
+      "path": "docs/10-reference-and-archive/source-extracts/S01.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "141f058a81c084f4325c3ccd60ceb794fc120234",
+      "size": 3916,
+      "url": "https://api.github.com/repos/donovinsims/clockout-knowledge-base/git/blobs/141f058a81c084f4325c3ccd60ceb794fc120234"
+    },
+    {
+      "path": "docs/10-reference-and-archive/source-extracts/S02.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "d1b3c2a43f9e50f7ea65b7b172a8f5a3fd30608c",
+      "size": 3029,
+      "url": "https://api.github.com/repos/donovinsims/clockout-knowledge-base/git/blobs/d1b3c2a43f9e50f7ea65b7b172a8f5a3fd30608c"
+    },
+    {
+      "path": "docs/10-reference-and-archive/source-extracts/S03.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "84a2f565e59f940adc8c4aaa232654a4d5f90e71",
+      "size": 887,
+      "url": "https://api.github.com/repos/donovinsims/clockout-knowledge-base/git/blobs/84a2f565e59f940adc8c4aaa232654a4d5f90e71"
+    },
+    {
+      "path": "docs/10-reference-and-archive/source-extracts/S04.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "f699560b62f5d7b4d841ec9e20b3c7a77643bead",
+      "size": 9375,
+      "url": "https://api.github.com/repos/donovinsims/clockout-knowledge-base/git/blobs/f699560b62f5d7b4d841ec9e20b3c7a77643bead"
+    },
+    {
+      "path": "docs/10-reference-and-archive/source-extracts/S05.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "abd90cec092c96528d43d3828b1f64f2f728dbd9",
+      "size": 685,
+      "url": "https://api.github.com/repos/donovinsims/clockout-knowledge-base/git/blobs/abd90cec092c96528d43d3828b1f64f2f728dbd9"
+    },
+    {
+      "path": "docs/10-reference-and-archive/source-extracts/S06.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "12ee86e8b56c5877df3195ef5a9104b6d1b4dead",
+      "size": 2359,
+      "url": "https://api.github.com/repos/donovinsims/clockout-knowledge-base/git/blobs/12ee86e8b56c5877df3195ef5a9104b6d1b4dead"
+    },
+    {
+      "path": "docs/10-reference-and-archive/source-extracts/S07.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "260ec5fdcaf47990609b34d4605c322575fd272b",
+      "size": 877,
+      "url": "https://api.github.com/repos/donovinsims/clockout-knowledge-base/git/blobs/260ec5fdcaf47990609b34d4605c322575fd272b"
+    },
+    {
+      "path": "docs/10-reference-and-archive/source-extracts/S08.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "e9ebb3d841e46f9a35cbdfca07e351030bfadae0",
+      "size": 1585,
+      "url": "https://api.github.com/repos/donovinsims/clockout-knowledge-base/git/blobs/e9ebb3d841e46f9a35cbdfca07e351030bfadae0"
+    },
+    {
+      "path": "docs/10-reference-and-archive/source-extracts/S09.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "52027607213f1410a50b2d0c45d2f96d8dd06355",
+      "size": 1541,
+      "url": "https://api.github.com/repos/donovinsims/clockout-knowledge-base/git/blobs/52027607213f1410a50b2d0c45d2f96d8dd06355"
+    },
+    {
+      "path": "docs/10-reference-and-archive/source-extracts/S10.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "9f3846992a7e41b964cb80d44a82613a0c2b2327",
+      "size": 5352,
+      "url": "https://api.github.com/repos/donovinsims/clockout-knowledge-base/git/blobs/9f3846992a7e41b964cb80d44a82613a0c2b2327"
+    },
+    {
+      "path": "docs/10-reference-and-archive/source-extracts/S11.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "1bf26fe543c5684401f43ebef3c33a39cca5b7eb",
+      "size": 6341,
+      "url": "https://api.github.com/repos/donovinsims/clockout-knowledge-base/git/blobs/1bf26fe543c5684401f43ebef3c33a39cca5b7eb"
+    },
+    {
+      "path": "docs/10-reference-and-archive/source-extracts/S12.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "5cc6104d428c3c11b13a916f9638f97f42c82cdc",
+      "size": 920,
+      "url": "https://api.github.com/repos/donovinsims/clockout-knowledge-base/git/blobs/5cc6104d428c3c11b13a916f9638f97f42c82cdc"
+    },
+    {
+      "path": "docs/10-reference-and-archive/source-extracts/S13.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "1a04c66b9cbc341c2bd4f3103effc365898e6b7e",
+      "size": 1335,
+      "url": "https://api.github.com/repos/donovinsims/clockout-knowledge-base/git/blobs/1a04c66b9cbc341c2bd4f3103effc365898e6b7e"
+    },
+    {
+      "path": "docs/10-reference-and-archive/source-extracts/S14.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "a6082c072763b0f4ca5044092e4f04b2e4405287",
+      "size": 860,
+      "url": "https://api.github.com/repos/donovinsims/clockout-knowledge-base/git/blobs/a6082c072763b0f4ca5044092e4f04b2e4405287"
+    },
+    {
+      "path": "docs/10-reference-and-archive/source-extracts/S15.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "bd226034df1666a0fc0bf8b7e26be700e7e1fa2c",
+      "size": 866,
+      "url": "https://api.github.com/repos/donovinsims/clockout-knowledge-base/git/blobs/bd226034df1666a0fc0bf8b7e26be700e7e1fa2c"
+    },
+    {
+      "path": "docs/10-reference-and-archive/source-extracts/S16.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "c144e010b0225134511aa3c5a48176d029f334c7",
+      "size": 3172,
+      "url": "https://api.github.com/repos/donovinsims/clockout-knowledge-base/git/blobs/c144e010b0225134511aa3c5a48176d029f334c7"
+    },
+    {
+      "path": "docs/10-reference-and-archive/source-extracts/U02.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "b3b2fff59a236310fef814c71d61c5d770263e0b",
+      "size": 1512,
+      "url": "https://api.github.com/repos/donovinsims/clockout-knowledge-base/git/blobs/b3b2fff59a236310fef814c71d61c5d770263e0b"
+    },
+    {
+      "path": "docs/10-reference-and-archive/source-extracts/U03.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "aec785e6b7f6f4ddca722a0b47dd54d9b7e84c05",
+      "size": 1317,
+      "url": "https://api.github.com/repos/donovinsims/clockout-knowledge-base/git/blobs/aec785e6b7f6f4ddca722a0b47dd54d9b7e84c05"
+    },
+    {
+      "path": "docs/10-reference-and-archive/source-extracts/U04.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "eb1c5fabb9e2ecbdc13cb075c51dd0134edc5dd4",
+      "size": 2108,
+      "url": "https://api.github.com/repos/donovinsims/clockout-knowledge-base/git/blobs/eb1c5fabb9e2ecbdc13cb075c51dd0134edc5dd4"
+    },
+    {
+      "path": "docs/10-reference-and-archive/source-register.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "5f8e1a6f9d5d025d1c2759af065f95e53e60b214",
+      "size": 25106,
+      "url": "https://api.github.com/repos/donovinsims/clockout-knowledge-base/git/blobs/5f8e1a6f9d5d025d1c2759af065f95e53e60b214"
+    },
+    {
+      "path": "docs/10-reference-and-archive/templates",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "bd1f26f4ff74276276d642e5310f99e741bb84cb",
+      "url": "https://api.github.com/repos/donovinsims/clockout-knowledge-base/git/trees/bd1f26f4ff74276276d642e5310f99e741bb84cb"
+    },
+    {
+      "path": "docs/10-reference-and-archive/templates/cash-tracker.csv",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "3f9ce33240538ac196975ec4f528ea50144c2946",
+      "size": 198,
+      "url": "https://api.github.com/repos/donovinsims/clockout-knowledge-base/git/blobs/3f9ce33240538ac196975ec4f528ea50144c2946"
+    },
+    {
+      "path": "docs/10-reference-and-archive/templates/client-brief-and-discovery.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "27b50bb4d4e3ddcf03d8962bd901178beaa8e667",
+      "size": 1164,
+      "url": "https://api.github.com/repos/donovinsims/clockout-knowledge-base/git/blobs/27b50bb4d4e3ddcf03d8962bd901178beaa8e667"
+    },
+    {
+      "path": "docs/10-reference-and-archive/templates/delivery-and-handoff.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "e6987e6b3787547ee7f4e86eb48adb4df6f7aab2",
+      "size": 1029,
+      "url": "https://api.github.com/repos/donovinsims/clockout-knowledge-base/git/blobs/e6987e6b3787547ee7f4e86eb48adb4df6f7aab2"
+    },
+    {
+      "path": "docs/10-reference-and-archive/templates/outreach-and-follow-up.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "789f7f95d961562abd5be89a77fe6d3104f22c2e",
+      "size": 1366,
+      "url": "https://api.github.com/repos/donovinsims/clockout-knowledge-base/git/blobs/789f7f95d961562abd5be89a77fe6d3104f22c2e"
+    },
+    {
+      "path": "docs/10-reference-and-archive/templates/prospect-and-free-look.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "e2da69397ad0aecfce99292107c98e976ca6b362",
+      "size": 1220,
+      "url": "https://api.github.com/repos/donovinsims/clockout-knowledge-base/git/blobs/e2da69397ad0aecfce99292107c98e976ca6b362"
+    },
+    {
+      "path": "docs/10-reference-and-archive/templates/review-and-decision.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "6148ee4f7be7ec16b26b74dc1358f04b371691ca",
+      "size": 1311,
+      "url": "https://api.github.com/repos/donovinsims/clockout-knowledge-base/git/blobs/6148ee4f7be7ec16b26b74dc1358f04b371691ca"
+    },
+    {
+      "path": "docs/10-reference-and-archive/templates/scope-and-proposal.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "9d687b93c4c8675822f642e1281beed2bb716036",
+      "size": 2094,
+      "url": "https://api.github.com/repos/donovinsims/clockout-knowledge-base/git/blobs/9d687b93c4c8675822f642e1281beed2bb716036"
+    },
+    {
+      "path": "docs/10-reference-and-archive/templates/sprint-tracker.csv",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "bf3715ae94fa55c9b4dab88bf01fb818c41b599f",
+      "size": 137,
+      "url": "https://api.github.com/repos/donovinsims/clockout-knowledge-base/git/blobs/bf3715ae94fa55c9b4dab88bf01fb818c41b599f"
+    },
+    {
+      "path": "docs/10-reference-and-archive/templates/tool-cost-register.csv",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "674cfb724d68c790a6c7ae722804aec9d08af471",
+      "size": 110,
+      "url": "https://api.github.com/repos/donovinsims/clockout-knowledge-base/git/blobs/674cfb724d68c790a6c7ae722804aec9d08af471"
+    },
+    {
+      "path": "docs/10-reference-and-archive/templates/update-prompt.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "fe60108c2070b2d884abb207967bea565ed0f5b3",
+      "size": 1629,
+      "url": "https://api.github.com/repos/donovinsims/clockout-knowledge-base/git/blobs/fe60108c2070b2d884abb207967bea565ed0f5b3"
+    },
+    {
+      "path": "docs/10-reference-and-archive/templates/website-project-forms.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "9988e84ee350a39a2dd277caa2a0a0601b1505d1",
+      "size": 4966,
+      "url": "https://api.github.com/repos/donovinsims/clockout-knowledge-base/git/blobs/9988e84ee350a39a2dd277caa2a0a0601b1505d1"
+    },
+    {
+      "path": "docs/10-reference-and-archive/templates/weekly-review.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "d81e9974e36565693df2f32888023657f187899f",
+      "size": 1017,
+      "url": "https://api.github.com/repos/donovinsims/clockout-knowledge-base/git/blobs/d81e9974e36565693df2f32888023657f187899f"
+    },
+    {
+      "path": "docs/10-reference-and-archive/validate_master.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "31cd036809cd3e565a2cc9bb3f592696f85bc7bf",
+      "size": 6022,
+      "url": "https://api.github.com/repos/donovinsims/clockout-knowledge-base/git/blobs/31cd036809cd3e565a2cc9bb3f592696f85bc7bf"
+    },
+    {
+      "path": "docs/10-reference-and-archive/validation-results.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "78c33c86d749a42bf90bfe670c7e3664e1760d16",
+      "size": 193,
+      "url": "https://api.github.com/repos/donovinsims/clockout-knowledge-base/git/blobs/78c33c86d749a42bf90bfe670c7e3664e1760d16"
+    },
+    {
+      "path": "docs/AGENTS.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "5348f7ca9db361108070bd67ef1ef70f16b3a61c",
+      "size": 6054,
+      "url": "https://api.github.com/repos/donovinsims/clockout-knowledge-base/git/blobs/5348f7ca9db361108070bd67ef1ef70f16b3a61c"
+    },
+    {
+      "path": "docs/CHANGELOG.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "5e5da3abc0786e4571ffcce72f2970b9b6738ba0",
+      "size": 9039,
+      "url": "https://api.github.com/repos/donovinsims/clockout-knowledge-base/git/blobs/5e5da3abc0786e4571ffcce72f2970b9b6738ba0"
+    },
+    {
+      "path": "docs/CHECKPOINT.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "52a7ce90b217f5f0ac081c5c536bc106c0ed7053",
+      "size": 3425,
+      "url": "https://api.github.com/repos/donovinsims/clockout-knowledge-base/git/blobs/52a7ce90b217f5f0ac081c5c536bc106c0ed7053"
+    },
+    {
+      "path": "docs/CURRENT_STATE.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "21d0f787a3ad066aa7d49a2b6faa8f153ccb58cf",
+      "size": 5592,
+      "url": "https://api.github.com/repos/donovinsims/clockout-knowledge-base/git/blobs/21d0f787a3ad066aa7d49a2b6faa8f153ccb58cf"
+    },
+    {
+      "path": "docs/DOCS_MAINTENANCE.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "12d2f6acb38fded11c4548b19ceb03ae5f6a0b5f",
+      "size": 4746,
+      "url": "https://api.github.com/repos/donovinsims/clockout-knowledge-base/git/blobs/12d2f6acb38fded11c4548b19ceb03ae5f6a0b5f"
+    },
+    {
+      "path": "docs/OPEN_DECISIONS.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "d744bd226179aa20bd73ea7af114f67c9211c9bf",
+      "size": 12553,
+      "url": "https://api.github.com/repos/donovinsims/clockout-knowledge-base/git/blobs/d744bd226179aa20bd73ea7af114f67c9211c9bf"
+    },
+    {
+      "path": "docs/README.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "c6044a3b45386200f284e2d500d65062a126bdf5",
+      "size": 6807,
+      "url": "https://api.github.com/repos/donovinsims/clockout-knowledge-base/git/blobs/c6044a3b45386200f284e2d500d65062a126bdf5"
+    },
+    {
+      "path": "docs/SHA256SUMS",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "fa34b40887b5b67cb6127188f9153c0cdccd7baf",
+      "size": 10425,
+      "url": "https://api.github.com/repos/donovinsims/clockout-knowledge-base/git/blobs/fa34b40887b5b67cb6127188f9153c0cdccd7baf"
+    },
+    {
+      "path": "docs/manifest.yaml",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "6a572d99896292a8bbb142c925f67dc1fdb2b745",
+      "size": 1685,
+      "url": "https://api.github.com/repos/donovinsims/clockout-knowledge-base/git/blobs/6a572d99896292a8bbb142c925f67dc1fdb2b745"
+    }
+  ],
+  "truncated": false
+}

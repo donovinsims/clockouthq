@@ -1,0 +1,28 @@
+{
+  "schema_version": "1.0",
+  "profile_id": "donovin-sims",
+  "name": "Donovin Sims",
+  "profile_file": "voice-clone/profiles/donovin-sims/donovin-voice-profile.yaml",
+  "own_corpus": "voice-clone/profiles/donovin-sims/data/corpus.jsonl",
+  "own_stats": "voice-clone/profiles/donovin-sims/data/stats.json",
+  "reference_corpora": [
+    {
+      "author_id": "corey-ganim",
+      "path": "voice-clone/profiles/corey-ganim/data/corpus.jsonl",
+      "use": "structure_only_never_identity"
+    }
+  ],
+  "reference_stats": "voice-clone/profiles/corey-ganim/data/stats.json",
+  "authentic_posts_ingested": 0,
+  "status": "initial_adopted_style_not_measured_Donovin_voice",
+  "as_of": "2026-11-01",
+  "reference_archive_index": "voice-clone/profiles/corey-ganim/source-archive/index.json",
+  "draft_history": "voice-clone/profiles/donovin-sims/data/draft-history.jsonl",
+  "reference_retrieval": {
+    "default_examples": 4,
+    "mode": "balanced",
+    "authorship": "style_and_structure_only",
+    "performance": "secondary signal within relevant format shortlist"
+  },
+  "reference_provenance": "voice-clone/profiles/corey-ganim/data/source-provenance.json"
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": "1.0",
+  "active_profile": "donovin-sims",
+  "status": "initial_target_not_measured_history",
+  "mix": {
+    "practical_education": 60,
+    "agents_tools_builds": 20,
+    "business_operations": 15,
+    "founder_journey": 5
+  },
+  "planning_window": 20,
+  "primary_purpose_only": true,
+  "review": "Adjust only from owner decisions and observed results; no engagement guarantees."
+}

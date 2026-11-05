@@ -1,0 +1,13 @@
+{
+ "id": "P001",
+ "buys": false,
+ "purchases_first_month": 0,
+ "reason_code": "trust",
+ "reason": "I decide fast when I trust the guy, and I do not know Donovin yet - an hour of my day in the middle of jobs to hear what is wrong with my setup feels like the start of a sales pitch, not a favor. And I am not letting someone AI touch the phone when a wrong answer costs me a repeat customer.",
+ "objection": "I cannot have a robot saying the wrong thing to my customers - and I do not know what I would actually be paying $1,500 to $3,500 for until after the free hour, which is the part that sounds like the setup.",
+ "would_change_my_mind": "A couple of owners I know in the area telling me straight that he looked at their setup and told them to change a process instead of selling them something - one name I trust, and I would take the meeting and probably decide on the spot.",
+ "price_too_cheap": 300,
+ "price_cheap": 1200,
+ "price_expensive": 2500,
+ "price_too_expensive": 3500
+}

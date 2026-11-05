@@ -1,0 +1,84 @@
+{
+ "import_events": {
+  "X_JSON_2026-10-30:new": 340,
+  "X_CSV_2026-10-30:duplicate": 340,
+  "XLSX_2026-08-17:duplicate": 115,
+  "XLSX_2026-08-17:new": 38,
+  "XLSX_2026-08-17:excluded": 69,
+  "ARCHIVE_posts.json:new": 4,
+  "ARCHIVE_posts.json:duplicate": 26,
+  "ARCHIVE_six-month-posts.json:duplicate": 31,
+  "ARCHIVE_six-month-posts.json:new": 3,
+  "CURATED_TOP_2026-10-13:new": 11,
+  "CURATED_TOP_2026-10-13:duplicate": 18,
+  "ARTICLE_FULLTEXT:duplicate": 12,
+  "THREAD_ROOT:new": 9
+ },
+ "unique_originals": 405,
+ "formats": {
+  "article": 12,
+  "thread": 10,
+  "long": 228,
+  "quote": 109,
+  "short": 46
+ },
+ "dates_missing": 0,
+ "text_conflicts_prefer_longest": [
+  [
+   "2094066129790755304",
+   "ARCHIVE_posts.json",
+   23,
+   12170
+  ],
+  [
+   "2084974468347121940",
+   "ARCHIVE_posts.json",
+   23,
+   10426
+  ],
+  [
+   "2078058885257076908",
+   "ARCHIVE_posts.json",
+   23,
+   6022
+  ],
+  [
+   "2095505027536224349",
+   "ARCHIVE_posts.json",
+   23,
+   12890
+  ],
+  [
+   "2093074260361347474",
+   "ARCHIVE_posts.json",
+   23,
+   9876
+  ],
+  [
+   "2087907515795443846",
+   "ARCHIVE_posts.json",
+   23,
+   12192
+  ],
+  [
+   "2100948018434281701",
+   "ARCHIVE_posts.json",
+   23,
+   12890
+  ],
+  [
+   "2089766791321133401",
+   "ARCHIVE_posts.json",
+   23,
+   10807
+  ],
+  [
+   "2112577969617092879",
+   "ARCHIVE_posts.json",
+   23,
+   7705
+  ]
+ ],
+ "number_text_conflicts": 9,
+ "old_export_is_snapshot": true
+}

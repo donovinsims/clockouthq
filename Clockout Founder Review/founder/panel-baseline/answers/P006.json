@@ -1,0 +1,13 @@
+{
+ "id": "P006",
+ "buys": false,
+ "purchases_first_month": 0,
+ "reason_code": "price",
+ "reason": "Thirty-five hundred bucks is two months of what I would pay a bookkeeper, and I cannot see the number he would save me until after I have already given him an hour I do not have. Free look sounds like a sales call, and I do those from the truck or not at all.",
+ "objection": "He quotes his fee before he has seen my books, so $1,500 to $3,500 is a guess I am the one holding. I need to know what the fix is and what it saves me per month in actual dollars before I sign anything.",
+ "would_change_my_mind": "A flat number in writing up front and one of my own vendors or landlords telling me it paid for itself in the first 60 days.",
+ "price_too_cheap": 0,
+ "price_cheap": 300,
+ "price_expensive": 1500,
+ "price_too_expensive": 3500
+}

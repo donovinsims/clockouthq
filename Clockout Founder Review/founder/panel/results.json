@@ -1,0 +1,178 @@
+{
+ "business": "Clockout (Donovin Sims, Roscoe IL) — business optimization and AI implementation for owner-led local businesses",
+ "seed": 4242,
+ "dealt": 20,
+ "answered": 20,
+ "skipped": [],
+ "buys": 4,
+ "passes": 16,
+ "buy_rate": 0.2,
+ "by_segment": [
+  [
+   "Owner of a 10-25 person service business (multi-crew trades, dental/medical office, retail, property services)",
+   5,
+   0.4
+  ],
+  [
+   "Independent operator or solo professional (single truck, solo agent, one-chair shop)",
+   4,
+   0.25
+  ],
+  [
+   "Owner of a 2-9 person trade or home-service business (HVAC, plumbing, electrical, landscaping, cleaning, auto, restoration)",
+   8,
+   0.125
+  ],
+  [
+   "Small property manager or portfolio operator (40-200 units)",
+   3,
+   0.0
+  ]
+ ],
+ "by_behaviour": [
+  [
+   "Fast decider when trust is there",
+   2,
+   0.5
+  ],
+  [
+   "Burned before by a marketing agency",
+   4,
+   0.5
+  ],
+  [
+   "Referral-only buyer",
+   4,
+   0.25
+  ],
+  [
+   "AI skeptic",
+   2,
+   0.0
+  ],
+  [
+   "Price-first deal hunter",
+   3,
+   0.0
+  ],
+  [
+   "Software collector",
+   2,
+   0.0
+  ],
+  [
+   "Do-it-myself owner",
+   3,
+   0.0
+  ]
+ ],
+ "by_income": [
+  [
+   "$94,000 to $139,000",
+   7,
+   0.2857142857142857
+  ],
+  [
+   "$139,000 and up",
+   7,
+   0.2857142857142857
+  ],
+  [
+   "under $94,000",
+   6,
+   0.0
+  ]
+ ],
+ "why_not": [
+  [
+   "trust",
+   9,
+   [
+    "The free one-pager is the only part I would take him up on, and even that I would probably skim and delete. I have had three guys promise to fix my workflow and none of them knew my customers like I do.",
+    "The one-page free look is fine, I would read it Monday morning with my coffee, and it costs me nothing. But paying $250 up front to a guy I met once, out of Roscoe, to touch my quotes and my missed-call log, that is not this month."
+   ],
+   [
+    "P003",
+    "P004"
+   ]
+  ],
+  [
+   "habit",
+   4,
+   [
+    "I have bought enough software that promised to save me time and now I barely open half of it, the follow-up and the Monday paperwork get done by me at 11pm because I already know how. The free page is nice, but $950 to $2,500 is real money for something I would probably end up maintaining myself.",
+    "I already built my own site and set up my own software at 11pm, so paying someone $950 to $2,500 to redo a chunk of it stings. The free page would get read on a Monday between invoices and payroll, but I would file it in the do-it-myself pile."
+   ],
+   [
+    "P010",
+    "P012"
+   ]
+  ],
+  [
+   "price",
+   2,
+   [
+    "I will read the free page if it shows up on my phone, but $950 for one fix is not something I am cutting a check for when I do not even know what is broke. I would rather chase the quotes myself than pay somebody to tell me my follow-up is bad.",
+    "The free page costs me nothing so I would read it, but $950 to $2,500 is real money for something I cannot see yet, and in a normal week I have got a truck payment and two quotes out that matter more."
+   ],
+   [
+    "P018",
+    "P019"
+   ]
+  ],
+  [
+   "timing",
+   1,
+   [
+    "I already pay for a CRM, a scheduler and a review tool I barely touch, so another offer in my inbox does not move me. This one is at least a flat fee with a written test instead of a monthly bill, but nothing is hurting bad enough this week to chase it."
+   ],
+   [
+    "P007"
+   ]
+  ]
+ ],
+ "why_yes": [
+  [
+   "trust",
+   3,
+   [
+    "The free one-pager costs me nothing and he is local out of Roscoe, so I would let him send it. But I do not hand $250 to a stranger off a cold pitch in a normal week, I would read the page first and see if he actually knows HVAC work.",
+    "Free one-pager on my own business and no meeting to get it, that costs me nothing but a read on Monday. The price is written down before he starts and I only pay the balance if it passes the test, so the risk sits on his side, not mine."
+   ],
+   [
+    "P001",
+    "P009"
+   ]
+  ],
+  [
+   "need",
+   1,
+   [
+    "The quote follow-up and missed-call log is my actual problem, jobs leak out the back door every week and I know it. He is asking for a page on my business before any meeting, and the balance is held back until a test passes, so the risk on the front end is my time, not a retainer check. I would bite on the $950 narrow fix first, not the $2,500 workflow."
+   ],
+   [
+    "P002"
+   ]
+  ]
+ ],
+ "flip": [
+  "If he sent me that one-pager and it named the exact jobs I lost last month, real numbers off my own missed-call log, and a neighbor I know said he fixed theirs for the $950 without any funny business.",
+  "Two things together: a local reference I can actually call, another trades or dental office owner within an hour of Rockford who will tell me what it did and what it broke, and letting me pay the whole $950 only after I see it run for 30 days on my real missed-call log.",
+  "A name I actually know, a plumbing or HVAC owner within a half hour of me who paid him and can tell me what it did to their callbacks, and I would read the page before he calls me.",
+  "A fixed, small first step I can see the work on before paying anything, like a free one-pager on one of my actual properties plus a flat $250 trial on something blind-spot simple, like missed-call follow-up, with the test written in plain numbers (X calls returned in Y hours) and a reference from a property manager near me who will take my call.",
+  "One of my two owner buddies at the supply house telling me you actually fixed their quotes follow-up and it stuck after 30 days.",
+  "A five-minute call with one other owner in the area, a plumber or another one-truck guy I could actually call, who says the missed-call fix put real booked jobs on his calendar, plus a test written in jobs and dollars, not deliverables, so I can tell if it failed.",
+  "A one-page write-up on my actual business that names something costing me money I had not spotted, plus one client in northern Illinois about my size who will take my call about whether the balance really was not charged.",
+  "An owner I actually know in the trade, someone in my county, with my kind of crew size, telling me Donovin fixed their follow-up or their missed-call log and it stuck. A name and number I can call, not a testimonial page.",
+  "See the written test up front, spelled out in numbers I agree to, before I pay a dollar. If it is specific to missed calls turned into booked jobs, and you show me one local business it worked for, I would probably buy the $950 fix.",
+  "If the free one-pager named a specific dollar figure I am actually losing, quotes going cold, calls sitting in the missed-call log, and it matched what I know is true, then $950 for one narrow fix with the balance held until it passes a written test might be worth a shot.",
+  "Show me a written before-and-after from another landlord or property manager near me, same unit count, the actual dollars and hours, with a phone number I can call.",
+  "If he fixed one thing for free or no money down until the written test passes and it actually worked on a shop I know, I would take him seriously.",
+  "A referral from someone I trust in the trades who used him and says the fix is still holding months later, then I would read the page and talk.",
+  "A free page that names a specific number I am losing every month, say $2,800 in quotes that went cold, and a flat price under $500 with nothing up front until I see it work.",
+  "Show me the one page on my own numbers first, with a hard dollar figure on the quotes I am losing, and let me pay the whole $950 at the end after it passes instead of $250 up front.",
+  "If he showed me the actual words that would go out to my customers, sitting on my own phone, and let me keep my hands on the send button for the first month while he walks me through it, then I would talk about the $950."
+ ],
+ "purchases_first_month_per_buyer": 300.25,
+ "price_answers": 20
+}

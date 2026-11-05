@@ -1,0 +1,13 @@
+{
+ "id": "P003",
+ "buys": false,
+ "purchases_first_month": 0,
+ "reason_code": "trust",
+ "reason": "The pitch is straight, and I like that he says he will tell me to fix a process instead of selling me something new. But I do not know him, and my customers are my whole business.",
+ "objection": "A robot saying the wrong thing to a customer on the phone would cost me more than whatever time I am losing now.",
+ "would_change_my_mind": "A name, a local number, and a guy who will come stand in my shop and show me exactly what he would change before I pay a dime.",
+ "price_too_cheap": 500,
+ "price_cheap": 1500,
+ "price_expensive": 3000,
+ "price_too_expensive": 5000
+}

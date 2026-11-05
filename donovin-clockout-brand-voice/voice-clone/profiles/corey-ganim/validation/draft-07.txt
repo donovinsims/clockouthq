@@ -1,0 +1,18 @@
+The easiest way to build an AI service you can sell more than once:
+
+Stop starting with the software.
+
+Start with the job.
+
+Write down:
+
+-What triggers it
+-What the owner does today
+-Where information comes from
+-Who approves the final result
+-What happens when the normal process breaks
+-How you'll prove it improved
+
+Then make one version work end to end.
+
+If you need a different stack and a different custom integration for every customer, you don't have an offer you can repeat. You have an endless collection of one-off projects.

@@ -1,0 +1,541 @@
+[
+  {
+    "id": "S01",
+    "type": "bounded_chat",
+    "title": "Past Chat Retrieval",
+    "locator": "chatgpt-conversation://6ae3dc78-d940-83ea-8dca-52266bc3fd2e",
+    "event_dates": [
+      "2026-10-29"
+    ],
+    "retrieved": "2026-10-29",
+    "payload_sha256": "e4d53217799ba0bad9cf469b3e327ed40239e7c68906280ea8c78dc17f12fa50",
+    "extract": "source-extracts/S01.md",
+    "use": "Scope, cash sprint, continuity and creation authorization",
+    "limit": "Tool-visible bounded messages; attachments not included; recommendations remain attributed",
+    "master_note": "Inherited provenance; extracts minimized for portability/privacy. Original hashes retained; no current live status implied."
+  },
+  {
+    "id": "S02",
+    "type": "bounded_chat",
+    "title": "MY BUSINESS",
+    "locator": "chatgpt-conversation://6abc43c6-476c-83ea-b4cc-b933aeb20392",
+    "event_dates": [
+      "2026-09-30",
+      "2026-10-04"
+    ],
+    "retrieved": "2026-10-29",
+    "payload_sha256": "8b6b3bbca3524dd090d917f720a9277e421d91660a14ba431816be61df2574f6",
+    "extract": "source-extracts/S02.md",
+    "use": "Website/component instructions and Plane recommendations",
+    "limit": "Tool-visible bounded messages; attachments not included; recommendations remain attributed",
+    "master_note": "Inherited provenance; extracts minimized for portability/privacy. Original hashes retained; no current live status implied."
+  },
+  {
+    "id": "S03",
+    "type": "bounded_chat",
+    "title": "Review Project Status",
+    "locator": "chatgpt-conversation://6ac5329a-c28c-83ea-b8b9-6b68c01874c2",
+    "event_dates": [
+      "2026-10-07"
+    ],
+    "retrieved": "2026-10-29",
+    "payload_sha256": "285bee9158c31c36e3cd198ab4718927c08ebccace8bcff93a199ab5e10ecfdd",
+    "extract": "source-extracts/S03.md",
+    "use": "Historical Pietro project context; private operational detail excluded",
+    "limit": "Tool-visible bounded messages; attachments not included; recommendations remain attributed",
+    "master_note": "Inherited provenance; extracts minimized for portability/privacy. Original hashes retained; no current live status implied."
+  },
+  {
+    "id": "S04",
+    "type": "bounded_chat",
+    "title": "Verify Clockout Memory",
+    "locator": "chatgpt-conversation://6ace4bb6-66ac-83ea-8ad6-c17f97d129e1",
+    "event_dates": [
+      "2026-10-13"
+    ],
+    "retrieved": "2026-10-29",
+    "payload_sha256": "c64c65e91d9a63a320a0f8238d5e9b35f14170f122c295169698c95d74125f70",
+    "extract": "source-extracts/S04.md",
+    "use": "Direct owner business correction",
+    "limit": "Tool-visible bounded messages; attachments not included; recommendations remain attributed",
+    "master_note": "Inherited provenance; extracts minimized for portability/privacy. Original hashes retained; no current live status implied."
+  },
+  {
+    "id": "S05",
+    "type": "bounded_chat",
+    "title": "Update Clockout Memory",
+    "locator": "chatgpt-conversation://6ace4b8b-eebc-83ea-af5c-474205417233",
+    "event_dates": [
+      "2026-10-13"
+    ],
+    "retrieved": "2026-10-29",
+    "payload_sha256": "4041ff1de97a347eacf5b5d11a54c0917baaff53d6ba6335a47d18fc46044873",
+    "extract": "source-extracts/S05.md",
+    "use": "Business correction submission; bounded text incomplete",
+    "limit": "Tool-visible bounded messages; attachments not included; recommendations remain attributed",
+    "master_note": "Inherited provenance; extracts minimized for portability/privacy. Original hashes retained; no current live status implied."
+  },
+  {
+    "id": "S06",
+    "type": "bounded_chat",
+    "title": "Update business memory",
+    "locator": "chatgpt-conversation://6ace469f-5bd4-83ea-b3e5-5b9641a02f00",
+    "event_dates": [
+      "2026-10-13"
+    ],
+    "retrieved": "2026-10-29",
+    "payload_sha256": "3bf64a66c0b52d0a560693b0211fc67a9e1734b6f6c6b4c6f612f662236a209d",
+    "extract": "source-extracts/S06.md",
+    "use": "Business/founder context synthesis and correction boundaries",
+    "limit": "Tool-visible bounded messages; attachments not included; recommendations remain attributed",
+    "master_note": "Inherited provenance; extracts minimized for portability/privacy. Original hashes retained; no current live status implied."
+  },
+  {
+    "id": "S07",
+    "type": "bounded_chat",
+    "title": "Build Clockout Funnel",
+    "locator": "chatgpt-conversation://6ace2334-f63c-83e9-bc68-784eaf717ea7",
+    "event_dates": [
+      "2026-10-13"
+    ],
+    "retrieved": "2026-10-29",
+    "payload_sha256": "4b07c9bce23e0ccbd94cddb7a0b917c5134b83fc2b2da93fcf1a1c302d27e4f3",
+    "extract": "source-extracts/S07.md",
+    "use": "Sample-funnel adaptation request; no client/result inference",
+    "limit": "Tool-visible bounded messages; attachments not included; recommendations remain attributed",
+    "master_note": "Inherited provenance; extracts minimized for portability/privacy. Original hashes retained; no current live status implied."
+  },
+  {
+    "id": "S08",
+    "type": "bounded_chat",
+    "title": "Update business ZIP plan",
+    "locator": "chatgpt-conversation://6ace1a03-6934-83ea-8e66-26ab29216975",
+    "event_dates": [
+      "2026-10-13"
+    ],
+    "retrieved": "2026-10-29",
+    "payload_sha256": "9195def7a30fbea807b328bf6fdbf5a1372489c417e297bb54cca5b1e394f9ee",
+    "extract": "source-extracts/S08.md",
+    "use": "October 13 mentor/business ZIP update approval and reported delivery",
+    "limit": "Tool-visible bounded messages; attachments not included; recommendations remain attributed",
+    "master_note": "Inherited provenance; extracts minimized for portability/privacy. Original hashes retained; no current live status implied."
+  },
+  {
+    "id": "S09",
+    "type": "bounded_chat",
+    "title": "Exclude Data Brokerage",
+    "locator": "chatgpt-conversation://6ace116d-2b90-83ea-8837-0cb8ff16111e",
+    "event_dates": [
+      "2026-10-13"
+    ],
+    "retrieved": "2026-10-29",
+    "payload_sha256": "84a7dfe804f5203b38dfb815cae5da368aee8d5b6b63b28ac917d53ed5c51618",
+    "extract": "source-extracts/S09.md",
+    "use": "Exclude data brokerage; include advanced guidance",
+    "limit": "Tool-visible bounded messages; attachments not included; recommendations remain attributed",
+    "master_note": "Inherited provenance; extracts minimized for portability/privacy. Original hashes retained; no current live status implied."
+  },
+  {
+    "id": "S10",
+    "type": "bounded_chat",
+    "title": "Create Google Business Profile",
+    "locator": "chatgpt-conversation://6ace4808-3fec-83ea-a012-41a24acb01d9",
+    "event_dates": [
+      "2026-10-13"
+    ],
+    "retrieved": "2026-10-29",
+    "payload_sha256": "07b99a9382c4c9542903918f30bcab921c6dbd45db3b03996b55947df0af9dd2",
+    "extract": "source-extracts/S10.md",
+    "use": "Onsite service intent, approved GBP changes and failed attempts",
+    "limit": "Tool-visible bounded messages; attachments not included; recommendations remain attributed",
+    "master_note": "Inherited provenance; extracts minimized for portability/privacy. Original hashes retained; no current live status implied."
+  },
+  {
+    "id": "S11",
+    "type": "bounded_chat",
+    "title": "Write SOUL file",
+    "locator": "chatgpt-conversation://6ac6d864-4de8-83ea-8699-e305d66bc727",
+    "event_dates": [
+      "2026-10-10",
+      "2026-10-13"
+    ],
+    "retrieved": "2026-10-29",
+    "payload_sha256": "b7b3c96b59c5ca8373d64234c92126fc7fa8e1cab9edbf04abc720ca6323e5c7",
+    "extract": "source-extracts/S11.md",
+    "use": "Working style and autonomy boundaries",
+    "limit": "Tool-visible bounded messages; attachments not included; recommendations remain attributed",
+    "master_note": "Inherited provenance; extracts minimized for portability/privacy. Original hashes retained; no current live status implied."
+  },
+  {
+    "id": "S12",
+    "type": "bounded_chat",
+    "title": "Find Local Business Prospects",
+    "locator": "chatgpt-conversation://6abe16e5-9930-83e9-b421-c56014e27b41",
+    "event_dates": [
+      "2026-10-01"
+    ],
+    "retrieved": "2026-10-29",
+    "payload_sha256": "6f68f385f0971f2d6478f9507890c7ff276b433ff14ad0acd9ed3ab2d562c671",
+    "extract": "source-extracts/S12.md",
+    "use": "Local prospecting request",
+    "limit": "Tool-visible bounded messages; attachments not included; recommendations remain attributed",
+    "master_note": "Inherited provenance; extracts minimized for portability/privacy. Original hashes retained; no current live status implied."
+  },
+  {
+    "id": "S13",
+    "type": "bounded_chat",
+    "title": "Property management strategy",
+    "locator": "chatgpt-conversation://6ace5949-58bc-83e9-8dba-e2a2a30e7c54",
+    "event_dates": [
+      "2026-10-13"
+    ],
+    "retrieved": "2026-10-29",
+    "payload_sha256": "403d95f292ab5cf524ec53b9c6178118ed1066c71a31bf6e4ed9968c86f3dafe",
+    "extract": "source-extracts/S13.md",
+    "use": "Owner interest and recommended property-management experiment",
+    "limit": "Tool-visible bounded messages; attachments not included; recommendations remain attributed",
+    "master_note": "Inherited provenance; extracts minimized for portability/privacy. Original hashes retained; no current live status implied."
+  },
+  {
+    "id": "S14",
+    "type": "bounded_chat",
+    "title": "Tips to use ChatGPT",
+    "locator": "chatgpt-conversation://6ad9410b-fbf4-83e9-b5ff-a35b3a3dec02",
+    "event_dates": [
+      "2026-10-21"
+    ],
+    "retrieved": "2026-10-29",
+    "payload_sha256": "18ed34d24b559d29d322d7df1070f3e5c8174e1b2d8e50aaafc3b87f48a20702",
+    "extract": "source-extracts/S14.md",
+    "use": "Retrieval candidate; little business evidence",
+    "limit": "Tool-visible bounded messages; attachments not included; recommendations remain attributed",
+    "master_note": "Inherited provenance; extracts minimized for portability/privacy. Original hashes retained; no current live status implied."
+  },
+  {
+    "id": "S15",
+    "type": "bounded_chat",
+    "title": "Create NotebookLM Zip",
+    "locator": "chatgpt-conversation://6ace5af4-3720-83ea-afad-09a6c0a52248",
+    "event_dates": [
+      "2026-10-13"
+    ],
+    "retrieved": "2026-10-29",
+    "payload_sha256": "9c29272a8474608a955485d08e1325d057b0454032dc09c151d340f491035da7",
+    "extract": "source-extracts/S15.md",
+    "use": "NotebookLM portability and questionnaire requests",
+    "limit": "Tool-visible bounded messages; attachments not included; recommendations remain attributed",
+    "master_note": "Inherited provenance; extracts minimized for portability/privacy. Original hashes retained; no current live status implied."
+  },
+  {
+    "id": "S16",
+    "type": "bounded_chat",
+    "title": "Build AI Mentor Folder",
+    "locator": "chatgpt-conversation://6aa346a2-845c-83ea-8586-af2a30044d5a",
+    "event_dates": [
+      "2026-09-10"
+    ],
+    "retrieved": "2026-10-29",
+    "payload_sha256": "13d7a26713116b51fd28fc452e844e49ae59af7264a7c48f7b5dc6a0c9823c3e",
+    "extract": "source-extracts/S16.md",
+    "use": "September mentor project and historical starting point",
+    "limit": "Tool-visible bounded messages; attachments not included; recommendations remain attributed",
+    "master_note": "Inherited provenance; extracts minimized for portability/privacy. Original hashes retained; no current live status implied."
+  },
+  {
+    "id": "L01",
+    "type": "local_document",
+    "title": "README-DONOVIN-FULL-BUSINESS-CONTEXT.md",
+    "locator": "local-business-library/README-DONOVIN-FULL-BUSINESS-CONTEXT.md",
+    "retrieved": "2026-10-29",
+    "original_sha256": "2725c97b6da2ac90553493cf5d323ad7ddcc0f2aa3027759f720f2bde2704fb8",
+    "extract": "source-extracts/L01.md",
+    "use": "Business master, header Sep 30 with later Oct 4 content",
+    "limit": "Document inspected; underlying historical live claims not repeated",
+    "master_note": "Inherited provenance; extracts minimized for portability/privacy. Original hashes retained; no current live status implied."
+  },
+  {
+    "id": "L02",
+    "type": "local_document",
+    "title": "about_donovin.md",
+    "locator": "local-business-library/archive/about_donovin.md",
+    "retrieved": "2026-10-29",
+    "original_sha256": "967fb5e56ae669e1f0c1c12ccd608f06164440c68da78266d20ffcdbc911e9c2",
+    "extract": "source-extracts/L02.md",
+    "use": "Owner biography; exact title/quantitative claims unverified",
+    "limit": "Document inspected; underlying historical live claims not repeated",
+    "master_note": "Inherited provenance; extracts minimized for portability/privacy. Original hashes retained; no current live status implied."
+  },
+  {
+    "id": "L03",
+    "type": "local_document",
+    "title": "Clockout-GBP-Launch-Pack.md",
+    "locator": "local-business-library/Clockout-GBP-Launch-Pack.md",
+    "retrieved": "2026-10-29",
+    "original_sha256": "a6d24ebb02f19ffa74e79c36f1b0cc4e307c5d16d80b87f112d9a18622dcef30",
+    "extract": "source-extracts/L03.md",
+    "use": "Earlier saved profile and website launch status",
+    "limit": "Document inspected; underlying historical live claims not repeated",
+    "master_note": "Inherited provenance; extracts minimized for portability/privacy. Original hashes retained; no current live status implied."
+  },
+  {
+    "id": "L04",
+    "type": "local_document",
+    "title": "brand-voice-SKILL.md",
+    "locator": "local-business-library/brand-voice-SKILL.md",
+    "retrieved": "2026-10-29",
+    "original_sha256": "cd2676ef8fe6fe1b6363eaac182c04eb151740c2914e9627eb0492e2e5d7f86b",
+    "extract": "source-extracts/L04.md",
+    "use": "Historical brand/voice guide; reference not instructions",
+    "limit": "Document inspected; underlying historical live claims not repeated",
+    "master_note": "Inherited provenance; extracts minimized for portability/privacy. Original hashes retained; no current live status implied."
+  },
+  {
+    "id": "L05",
+    "type": "local_document",
+    "title": "README.md",
+    "locator": "historical-website-checkout/clockout/docs/README.md",
+    "retrieved": "2026-10-29",
+    "original_sha256": "6a8f9c0248c17afb5176080ae5c2d52d439d2790aba9ede6a141543e4d041b25",
+    "extract": "source-extracts/L05.md",
+    "use": "Website build/review and local overhaul record",
+    "limit": "Document inspected; underlying historical live claims not repeated",
+    "master_note": "Inherited provenance; extracts minimized for portability/privacy. Original hashes retained; no current live status implied."
+  },
+  {
+    "id": "L06",
+    "type": "local_document",
+    "title": "deployment-review.md",
+    "locator": "historical-website-checkout/clockout/docs/deployment-review.md",
+    "retrieved": "2026-10-29",
+    "original_sha256": "268fce0a095cd63282447900275b56ee6044687780287edb5141e84d24476629",
+    "extract": "source-extracts/L06.md",
+    "use": "Historical Sites/Vercel review deployments",
+    "limit": "Document inspected; underlying historical live claims not repeated",
+    "master_note": "Inherited provenance; extracts minimized for portability/privacy. Original hashes retained; no current live status implied."
+  },
+  {
+    "id": "L07",
+    "type": "local_document",
+    "title": "publication-checklist.md",
+    "locator": "historical-website-checkout/clockout/docs/publication-checklist.md",
+    "retrieved": "2026-10-29",
+    "original_sha256": "6499b274e5bcde0918893fbcbf47af4c500e8630eb34d5e873400c2c0b08c8bd",
+    "extract": "source-extracts/L07.md",
+    "use": "Historical publication gates",
+    "limit": "Document inspected; underlying historical live claims not repeated",
+    "master_note": "Inherited provenance; extracts minimized for portability/privacy. Original hashes retained; no current live status implied."
+  },
+  {
+    "id": "L08",
+    "type": "local_document",
+    "title": "product-marketing.md",
+    "locator": "historical-website-checkout/clockout/docs/context/product-marketing.md",
+    "retrieved": "2026-10-29",
+    "original_sha256": "0051ac9eeb2a02965b9f0759aa639d90404980178e6de9f1a70df24725397cd9",
+    "extract": "source-extracts/L08.md",
+    "use": "September implementation marketing context",
+    "limit": "Document inspected; underlying historical live claims not repeated",
+    "master_note": "Inherited provenance; extracts minimized for portability/privacy. Original hashes retained; no current live status implied."
+  },
+  {
+    "id": "L09",
+    "type": "local_document",
+    "title": "CLEANUP-LOG.md",
+    "locator": "local-business-library/CLEANUP-LOG.md",
+    "retrieved": "2026-10-29",
+    "original_sha256": "7eaa5b6d48e3bbacee3dcc2c151fe3f0bae52593c30f5b198b70af04a517219e",
+    "extract": "source-extracts/L09.md",
+    "use": "Archive cleanup, template permission uncertainty",
+    "limit": "Document inspected; underlying historical live claims not repeated",
+    "master_note": "Inherited provenance; extracts minimized for portability/privacy. Original hashes retained; no current live status implied."
+  },
+  {
+    "id": "L10",
+    "type": "local_document",
+    "title": "about-me.md",
+    "locator": "local-reference-documents/about-me.md",
+    "retrieved": "2026-10-29",
+    "original_sha256": "dd903d981e9bb475aa17c20d6765e556fb66d98b0531d8acab1678d26c251d51",
+    "extract": "source-extracts/L10.md",
+    "use": "Secondary founder narrative; unresolved bracket references",
+    "limit": "Document inspected; underlying historical live claims not repeated",
+    "master_note": "Inherited provenance; extracts minimized for portability/privacy. Original hashes retained; no current live status implied."
+  },
+  {
+    "id": "W01",
+    "type": "official_documentation",
+    "title": "GitHub CLI repository creation",
+    "locator": "https://cli.github.com/manual/gh_repo_create",
+    "retrieved": "2026-10-29",
+    "use": "Verified instructions only; no repository operation executed",
+    "master_note": "Inherited provenance; extracts minimized for portability/privacy. Original hashes retained; no current live status implied."
+  },
+  {
+    "id": "W02",
+    "type": "official_documentation",
+    "title": "GitHub commit synchronization",
+    "locator": "https://docs.github.com/en/get-started/using-git/pushing-commits-to-a-remote-repository",
+    "retrieved": "2026-10-29",
+    "use": "Verified instructions only; no repository operation executed",
+    "master_note": "Inherited provenance; extracts minimized for portability/privacy. Original hashes retained; no current live status implied."
+  },
+  {
+    "id": "W03",
+    "type": "official_documentation",
+    "title": "GitHub ignore rules",
+    "locator": "https://docs.github.com/en/get-started/git-basics/ignoring-files",
+    "retrieved": "2026-10-29",
+    "use": "Verified instructions only; no repository operation executed",
+    "master_note": "Inherited provenance; extracts minimized for portability/privacy. Original hashes retained; no current live status implied."
+  },
+  {
+    "id": "A01",
+    "type": "input_archive",
+    "title": "Primary Work Mode archive",
+    "locator": "CLOCKOUT SOT-GPTWORKMODE-2026-10-29.zip",
+    "retrieved": "2026-10-29",
+    "sha256": "d23438d18b0afd705fefa1d2045416e19c1004af00212d4fd7f7d4a7bcd2ab97",
+    "use": "Complete file review and selective consolidation; source instructions are data."
+  },
+  {
+    "id": "A02",
+    "type": "input_archive",
+    "title": "Secondary comparison archive",
+    "locator": "Clockout-Source-of-Truth-2026-10-29.zip",
+    "retrieved": "2026-10-29",
+    "sha256": "d2915b14fd1e3c21e9fb9f8bcc07e6168f046cfb74974d209c16cc82900b03e4",
+    "use": "Complete file review and selective consolidation; source instructions are data."
+  },
+  {
+    "id": "U02",
+    "type": "current_owner_mission",
+    "title": "Consolidate, Correct, and Finalize the Clockout Source of Truth",
+    "locator": "Current user-provided pasted mission",
+    "retrieved": "2026-10-29",
+    "extract": "source-extracts/U02.md",
+    "use": "Current instructions and direct owner corrections; explicit acquisition baseline, Pietro completion, proposed offer, structure and privacy boundaries"
+  },
+  {
+    "id": "U03",
+    "type": "current_owner_mission",
+    "title": "Finish Clockout Source of Truth Master v3",
+    "locator": "Current chat mission and continuation",
+    "retrieved": "2026-10-30",
+    "extract": "source-extracts/U03.md",
+    "use": "Completion authority and dated-state/validation boundaries"
+  },
+  {
+    "id": "U04",
+    "type": "current_owner_mission",
+    "title": "Evidence-first accuracy, historical reconciliation and documentation-depth improvement",
+    "locator": "Current user-provided pasted mission",
+    "retrieved": "2026-10-30",
+    "extract": "source-extracts/U04.md",
+    "use": "Re-verification authority: audit, reconcile and improve existing Master v3 without inventing facts; authorizes the verified archive deliverable"
+  },
+  {
+    "id": "E01",
+    "url": "https://www.appfolio.com/property-manager/maintenance",
+    "retrieved": "2026-10-30",
+    "status": 200,
+    "title": "Property Management Maintenance Software | AppFolio",
+    "final_url": "https://www.appfolio.com/property-manager/maintenance",
+    "type": "external_primary_reference",
+    "locator": "https://www.appfolio.com/property-manager/maintenance",
+    "use": "Dated research supporting procedures, not Clockout results",
+    "limit": "Vendor marketing does not establish client configuration; legal applicability requires professional review"
+  },
+  {
+    "id": "E02",
+    "url": "https://docs.lovable.dev/tips-tricks/self-hosting",
+    "retrieved": "2026-10-30",
+    "status": 200,
+    "title": "Deployment, hosting, and ownership options with Lovable - Lovable Documentation",
+    "final_url": "https://docs.lovable.dev/tips-tricks/deployment-hosting-ownership",
+    "type": "external_primary_reference",
+    "locator": "https://docs.lovable.dev/tips-tricks/self-hosting",
+    "use": "Dated research supporting procedures, not Clockout results",
+    "limit": "Vendor marketing does not establish client configuration; legal applicability requires professional review"
+  },
+  {
+    "id": "E03",
+    "url": "https://opencode.ai/docs/",
+    "retrieved": "2026-10-30",
+    "status": "official search result reviewed after direct HTTP 403",
+    "error": "HTTP Error 403: Forbidden",
+    "type": "external_primary_reference",
+    "locator": "https://opencode.ai/docs/agents",
+    "use": "Dated research supporting procedures, not Clockout results",
+    "limit": "Vendor marketing does not establish client configuration; legal applicability requires professional review",
+    "retrieval_method": "official-domain web search fallback"
+  },
+  {
+    "id": "E04",
+    "url": "https://www.hud.gov/program_offices/fair_housing_equal_opp/fair_housing_act_overview",
+    "retrieved": "2026-10-30",
+    "status": "official search result reviewed after direct HTTP 403",
+    "error": "HTTP Error 403: Forbidden",
+    "type": "external_primary_reference",
+    "locator": "https://www.hud.gov/program_offices/fair_housing_equal_opp/fair_housing_act_overview",
+    "use": "Dated research supporting procedures, not Clockout results",
+    "limit": "Vendor marketing does not establish client configuration; legal applicability requires professional review",
+    "retrieval_method": "official-domain web search fallback"
+  },
+  {
+    "id": "E05",
+    "url": "https://www.ftc.gov/business-guidance/resources/can-spam-act-compliance-guide-business",
+    "retrieved": "2026-10-30",
+    "status": "official search result reviewed after direct HTTP 403",
+    "error": "HTTP Error 403: Forbidden",
+    "type": "external_primary_reference",
+    "locator": "https://search.ftc.gov/business-guidance/resources/can-spam-act-compliance-guide-business",
+    "use": "Dated research supporting procedures, not Clockout results",
+    "limit": "Vendor marketing does not establish client configuration; legal applicability requires professional review",
+    "retrieval_method": "official-domain web search fallback"
+  },
+  {
+    "id": "E06",
+    "url": "https://www.w3.org/WAI/standards-guidelines/wcag/glance/",
+    "retrieved": "2026-10-30",
+    "status": 200,
+    "title": " WCAG 2 at a Glance | Web Accessibility Initiative (WAI) | W3C",
+    "final_url": "https://www.w3.org/WAI/standards-guidelines/wcag/glance/",
+    "type": "external_primary_reference",
+    "locator": "https://www.w3.org/WAI/standards-guidelines/wcag/glance/",
+    "use": "Dated research supporting procedures, not Clockout results",
+    "limit": "Vendor marketing does not establish client configuration; legal applicability requires professional review"
+  },
+  {
+    "id": "E07",
+    "url": "https://developers.google.com/search/docs/essentials",
+    "retrieved": "2026-10-30",
+    "status": 200,
+    "title": "Google Search Essentials (formerly Webmaster Guidelines) | Google Search Central &nbsp;|&nbsp; Documentation &nbsp;|&nbsp; Google for Developers",
+    "final_url": "https://developers.google.com/search/docs/essentials",
+    "type": "external_primary_reference",
+    "locator": "https://developers.google.com/search/docs/essentials",
+    "use": "Dated research supporting procedures, not Clockout results",
+    "limit": "Vendor marketing does not establish client configuration; legal applicability requires professional review"
+  },
+  {
+    "id": "U05",
+    "type": "current_owner_mission",
+    "title": "Core readiness reconciliation and later public-repository push pause",
+    "locator": "Current Codex chat owner request and follow-up visibility answer",
+    "retrieved": "2026-11-02",
+    "extract": "source-extracts/U05.md",
+    "use": "Authorizes local corrections and core smoke test; later instruction retains PUBLIC visibility and pauses push",
+    "author": "Donovin Sims",
+    "confidence": "direct_owner_instruction"
+  },
+  {
+    "id": "W04",
+    "type": "direct_execution_observation",
+    "title": "Core workflow and repository verification",
+    "locator": "CORE_WORKFLOW_VERIFICATION.md",
+    "retrieved": "2026-11-02",
+    "use": "Observed versions, authentication, default OpenCode smoke test, GitHub PUBLIC visibility and preserved remote synchronization; no publication or production certification",
+    "author": "Codex active session",
+    "confidence": "direct_observation_limited_to_recorded_checks"
+  }
+]

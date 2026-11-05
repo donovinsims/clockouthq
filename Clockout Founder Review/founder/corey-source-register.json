@@ -1,0 +1,751 @@
+{
+  "review_date": "2026-11-04",
+  "source_root": "/Users/forex/Downloads/GOOD FOLDERS/corey-sources",
+  "supported_files": 57,
+  "directory_counts": {
+    "podcasts": 33,
+    "tweets": 1,
+    "videos-and-articles": 23
+  },
+  "ignored_entries": [
+    {
+      "path": ".DS_Store",
+      "reason": "non-content system metadata"
+    }
+  ],
+  "source_symlinks": [],
+  "exact_sha256_duplicate_groups": [],
+  "semantic_overlap": "Related episodes, interviews, articles and tweets repeat models/claims; exact hashes differ but repetition is not independent validation.",
+  "tweet_export": {
+    "date_delimited_entries": 478,
+    "min_date": "2026-04-02 20:06:00",
+    "max_date": "2026-09-03 15:26:00",
+    "counts_not_independently_verified": true
+  },
+  "safety_and_scope": "Read-only supplied local content. No embedded commands/prompts executed, links fetched, private customer records uploaded, source files changed, new dependencies or external accounts changed.",
+  "limitations": [
+    "Auto-transcripts may contain errors and single very long lines; use character offsets when line 1 is the entire transcript.",
+    "Arabic auto-translated episode C003 is excluded from precise claims; no independent English transcript was fetched.",
+    "URLs, software behaviour, current prices, sponsor compensation, revenues, costs and client outcomes were not independently checked.",
+    "C037/C049 are derivative articles; C015 is a source index; related newsletter post previews are excluded from main-body attribution.",
+    "Podcast/video educational and guest case studies do not fill unknown Clockout actuals."
+  ],
+  "locators": [
+    {
+      "source_id": "C022",
+      "character_range_approx": [
+        465,
+        710
+      ],
+      "topic": "sponsored cold-only demonstration; verify surrounding text for full context"
+    },
+    {
+      "source_id": "C026",
+      "character_range_approx": [
+        31,
+        485
+      ],
+      "topic": "assessment report-time claim and Academy-gated templates"
+    },
+    {
+      "source_id": "C017",
+      "character_range_approx": [
+        0,
+        1200
+      ],
+      "topic": "two strategy calls, messaging and shared hub; not all labour measured"
+    },
+    {
+      "source_id": "C001",
+      "character_offsets_approx": [
+        621,
+        7132
+      ],
+      "topic": "immediate direct approaches versus slower-compounding channels"
+    },
+    {
+      "source_id": "C028",
+      "character_offsets_approx": [
+        14716,
+        18770,
+        33813
+      ],
+      "topic": "managed-service client fit and support/capacity uncertainties"
+    },
+    {
+      "source_id": "C034",
+      "line_start": 2377,
+      "date": "2026-09-01",
+      "topic": "198 leads, 15 conversations, 2 booked sales calls are self-reported stages, not paid sales"
+    },
+    {
+      "source_id": "C054",
+      "line_range": [
+        16,
+        58
+      ],
+      "topic": "cold experiment, influencer/affiliate tags and promotional credits; exclude related-post footer"
+    },
+    {
+      "source_id": "C057",
+      "character_ranges_approx": [
+        [
+          17,
+          865
+        ],
+        [
+          2796,
+          3945
+        ]
+      ],
+      "topic": "template-development effort and effectiveness/efficiency/quality / effort-impact structure"
+    },
+    {
+      "source_id": "C056",
+      "character_ranges_approx": [
+        [
+          0,
+          557
+        ],
+        [
+          1037,
+          1627
+        ],
+        [
+          19080,
+          19669
+        ]
+      ],
+      "topic": "90-minute call-rate denominator, discovery phase and unlimited-message anecdote"
+    }
+  ],
+  "sources": [
+    {
+      "id": "C001",
+      "source_path": "/Users/forex/Downloads/GOOD FOLDERS/corey-sources/podcasts/12 ways to land AI services clients (ranked).md",
+      "relative_path": "podcasts/12 ways to land AI services clients (ranked).md",
+      "bytes": 27618,
+      "sha256": "b602cb520fc42b69fcc3ddc06fc58f684ac7fc52d729e16e473b1862dd2f7041",
+      "line_count": 1,
+      "source_type": "podcast_transcript",
+      "review_scope": "screened; selected relevant passages examined, claims not independently verified",
+      "disposition": "acquisition methods; self-reported effectiveness, not Clockout conversion"
+    },
+    {
+      "id": "C002",
+      "source_path": "/Users/forex/Downloads/GOOD FOLDERS/corey-sources/podcasts/2026-sep-oct/01 - 2026-10-12 - Reinvent your small business with AI in 90 days.txt",
+      "relative_path": "podcasts/2026-sep-oct/01 - 2026-10-12 - Reinvent your small business with AI in 90 days.txt",
+      "bytes": 17784,
+      "sha256": "4be9b235406a6160492d6f19b6028280bf011a42e43f718e354cfcfd5d9e1c6a",
+      "line_count": 4,
+      "source_type": "podcast_transcript",
+      "review_scope": "screened; selected relevant passages examined, claims not independently verified",
+      "disposition": "general 90-day operator context; no additional current Clockout input"
+    },
+    {
+      "id": "C003",
+      "source_path": "/Users/forex/Downloads/GOOD FOLDERS/corey-sources/podcasts/2026-sep-oct/03 - 2026-10-08 - The $50kmonth managed AI agent business (full course) [ARABIC auto-translation - English unavailable].txt",
+      "relative_path": "podcasts/2026-sep-oct/03 - 2026-10-08 - The $50kmonth managed AI agent business (full course) [ARABIC auto-translation - English unavailable].txt",
+      "bytes": 83264,
+      "sha256": "fe59e93d523104ec4ea044f752232322f62fcdf779f5a4a7d4e01411dd725411",
+      "line_count": 5,
+      "source_type": "podcast_transcript",
+      "review_scope": "screened; selected relevant passages examined, claims not independently verified",
+      "disposition": "Arabic auto-translation with English unavailable; excluded from precise claims"
+    },
+    {
+      "id": "C004",
+      "source_path": "/Users/forex/Downloads/GOOD FOLDERS/corey-sources/podcasts/2026-sep-oct/04 - 2026-10-06 - Build an AI business that makes you immune to model releases.txt",
+      "relative_path": "podcasts/2026-sep-oct/04 - 2026-10-06 - Build an AI business that makes you immune to model releases.txt",
+      "bytes": 17344,
+      "sha256": "d4febaaa4913355b4bd5e6b3d18cf84b1febf952bab686874c6c98c450b5ee2c",
+      "line_count": 4,
+      "source_type": "podcast_transcript",
+      "review_scope": "screened; selected relevant passages examined, claims not independently verified",
+      "disposition": "provider/model-independent business framing; no technical or income claim adopted"
+    },
+    {
+      "id": "C005",
+      "source_path": "/Users/forex/Downloads/GOOD FOLDERS/corey-sources/podcasts/2026-sep-oct/05 - 2026-10-05 - How I deliver a $999 AI assessment with Claude.txt",
+      "relative_path": "podcasts/2026-sep-oct/05 - 2026-10-05 - How I deliver a $999 AI assessment with Claude.txt",
+      "bytes": 19843,
+      "sha256": "cfe231fad23232ee7ff5c23ceb18b7a1a4a15b0254fb2bbffade3f17fa5b5998",
+      "line_count": 4,
+      "source_type": "podcast_transcript",
+      "review_scope": "screened; selected relevant passages examined, claims not independently verified",
+      "disposition": "assessment fulfilment example; separate tool-generated report from full engagement effort"
+    },
+    {
+      "id": "C006",
+      "source_path": "/Users/forex/Downloads/GOOD FOLDERS/corey-sources/podcasts/2026-sep-oct/06 - 2026-10-02 - How to reinvent yourself as an AI consultant in 90 days.txt",
+      "relative_path": "podcasts/2026-sep-oct/06 - 2026-10-02 - How to reinvent yourself as an AI consultant in 90 days.txt",
+      "bytes": 26500,
+      "sha256": "05a570fdaa5be25815171a868b017adeb8e0e26a7417bd5c9fd45555eed31950",
+      "line_count": 4,
+      "source_type": "podcast_transcript",
+      "review_scope": "screened; selected relevant passages examined, claims not independently verified",
+      "disposition": "consultant-development context; no automatic career plan or service adoption"
+    },
+    {
+      "id": "C007",
+      "source_path": "/Users/forex/Downloads/GOOD FOLDERS/corey-sources/podcasts/2026-sep-oct/07 - 2026-09-30 - Why it sucks to run an AI automation agency.txt",
+      "relative_path": "podcasts/2026-sep-oct/07 - 2026-09-30 - Why it sucks to run an AI automation agency.txt",
+      "bytes": 17337,
+      "sha256": "9844f2c3f56e12027eedf7dadacadb338f12a2628cc1a2202a0e046416466630",
+      "line_count": 4,
+      "source_type": "podcast_transcript",
+      "review_scope": "screened; selected relevant passages examined, claims not independently verified",
+      "disposition": "agency fulfilment caution; supports bounded delivery, not an instruction to abandon implementation"
+    },
+    {
+      "id": "C008",
+      "source_path": "/Users/forex/Downloads/GOOD FOLDERS/corey-sources/podcasts/2026-sep-oct/08 - 2026-09-29 - AI Concierge clearly explained.txt",
+      "relative_path": "podcasts/2026-sep-oct/08 - 2026-09-29 - AI Concierge clearly explained.txt",
+      "bytes": 23465,
+      "sha256": "53fbf581fa7254fb5ab62654506525efad39b47773e3d68fe0d4e3214aadc44a",
+      "line_count": 4,
+      "source_type": "podcast_transcript",
+      "review_scope": "screened; selected relevant passages examined, claims not independently verified",
+      "disposition": "concierge recurring offer; not adopted as current Clockout service"
+    },
+    {
+      "id": "C009",
+      "source_path": "/Users/forex/Downloads/GOOD FOLDERS/corey-sources/podcasts/2026-sep-oct/09 - 2026-09-28 - Listen to me fulfill a real $999 AI consulting call.txt",
+      "relative_path": "podcasts/2026-sep-oct/09 - 2026-09-28 - Listen to me fulfill a real $999 AI consulting call.txt",
+      "bytes": 25317,
+      "sha256": "f2704540b3deebe84fc8f8f2d139bae4859e281b6cf5b62a8b1a2515630663a9",
+      "line_count": 4,
+      "source_type": "podcast_transcript",
+      "review_scope": "screened; selected relevant passages examined, claims not independently verified",
+      "disposition": "consulting-call example; not client testimony or proof for Clockout"
+    },
+    {
+      "id": "C010",
+      "source_path": "/Users/forex/Downloads/GOOD FOLDERS/corey-sources/podcasts/2026-sep-oct/10 - 2026-09-25 - I built my whole brand with Claude Design in 20 minutes (no designer).txt",
+      "relative_path": "podcasts/2026-sep-oct/10 - 2026-09-25 - I built my whole brand with Claude Design in 20 minutes (no designer).txt",
+      "bytes": 25655,
+      "sha256": "6e25250fb656fe1a669d50bc7ba80c57b3c42b174671077c4bf9831b6d16c790",
+      "line_count": 4,
+      "source_type": "podcast_transcript",
+      "review_scope": "screened; selected relevant passages examined, claims not independently verified",
+      "disposition": "design tutorial; no new brand identity or deployment adopted"
+    },
+    {
+      "id": "C011",
+      "source_path": "/Users/forex/Downloads/GOOD FOLDERS/corey-sources/podcasts/2026-sep-oct/11 - 2026-09-23 - Overlooked way to sell $2,500 AI workshops to SMBs (full breakdown).txt",
+      "relative_path": "podcasts/2026-sep-oct/11 - 2026-09-23 - Overlooked way to sell $2,500 AI workshops to SMBs (full breakdown).txt",
+      "bytes": 27492,
+      "sha256": "0b0e438c0c8265d77e9ea8a1400f5f5b2fb502ce1b18f6d16723482d03828640",
+      "line_count": 4,
+      "source_type": "podcast_transcript",
+      "review_scope": "screened; selected relevant passages examined, claims not independently verified",
+      "disposition": "workshop offer context; excluded as Clockout offer"
+    },
+    {
+      "id": "C012",
+      "source_path": "/Users/forex/Downloads/GOOD FOLDERS/corey-sources/podcasts/2026-sep-oct/12 - 2026-09-22 - Jev clearly explained (and how to make money with it).txt",
+      "relative_path": "podcasts/2026-sep-oct/12 - 2026-09-22 - Jev clearly explained (and how to make money with it).txt",
+      "bytes": 26321,
+      "sha256": "7d7f753febc85d4390ed5b79577dce36ead6c8148b4321b8fc04f664e2d7d861",
+      "line_count": 4,
+      "source_type": "podcast_transcript",
+      "review_scope": "screened; selected relevant passages examined, claims not independently verified",
+      "disposition": "specific tool demonstration; no dependency or earning claim adopted"
+    },
+    {
+      "id": "C013",
+      "source_path": "/Users/forex/Downloads/GOOD FOLDERS/corey-sources/podcasts/2026-sep-oct/13 - 2026-09-21 - how to print money with AI in 2026 (even if you're new).txt",
+      "relative_path": "podcasts/2026-sep-oct/13 - 2026-09-21 - how to print money with AI in 2026 (even if you're new).txt",
+      "bytes": 20622,
+      "sha256": "49f7a411c0e69d4527043030c7c757828d20e859b044eb81dc6ae57c04d14bd2",
+      "line_count": 4,
+      "source_type": "podcast_transcript",
+      "review_scope": "screened; selected relevant passages examined, claims not independently verified",
+      "disposition": "acquisition framing; promotional claims unverified"
+    },
+    {
+      "id": "C014",
+      "source_path": "/Users/forex/Downloads/GOOD FOLDERS/corey-sources/podcasts/2026-sep-oct/14 - 2026-09-18 - Making $2K in 30 days selling AI + $50K in pipeline (CASE STUDY).txt",
+      "relative_path": "podcasts/2026-sep-oct/14 - 2026-09-18 - Making $2K in 30 days selling AI + $50K in pipeline (CASE STUDY).txt",
+      "bytes": 24530,
+      "sha256": "511ffed981c1d2acc1cdbf1b5d6fb0e01119ba6ff5c2f56d34a6c8f46fd812e4",
+      "line_count": 4,
+      "source_type": "podcast_transcript",
+      "review_scope": "screened; selected relevant passages examined, claims not independently verified",
+      "disposition": "self-reported case study; pipeline not revenue, no Clockout evidence"
+    },
+    {
+      "id": "C015",
+      "source_path": "/Users/forex/Downloads/GOOD FOLDERS/corey-sources/podcasts/2026-sep-oct/INDEX.md",
+      "relative_path": "podcasts/2026-sep-oct/INDEX.md",
+      "bytes": 8164,
+      "sha256": "70f9c2e2699a666a7c31269f3c4c317cf838e5f708173cf59537c8705b57bbef",
+      "line_count": 87,
+      "source_type": "navigation_index",
+      "review_scope": "screened; selected relevant passages examined, claims not independently verified",
+      "disposition": "navigation/index only; not independent corroboration"
+    },
+    {
+      "id": "C016",
+      "source_path": "/Users/forex/Downloads/GOOD FOLDERS/corey-sources/podcasts/7 AI services boomer businesses are BEGGING to buy.md",
+      "relative_path": "podcasts/7 AI services boomer businesses are BEGGING to buy.md",
+      "bytes": 26266,
+      "sha256": "fa7053811a4f58224efaf633363f7fb8c11f18835432ce63b41a6d013b93ac12",
+      "line_count": 1,
+      "source_type": "podcast_transcript",
+      "review_scope": "screened; selected relevant passages examined, claims not independently verified",
+      "disposition": "service-menu and buyer-problem hypotheses; no broad menu adopted"
+    },
+    {
+      "id": "C017",
+      "source_path": "/Users/forex/Downloads/GOOD FOLDERS/corey-sources/podcasts/AI Concierge Explained in 19 Minutes.md",
+      "relative_path": "podcasts/AI Concierge Explained in 19 Minutes.md",
+      "bytes": 20897,
+      "sha256": "27e7deda666e512b6e0cc6a407dc86c810036302b332c3bedf29e2dc765b6f01",
+      "line_count": 1,
+      "source_type": "podcast_transcript",
+      "review_scope": "screened; selected relevant passages examined, claims not independently verified",
+      "disposition": "recurring calls, messaging and shared hub; whole-effort and support boundaries required"
+    },
+    {
+      "id": "C018",
+      "source_path": "/Users/forex/Downloads/GOOD FOLDERS/corey-sources/podcasts/He made $50K teaching companies AI (full tutorial).md",
+      "relative_path": "podcasts/He made $50K teaching companies AI (full tutorial).md",
+      "bytes": 33209,
+      "sha256": "f0975bad03853d4d8ad28b56c3cb855e5873fd8f9e1762aa8f47d08728456589",
+      "line_count": 1,
+      "source_type": "podcast_transcript",
+      "review_scope": "screened; selected relevant passages examined, claims not independently verified",
+      "disposition": "educational revenue case; outside current Clockout offer boundaries"
+    },
+    {
+      "id": "C019",
+      "source_path": "/Users/forex/Downloads/GOOD FOLDERS/corey-sources/podcasts/How to Sign Your First AI Client (Zero Content or Cold Outreach).md",
+      "relative_path": "podcasts/How to Sign Your First AI Client (Zero Content or Cold Outreach).md",
+      "bytes": 21396,
+      "sha256": "81755f14b7b8e671959a3d178b04376ff03227550abc648c56250df468e2cfdd",
+      "line_count": 1,
+      "source_type": "podcast_transcript",
+      "review_scope": "screened; selected relevant passages examined, claims not independently verified",
+      "disposition": "local events/referral channels; informative but no event/workshop program adopted"
+    },
+    {
+      "id": "C020",
+      "source_path": "/Users/forex/Downloads/GOOD FOLDERS/corey-sources/podcasts/How to make f_ck you money by AI maxxing boomer businesses.md",
+      "relative_path": "podcasts/How to make f_ck you money by AI maxxing boomer businesses.md",
+      "bytes": 37432,
+      "sha256": "fedb8aa1aa43dc8f5bf34040a7b6e4c0b65e73ce4d891881b303595b545f9d01",
+      "line_count": 1,
+      "source_type": "podcast_transcript",
+      "review_scope": "screened; selected relevant passages examined, claims not independently verified",
+      "disposition": "no-audience positioning; claims are unverified context"
+    },
+    {
+      "id": "C021",
+      "source_path": "/Users/forex/Downloads/GOOD FOLDERS/corey-sources/podcasts/I Ranked Every AI Offer From Worst to Best.md",
+      "relative_path": "podcasts/I Ranked Every AI Offer From Worst to Best.md",
+      "bytes": 22968,
+      "sha256": "8af1e4c6e7b411278df4080f44cd244d727beac6bed48bdb633e7fe4491de2d6",
+      "line_count": 1,
+      "source_type": "podcast_transcript",
+      "review_scope": "screened; selected relevant passages examined, claims not independently verified",
+      "disposition": "offer rankings; creator judgments, not a validated Clockout ranking"
+    },
+    {
+      "id": "C022",
+      "source_path": "/Users/forex/Downloads/GOOD FOLDERS/corey-sources/podcasts/I'm Starting an AI Agency from Scratch (Episode 1).md",
+      "relative_path": "podcasts/I'm Starting an AI Agency from Scratch (Episode 1).md",
+      "bytes": 47464,
+      "sha256": "c2211913b87c8b784a2e1307041b9e243ba71d1a78e97348d073d868860d60fa",
+      "line_count": 1,
+      "source_type": "podcast_transcript",
+      "review_scope": "screened; selected relevant passages examined, claims not independently verified",
+      "disposition": "sponsored cold-outreach experiment; exclude promotional credits and automation from cost assumptions"
+    },
+    {
+      "id": "C023",
+      "source_path": "/Users/forex/Downloads/GOOD FOLDERS/corey-sources/podcasts/Laziest way to sign AI clients FAST.md",
+      "relative_path": "podcasts/Laziest way to sign AI clients FAST.md",
+      "bytes": 24175,
+      "sha256": "d21d25d2229b018cf2554ecb6bfb045d8a06b6e9d0ba5ad4d782906e1d646ce7",
+      "line_count": 1,
+      "source_type": "podcast_transcript",
+      "review_scope": "screened; selected relevant passages examined, claims not independently verified",
+      "disposition": "acquisition examples; no unverified fast-client guarantee adopted"
+    },
+    {
+      "id": "C024",
+      "source_path": "/Users/forex/Downloads/GOOD FOLDERS/corey-sources/podcasts/Watch me fulfill a real $999 AI assessment.md",
+      "relative_path": "podcasts/Watch me fulfill a real $999 AI assessment.md",
+      "bytes": 28925,
+      "sha256": "bcfc0685b96dea0ae38432a9d9df74a915cf0eca842fdc066d9d503903697188",
+      "line_count": 1,
+      "source_type": "podcast_transcript",
+      "review_scope": "screened; selected relevant passages examined, claims not independently verified",
+      "disposition": "assessment demonstration; distinguish report delivery, review and actual adoption"
+    },
+    {
+      "id": "C025",
+      "source_path": "/Users/forex/Downloads/GOOD FOLDERS/corey-sources/podcasts/building-an-ai-agency-from-scratch-episode-3.md",
+      "relative_path": "podcasts/building-an-ai-agency-from-scratch-episode-3.md",
+      "bytes": 64772,
+      "sha256": "5563e8dcb7ab8bb5fc44874c1926b3d00f0f91d3e8d03bf22692cc9684e02e75",
+      "line_count": 164,
+      "source_type": "podcast_transcript",
+      "review_scope": "screened; selected relevant passages examined, claims not independently verified",
+      "disposition": "cold-outreach series context; not new Clockout evidence"
+    },
+    {
+      "id": "C026",
+      "source_path": "/Users/forex/Downloads/GOOD FOLDERS/corey-sources/podcasts/how-i-fulfill-999-ai-assessments-step-by-step.md",
+      "relative_path": "podcasts/how-i-fulfill-999-ai-assessments-step-by-step.md",
+      "bytes": 9465,
+      "sha256": "9c2d40bfa7f74a413af6b256182f1c9c2f4d3b6d05612711a5bd36e3dbc25ab3",
+      "line_count": 21,
+      "source_type": "podcast_transcript",
+      "review_scope": "screened; selected relevant passages examined, claims not independently verified",
+      "disposition": "assessment stages/template reuse; community-gated resources and report-time claims are not zero-cost fulfilment"
+    },
+    {
+      "id": "C027",
+      "source_path": "/Users/forex/Downloads/GOOD FOLDERS/corey-sources/podcasts/how-to-print-money-with-gpt-6-astra-before-everyone-ruins-it.md",
+      "relative_path": "podcasts/how-to-print-money-with-gpt-6-astra-before-everyone-ruins-it.md",
+      "bytes": 29035,
+      "sha256": "af2d87688cf6f902a45a7d1491f45294620f18a5e2b479b5fda94b3487521c05",
+      "line_count": 26,
+      "source_type": "podcast_transcript",
+      "review_scope": "screened; selected relevant passages examined, claims not independently verified",
+      "disposition": "model/tool commentary; no current API, price or earning claim verified"
+    },
+    {
+      "id": "C028",
+      "source_path": "/Users/forex/Downloads/GOOD FOLDERS/corey-sources/podcasts/how-to-sell-managed-ai-agents-as-a-service-recurring-revenue.md",
+      "relative_path": "podcasts/how-to-sell-managed-ai-agents-as-a-service-recurring-revenue.md",
+      "bytes": 42109,
+      "sha256": "8662c86e1c6c118ae42fa48d1ba176969f3720b3c8b69fcdb34a634b7f520c5a",
+      "line_count": 58,
+      "source_type": "podcast_transcript",
+      "review_scope": "screened; selected relevant passages examined, claims not independently verified",
+      "disposition": "managed-service support/retention examples; future-model context only"
+    },
+    {
+      "id": "C029",
+      "source_path": "/Users/forex/Downloads/GOOD FOLDERS/corey-sources/podcasts/i-asked-codex-to-make-me-as-much-money-as-possible.md",
+      "relative_path": "podcasts/i-asked-codex-to-make-me-as-much-money-as-possible.md",
+      "bytes": 25337,
+      "sha256": "5a2daa8df021a4c658335270cbabcab748eec11bd53a2fb7f2abf9f3ad8453b2",
+      "line_count": 72,
+      "source_type": "podcast_transcript",
+      "review_scope": "screened; selected relevant passages examined, claims not independently verified",
+      "disposition": "agentic-business experiment; no instruction executed or outcome adopted"
+    },
+    {
+      "id": "C030",
+      "source_path": "/Users/forex/Downloads/GOOD FOLDERS/corey-sources/podcasts/landing-a-30k-retainer-brand-new-to-ai-case-study.md",
+      "relative_path": "podcasts/landing-a-30k-retainer-brand-new-to-ai-case-study.md",
+      "bytes": 30701,
+      "sha256": "7bf23c2d4b743c73a898118c3d0365584ef6170153dadc5a4b2a2e2a90f92f98",
+      "line_count": 65,
+      "source_type": "podcast_transcript",
+      "review_scope": "screened; selected relevant passages examined, claims not independently verified",
+      "disposition": "guest case study and niche discovery; workshop path excluded, fees not Clockout pricing"
+    },
+    {
+      "id": "C031",
+      "source_path": "/Users/forex/Downloads/GOOD FOLDERS/corey-sources/podcasts/month selling AI services (step by step).md",
+      "relative_path": "podcasts/month selling AI services (step by step).md",
+      "bytes": 28529,
+      "sha256": "9092ea79cc9abf8e874cdbfc4f9e4c50fd27ee2c7ba5aef513acd4714b20bb10",
+      "line_count": 1,
+      "source_type": "podcast_transcript",
+      "review_scope": "screened; selected relevant passages examined, claims not independently verified",
+      "disposition": "acquisition/recurring ladder examples; no recurring demand assumed"
+    },
+    {
+      "id": "C032",
+      "source_path": "/Users/forex/Downloads/GOOD FOLDERS/corey-sources/podcasts/month selling AI.md",
+      "relative_path": "podcasts/month selling AI.md",
+      "bytes": 22508,
+      "sha256": "11547bdde039aeec1bc2f1f1e77d6338846c8f50a45a44ff3abcc62eac2402e0",
+      "line_count": 1,
+      "source_type": "podcast_transcript",
+      "review_scope": "screened; selected relevant passages examined, claims not independently verified",
+      "disposition": "free/paid/concierge ladder; optional-assessment distinction retained"
+    },
+    {
+      "id": "C033",
+      "source_path": "/Users/forex/Downloads/GOOD FOLDERS/corey-sources/podcasts/this-hidden-codex-feature-prints-cash-no-one-is-doing-this.md",
+      "relative_path": "podcasts/this-hidden-codex-feature-prints-cash-no-one-is-doing-this.md",
+      "bytes": 33630,
+      "sha256": "f43c9bac4534bb33aecaa8896bfc6d0646bd737daf82d16e9260d0ffd222260f",
+      "line_count": 27,
+      "source_type": "podcast_transcript",
+      "review_scope": "screened; selected relevant passages examined, claims not independently verified",
+      "disposition": "agent-feature commentary; no commands, tool changes or financial claims adopted"
+    },
+    {
+      "id": "C034",
+      "source_path": "/Users/forex/Downloads/GOOD FOLDERS/corey-sources/tweets/coreyganim-tweets-4_22-9_03 - coreyganim-tweets-4_22-9_03.csv.md",
+      "relative_path": "tweets/coreyganim-tweets-4_22-9_03 - coreyganim-tweets-4_22-9_03.csv.md",
+      "bytes": 428095,
+      "sha256": "1ac7338ac161fc07087d4562ffe35d6fa5ce8e7cc2f1f060a62b7c2d1d28cb00",
+      "line_count": 11854,
+      "source_type": "tweet_export",
+      "review_scope": "screened; selected relevant passages examined, claims not independently verified",
+      "disposition": "tweet export screened by business topics; 478 date-delimited entries, metrics self-reported"
+    },
+    {
+      "id": "C035",
+      "source_path": "/Users/forex/Downloads/GOOD FOLDERS/corey-sources/videos-and-articles/Claude Cowork Masterclass for Beginners 2026 (Full Tutorial).md",
+      "relative_path": "videos-and-articles/Claude Cowork Masterclass for Beginners 2026 (Full Tutorial).md",
+      "bytes": 51298,
+      "sha256": "c181f307f5e6157467b62d1b9b9ee7f3ba4973a68e6433f1240a16639243dfde",
+      "line_count": 1,
+      "source_type": "video_transcript",
+      "review_scope": "screened; selected relevant passages examined, claims not independently verified",
+      "disposition": "technical tutorial; not production readiness, security assurance or a tool mandate"
+    },
+    {
+      "id": "C036",
+      "source_path": "/Users/forex/Downloads/GOOD FOLDERS/corey-sources/videos-and-articles/DON'T start an AI automation agency in 2026 (do this instead).md",
+      "relative_path": "videos-and-articles/DON'T start an AI automation agency in 2026 (do this instead).md",
+      "bytes": 25577,
+      "sha256": "35ab001a7ae894faf2f47696ff2099ef4fe7908de9ad7185b62590916ef27580",
+      "line_count": 1,
+      "source_type": "video_transcript",
+      "review_scope": "screened; selected relevant passages examined, claims not independently verified",
+      "disposition": "different free/paid/concierge model; distinguish recommendation from implementation"
+    },
+    {
+      "id": "C037",
+      "source_path": "/Users/forex/Downloads/GOOD FOLDERS/corey-sources/videos-and-articles/From Free AI Assessment to $2K Concierge_ Corey Ganim's Full Services Ladder.md",
+      "relative_path": "videos-and-articles/From Free AI Assessment to $2K Concierge_ Corey Ganim's Full Services Ladder.md",
+      "bytes": 34020,
+      "sha256": "515cd7b62593d53d748d599232bb2658e973bb9ca4ea63ca70941d75d4eb95fa",
+      "line_count": 355,
+      "source_type": "third_party_derivative_article",
+      "review_scope": "screened; selected relevant passages examined, claims not independently verified",
+      "disposition": "third-party derivative summary; useful navigation, not independent confirmation"
+    },
+    {
+      "id": "C038",
+      "source_path": "/Users/forex/Downloads/GOOD FOLDERS/corey-sources/videos-and-articles/How I Reclaimed 5–10 Hours a Week Using AI Systems.md",
+      "relative_path": "videos-and-articles/How I Reclaimed 5–10 Hours a Week Using AI Systems.md",
+      "bytes": 44181,
+      "sha256": "d722b147fefae0eaba070a17d98bb79f80ece3fa8dfed4c457f9eeec5df263d8",
+      "line_count": 1,
+      "source_type": "video_transcript",
+      "review_scope": "screened; selected relevant passages examined, claims not independently verified",
+      "disposition": "time-reclamation example; estimated opportunity distinct from observed result"
+    },
+    {
+      "id": "C039",
+      "source_path": "/Users/forex/Downloads/GOOD FOLDERS/corey-sources/videos-and-articles/How to Build & Sell Managed AI Agents in 2026 (No Code).md",
+      "relative_path": "videos-and-articles/How to Build & Sell Managed AI Agents in 2026 (No Code).md",
+      "bytes": 40721,
+      "sha256": "265cd9dde03b1ebd3984b2ea7adb1c17b1478e8385de42a72faaf1f036ce9882",
+      "line_count": 1,
+      "source_type": "video_transcript",
+      "review_scope": "screened; selected relevant passages examined, claims not independently verified",
+      "disposition": "managed-agent tutorial; defer recurring production obligations until capacity is proven"
+    },
+    {
+      "id": "C040",
+      "source_path": "/Users/forex/Downloads/GOOD FOLDERS/corey-sources/videos-and-articles/How to Sell AI to Boomers Who Hate AI.md",
+      "relative_path": "videos-and-articles/How to Sell AI to Boomers Who Hate AI.md",
+      "bytes": 12360,
+      "sha256": "6e3517a5241558121a7d76f03f142f065c1307e58529fab805ea7341a9646678",
+      "line_count": 1,
+      "source_type": "video_transcript",
+      "review_scope": "screened; selected relevant passages examined, claims not independently verified",
+      "disposition": "objection-handling rhetoric; retain factual qualification and reject pressure or unsupported ROI"
+    },
+    {
+      "id": "C041",
+      "source_path": "/Users/forex/Downloads/GOOD FOLDERS/corey-sources/videos-and-articles/How to make f_ck you money selling managed AI agents.md",
+      "relative_path": "videos-and-articles/How to make f_ck you money selling managed AI agents.md",
+      "bytes": 42563,
+      "sha256": "0133f99fab959dec0126c4879662112b578e20b5fb0418ff8329599eae9efd72",
+      "line_count": 1,
+      "source_type": "video_transcript",
+      "review_scope": "screened; selected relevant passages examined, claims not independently verified",
+      "disposition": "guest managed-agent claims; do not attribute guest economics to Corey or Clockout"
+    },
+    {
+      "id": "C042",
+      "source_path": "/Users/forex/Downloads/GOOD FOLDERS/corey-sources/videos-and-articles/I Built an AI Voice Agent With Claude + Voiceflow (Zero Code).md",
+      "relative_path": "videos-and-articles/I Built an AI Voice Agent With Claude + Voiceflow (Zero Code).md",
+      "bytes": 58069,
+      "sha256": "bf27f28ceca52e26e44469d72ecf1afa06eefad24447187d5037c341393d2772",
+      "line_count": 1,
+      "source_type": "video_transcript",
+      "review_scope": "screened; selected relevant passages examined, claims not independently verified",
+      "disposition": "voice-agent build demo; no customer-facing deployment or reliability claim adopted"
+    },
+    {
+      "id": "C043",
+      "source_path": "/Users/forex/Downloads/GOOD FOLDERS/corey-sources/videos-and-articles/I'm getting rich fixing boomer businesses with AI (here's how).md",
+      "relative_path": "videos-and-articles/I'm getting rich fixing boomer businesses with AI (here's how).md",
+      "bytes": 15360,
+      "sha256": "c061bed4f5066723fc8498c741138cb6f78dafc3d13b44a4d56ec42e9a4579c8",
+      "line_count": 1,
+      "source_type": "video_transcript",
+      "review_scope": "screened; selected relevant passages examined, claims not independently verified",
+      "disposition": "local-business positioning; owner problem before AI/tool selection"
+    },
+    {
+      "id": "C044",
+      "source_path": "/Users/forex/Downloads/GOOD FOLDERS/corey-sources/videos-and-articles/Month One-Person AI Agent Business (Full Blueprint).md",
+      "relative_path": "videos-and-articles/Month One-Person AI Agent Business (Full Blueprint).md",
+      "bytes": 47631,
+      "sha256": "66fc3953f41fb225c89163d046bfbad79e0de05913aba85968c54466f8c0e7e6",
+      "line_count": 1,
+      "source_type": "video_transcript",
+      "review_scope": "screened; selected relevant passages examined, claims not independently verified",
+      "disposition": "managed-agent blueprint; implementation/support burden not inferred from headline revenue"
+    },
+    {
+      "id": "C045",
+      "source_path": "/Users/forex/Downloads/GOOD FOLDERS/corey-sources/videos-and-articles/Reclaim Your Time with AI_ How Business Owners Are Freeing Up Hours Each Week _ Corey Ganim.md",
+      "relative_path": "videos-and-articles/Reclaim Your Time with AI_ How Business Owners Are Freeing Up Hours Each Week _ Corey Ganim.md",
+      "bytes": 35864,
+      "sha256": "4deeafe486c3ea77fe5d03497b1eb37ab5ba8f1490865ebd72bf7f811a2f343e",
+      "line_count": 1,
+      "source_type": "video_transcript",
+      "review_scope": "screened; selected relevant passages examined, claims not independently verified",
+      "disposition": "time-saving/owner interview context; no general saving guarantee adopted"
+    },
+    {
+      "id": "C046",
+      "source_path": "/Users/forex/Downloads/GOOD FOLDERS/corey-sources/videos-and-articles/The $1K AI Audit Business Anyone Can Start (Copy This).md",
+      "relative_path": "videos-and-articles/The $1K AI Audit Business Anyone Can Start (Copy This).md",
+      "bytes": 38374,
+      "sha256": "cd65f7a433c87b122a8636e0ba21f69a5246259cc9cf83adf5c9ed4deb0a9c2b",
+      "line_count": 1,
+      "source_type": "video_transcript",
+      "review_scope": "screened; selected relevant passages examined, claims not independently verified",
+      "disposition": "assessment call/report/review bundle; separate recommendations and implementation"
+    },
+    {
+      "id": "C047",
+      "source_path": "/Users/forex/Downloads/GOOD FOLDERS/corey-sources/videos-and-articles/The $1K AI Audit Business That Prints Money (Copy This) - Ryan Doser.md",
+      "relative_path": "videos-and-articles/The $1K AI Audit Business That Prints Money (Copy This) - Ryan Doser.md",
+      "bytes": 14195,
+      "sha256": "9f7d8c12492c092f15b060c775168be2550a3c5cc4164117980a345f2702ac85",
+      "line_count": 124,
+      "source_type": "third_party_hosted_article",
+      "review_scope": "screened; selected relevant passages examined, claims not independently verified",
+      "disposition": "Ryan Doser-hosted article/interview context; not an independent audit of economics"
+    },
+    {
+      "id": "C048",
+      "source_path": "/Users/forex/Downloads/GOOD FOLDERS/corey-sources/videos-and-articles/The $999 AI Offer Nobody's Talking About.md",
+      "relative_path": "videos-and-articles/The $999 AI Offer Nobody's Talking About.md",
+      "bytes": 60607,
+      "sha256": "9af093a3fedecc042f658ea9c62ecc34f6ba393c09738bf0691ce4affa344c9f",
+      "line_count": 1,
+      "source_type": "video_transcript",
+      "review_scope": "screened; selected relevant passages examined, claims not independently verified",
+      "disposition": "report/ROI/guarantee example; reject unmeasured savings and automatic refund promises"
+    },
+    {
+      "id": "C049",
+      "source_path": "/Users/forex/Downloads/GOOD FOLDERS/corey-sources/videos-and-articles/The $999 AI Tools Assessment_ A Practical Solo AI Consulting Business.md",
+      "relative_path": "videos-and-articles/The $999 AI Tools Assessment_ A Practical Solo AI Consulting Business.md",
+      "bytes": 37826,
+      "sha256": "514710ba4ccf67838248d7b7105d62585b3a57b865820fa5cbe61561df7f4b32",
+      "line_count": 377,
+      "source_type": "third_party_derivative_article",
+      "review_scope": "screened; selected relevant passages examined, claims not independently verified",
+      "disposition": "third-party derivative summary; not independent corroboration of assessment economics"
+    },
+    {
+      "id": "C050",
+      "source_path": "/Users/forex/Downloads/GOOD FOLDERS/corey-sources/videos-and-articles/The EASIEST $999 AI Offer ANYONE Can Sell This Week.md",
+      "relative_path": "videos-and-articles/The EASIEST $999 AI Offer ANYONE Can Sell This Week.md",
+      "bytes": 23765,
+      "sha256": "dec262166571a9885307d1f152438f57cb653170685aafda3790a0dff2e538e8",
+      "line_count": 1,
+      "source_type": "video_transcript",
+      "review_scope": "screened; selected relevant passages examined, claims not independently verified",
+      "disposition": "assessment offer example; no default $999 price or adoption mandate"
+    },
+    {
+      "id": "C051",
+      "source_path": "/Users/forex/Downloads/GOOD FOLDERS/corey-sources/videos-and-articles/The Easiest AI Business Idea 💡💰.md",
+      "relative_path": "videos-and-articles/The Easiest AI Business Idea 💡💰.md",
+      "bytes": 1404,
+      "sha256": "89ab7d48f76c6f0a03f49af2a50c523523d658f488c1aea55a55b9c8d13b08af",
+      "line_count": 1,
+      "source_type": "video_transcript",
+      "review_scope": "screened; selected relevant passages examined, claims not independently verified",
+      "disposition": "short promotional business-idea fragment; low evidentiary weight"
+    },
+    {
+      "id": "C052",
+      "source_path": "/Users/forex/Downloads/GOOD FOLDERS/corey-sources/videos-and-articles/The Ultimate AI Services Free Course _ $0-$10K in 30 Days.md",
+      "relative_path": "videos-and-articles/The Ultimate AI Services Free Course _ $0-$10K in 30 Days.md",
+      "bytes": 68437,
+      "sha256": "508ecc1b7b972ce28120b7a52c3f82a7449e0fbb68730c1bc531ed6d8769fd5c",
+      "line_count": 1,
+      "source_type": "video_transcript",
+      "review_scope": "screened; selected relevant passages examined, claims not independently verified",
+      "disposition": "educational course funnel and broad menu; not evidence of net service profit"
+    },
+    {
+      "id": "C053",
+      "source_path": "/Users/forex/Downloads/GOOD FOLDERS/corey-sources/videos-and-articles/Watch Me Close My First AI Agency Client From Scratch _Hidden Mic_.md",
+      "relative_path": "videos-and-articles/Watch Me Close My First AI Agency Client From Scratch _Hidden Mic_.md",
+      "bytes": 42928,
+      "sha256": "a90d470aee566d8db185becb0182b00b17c0e7f8c7d31b6b024b9bff35c3f3cc",
+      "line_count": 1,
+      "source_type": "video_transcript",
+      "review_scope": "screened; selected relevant passages examined, claims not independently verified",
+      "disposition": "local cold-sale demonstration; scope/proof still required, no predicted Clockout conversion"
+    },
+    {
+      "id": "C054",
+      "source_path": "/Users/forex/Downloads/GOOD FOLDERS/corey-sources/videos-and-articles/What a con artist taught me about selling AI - Corey Ganim.md",
+      "relative_path": "videos-and-articles/What a con artist taught me about selling AI - Corey Ganim.md",
+      "bytes": 11754,
+      "sha256": "c3f679f602fa98b1439e08f5b51444e2862482f8d914f000028545a7076c5ef1",
+      "line_count": 131,
+      "source_type": "newsletter_page_with_related_previews",
+      "review_scope": "screened; selected relevant passages examined, claims not independently verified",
+      "disposition": "newsletter primary body plus unrelated previews; sponsor/affiliate links and credits distinguished"
+    },
+    {
+      "id": "C055",
+      "source_path": "/Users/forex/Downloads/GOOD FOLDERS/corey-sources/videos-and-articles/hour AI business model NOBODY is talking about (yet).md",
+      "relative_path": "videos-and-articles/hour AI business model NOBODY is talking about (yet).md",
+      "bytes": 21330,
+      "sha256": "95efedda6ddbf06df382d2a7d960da15c3a901a295787b148e8477b46a340d1c",
+      "line_count": 1,
+      "source_type": "video_transcript",
+      "review_scope": "screened; selected relevant passages examined, claims not independently verified",
+      "disposition": "recurring strategy calls plus unlimited access; not fully costed hourly earnings"
+    },
+    {
+      "id": "C056",
+      "source_path": "/Users/forex/Downloads/GOOD FOLDERS/corey-sources/videos-and-articles/hour AI startup guide).md",
+      "relative_path": "videos-and-articles/hour AI startup guide).md",
+      "bytes": 25406,
+      "sha256": "89241919f60e5f921c518ab32855745b0539b09b961adeca384086fe147eb140",
+      "line_count": 1,
+      "source_type": "video_transcript",
+      "review_scope": "screened; selected relevant passages examined, claims not independently verified",
+      "disposition": "assessment phases and concierge call-time rates; track all labour/support and separate larger implementation"
+    },
+    {
+      "id": "C057",
+      "source_path": "/Users/forex/Downloads/GOOD FOLDERS/corey-sources/videos-and-articles/sell THIS if you're brand new to AI automation.md",
+      "relative_path": "videos-and-articles/sell THIS if you're brand new to AI automation.md",
+      "bytes": 14062,
+      "sha256": "f0653bb6f2a227a9050def55ce2cb3db9d650ed5ca7158a202a7445076be2f9d",
+      "line_count": 1,
+      "source_type": "video_transcript",
+      "review_scope": "screened; selected relevant passages examined, claims not independently verified",
+      "disposition": "problem/outcome lever, effort-impact, report and review structure; reusable method, not copy-paste ROI"
+    }
+  ]
+}

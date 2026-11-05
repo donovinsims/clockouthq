@@ -1,0 +1,96 @@
+{
+  "scenarios": [
+    {
+      "scenario": "A",
+      "profile": "donovin-sims",
+      "identity": "Donovin Sims",
+      "audience": "A",
+      "category": "practical_education",
+      "examples": 4,
+      "tiers": {
+        "typical": 3,
+        "weak": 1
+      },
+      "source_ids": [
+        "2101257241513058547",
+        "2104155840957829441",
+        "2078878531401183459",
+        "2075604173815792003"
+      ],
+      "attribution_and_original_text_intact": true
+    },
+    {
+      "scenario": "B",
+      "profile": "donovin-sims",
+      "identity": "Donovin Sims",
+      "audience": "A",
+      "category": "agents_tools_builds",
+      "examples": 4,
+      "tiers": {
+        "top": 1,
+        "typical": 2,
+        "unranked": 1
+      },
+      "source_ids": [
+        "2111888819079291157",
+        "2104155840957829441",
+        "2078878531401183459",
+        "2090200888426328490"
+      ],
+      "attribution_and_original_text_intact": true
+    },
+    {
+      "scenario": "C",
+      "profile": "donovin-sims",
+      "identity": "Donovin Sims",
+      "audience": "B",
+      "category": "business_operations",
+      "examples": 4,
+      "tiers": {
+        "typical": 3,
+        "weak": 1
+      },
+      "source_ids": [
+        "2097448393689940293",
+        "2089022624504647987",
+        "2081504334114853160",
+        "2100619288377958753"
+      ],
+      "attribution_and_original_text_intact": true
+    },
+    {
+      "scenario": "D",
+      "profile": "donovin-sims",
+      "identity": "Donovin Sims",
+      "audience": "A",
+      "category": "founder_journey",
+      "examples": 4,
+      "tiers": {
+        "top": 1,
+        "typical": 3
+      },
+      "source_ids": [
+        "2114703733007188231",
+        "2084225012203147576",
+        "2084402431052611909",
+        "2090747994035655039"
+      ],
+      "attribution_and_original_text_intact": true
+    }
+  ],
+  "corey_inventory": {
+    "originals": 405,
+    "formats": {
+      "article": 12,
+      "thread": 10,
+      "long": 228,
+      "quote": 109,
+      "short": 46
+    },
+    "positive_views": 394,
+    "unknown_or_ambiguous_views": 11
+  },
+  "automated_fact_verification": false,
+  "independent_human_review": false,
+  "published": false
+}

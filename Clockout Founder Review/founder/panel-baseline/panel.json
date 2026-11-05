@@ -1,0 +1,102 @@
+{
+ "n": 20,
+ "seed": 4242,
+ "customer": {
+  "business": "Clockout (Donovin Sims, Roscoe IL) — business optimization and AI implementation for owner-led local businesses",
+  "target": "owner-led service businesses in northern Illinois with roughly 2-25 employees, where the owner still answers the phone, quotes the work and personally decides what to buy",
+  "age": [
+   33,
+   62
+  ],
+  "segments": [
+   {
+    "name": "Owner of a 2-9 person trade or home-service business (HVAC, plumbing, electrical, landscaping, cleaning, auto, restoration)",
+    "share": 0.4,
+    "income": [
+     70000,
+     150000
+    ]
+   },
+   {
+    "name": "Owner of a 10-25 person service business (multi-crew trades, dental/medical office, retail, property services)",
+    "share": 0.25,
+    "income": [
+     110000,
+     240000
+    ]
+   },
+   {
+    "name": "Independent operator or solo professional (single truck, solo agent, one-chair shop)",
+    "share": 0.2,
+    "income": [
+     45000,
+     95000
+    ]
+   },
+   {
+    "name": "Small property manager or portfolio operator (40-200 units)",
+    "share": 0.15,
+    "income": [
+     75000,
+     160000
+    ]
+   }
+  ],
+  "behaviours": [
+   {
+    "name": "Burned before by a marketing agency",
+    "share": 0.2,
+    "how": "paid $500-$2,000 a month for a year, got reports about clicks and almost no jobs, and still resents it"
+   },
+   {
+    "name": "Price-first deal hunter",
+    "share": 0.15,
+    "how": "asks 'how much' in the first two minutes and compares every quote to the cheapest number on the table"
+   },
+   {
+    "name": "Referral-only buyer",
+    "share": 0.2,
+    "how": "buys almost nothing cold; wants to know who else in town used this person and how it went"
+   },
+   {
+    "name": "Do-it-myself owner",
+    "share": 0.15,
+    "how": "built the current website or set up the software himself at 11pm and is quietly proud and quietly exhausted by it"
+   },
+   {
+    "name": "Software collector",
+    "share": 0.1,
+    "how": "already pays for a CRM, a scheduling app and a review tool, uses about a third of each, and suspects the answer is not another subscription"
+   },
+   {
+    "name": "AI skeptic",
+    "share": 0.12,
+    "how": "has read the hype, thinks most of it is a chatbot, and worries a robot will answer a customer wrong and cost him the job"
+   },
+   {
+    "name": "Fast decider when trust is there",
+    "share": 0.08,
+    "how": "if the person seems straight and the price is clear, he decides in one meeting and hates being sold to twice"
+   }
+  ],
+  "objections": [
+   "I got burned by a marketing agency before and I'm not doing that again",
+   "I don't have time to sit in meetings about this",
+   "AI sounds like hype, and I can't have a robot saying the wrong thing to my customers",
+   "How do I know this will actually pay for itself?",
+   "I already pay for software I barely use",
+   "That's real money for something I can't see yet",
+   "I don't want another monthly contract I can't get out of",
+   "My business is different — a guy from outside the trade won't get it"
+  ],
+  "habits": [
+   "reads email on his phone in the truck between jobs, thumbs only",
+   "Monday morning is invoices, payroll and paperwork he has been putting off",
+   "either answers the phone in the middle of a job or misses it entirely",
+   "quotes by text or on a paper pad, then forgets to follow up on half of them",
+   "talks to two other owners a week, usually at the supply house or on a ball field",
+   "does the books at the kitchen table on Sunday night"
+  ]
+ },
+ "pitch": "I'm Donovin Sims. I run Clockout, out of Roscoe.\n\nI'll look at how your business handles inquiries, quotes and scheduling, find the one step that's costing you the most time, and tell you what I'd fix. That first look is free — about an hour of your time and a one-page write-up, no slide deck.\n\nIf you want me to fix it, I do the work myself. One job, fixed price agreed in writing before I start, usually somewhere between $1,500 and $3,500 depending on what it takes.\n\nYou keep your own accounts and logins. One round of revisions. Then I hand it over and show your own people how to run it, so you're not stuck with me.\n\nSometimes the honest answer is to change a process or set up software you already pay for. I'll tell you that instead of selling you something new."
+}

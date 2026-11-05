@@ -1,0 +1,13 @@
+{
+ "id": "P005",
+ "buys": false,
+ "purchases_first_month": 0,
+ "reason_code": "trust",
+ "reason": "I do not pay for advice from somebody I cannot place. If you have not fixed this for another HVAC or plumbing shop around Roscoe that I can call, I have got no reason to hand you an hour of my week. The free look is tempting, but I have been pitched free assessments before and it turns into a sales call.",
+ "objection": "A guy who has never run a service truck is going to look at my quote pile and tell me to buy software, when the real problem is I am on a roof until 6 and forget to call anybody back. I need to hear from an owner in town who says he actually fixed it, not from you.",
+ "would_change_my_mind": "Two or three owners I know, a plumber and an electrician within an hour of Roscoe, telling me straight that he fixed a real leak in their follow-up and did not touch their accounts or upsell them. Give me their numbers and I will call them myself.",
+ "price_too_cheap": 500,
+ "price_cheap": 1500,
+ "price_expensive": 3500,
+ "price_too_expensive": 6000
+}

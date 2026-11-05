@@ -1,0 +1,18 @@
+# Applies when extracted docs/ is the repository root.
+.DS_Store
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+*.p12
+*.pfx
+cookies*
+session-state*
+storage-state*
+private/
+client-records/
+financial-records/
+work/
+tmp/
+*.zip

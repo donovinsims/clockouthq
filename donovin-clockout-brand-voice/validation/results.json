@@ -1,0 +1,77 @@
+{
+  "status": "all_overlap_checks_passed",
+  "drafts": [
+    {
+      "draft": "validation/drafts/01-education.txt",
+      "editorial_exit": 0,
+      "editorial": {
+        "profile_id": "donovin-sims",
+        "format": "long",
+        "words": 137,
+        "baseline_author": "Corey Ganim reference",
+        "baseline_sample_count": 222,
+        "reference_median": 143.0,
+        "flags": [],
+        "caveat": "Heuristics only; manual facts, originality and voice review required."
+      },
+      "overlap_exit": 0,
+      "overlap_output": "Longest shared run: 3 words -> \"fill the gaps\" (post 2077788148285792662)\n5-word sequences copied from corpus: 0 of 133\nCorpora checked: donovin-sims: /Users/forex/Donovin_Voice_Guide/voice-clone/profiles/donovin-sims/data/corpus.jsonl, corey-ganim: /Users/forex/Donovin_Voice_Guide/voice-clone/profiles/corey-ganim/data/corpus.jsonl\nOK: no threshold overlap detected; manual idea/structure review still required.\n",
+      "overlap_error": ""
+    },
+    {
+      "draft": "validation/drafts/02-agent.txt",
+      "editorial_exit": 0,
+      "editorial": {
+        "profile_id": "donovin-sims",
+        "format": "long",
+        "words": 141,
+        "baseline_author": "Corey Ganim reference",
+        "baseline_sample_count": 222,
+        "reference_median": 143.0,
+        "flags": [],
+        "caveat": "Heuristics only; manual facts, originality and voice review required."
+      },
+      "overlap_exit": 0,
+      "overlap_output": "Longest shared run: 3 words -> \"this is a\" (post 2078058885257076908)\n5-word sequences copied from corpus: 0 of 137\nCorpora checked: donovin-sims: /Users/forex/Donovin_Voice_Guide/voice-clone/profiles/donovin-sims/data/corpus.jsonl, corey-ganim: /Users/forex/Donovin_Voice_Guide/voice-clone/profiles/corey-ganim/data/corpus.jsonl\nOK: no threshold overlap detected; manual idea/structure review still required.\n",
+      "overlap_error": ""
+    },
+    {
+      "draft": "validation/drafts/03-operations.txt",
+      "editorial_exit": 0,
+      "editorial": {
+        "profile_id": "donovin-sims",
+        "format": "long",
+        "words": 134,
+        "baseline_author": "Corey Ganim reference",
+        "baseline_sample_count": 222,
+        "reference_median": 143.0,
+        "flags": [],
+        "caveat": "Heuristics only; manual facts, originality and voice review required."
+      },
+      "overlap_exit": 0,
+      "overlap_output": "Longest shared run: 4 words -> \"and what happens when\" (post 2090200888426328490)\n5-word sequences copied from corpus: 0 of 130\nCorpora checked: donovin-sims: /Users/forex/Donovin_Voice_Guide/voice-clone/profiles/donovin-sims/data/corpus.jsonl, corey-ganim: /Users/forex/Donovin_Voice_Guide/voice-clone/profiles/corey-ganim/data/corpus.jsonl\nOK: no threshold overlap detected; manual idea/structure review still required.\n",
+      "overlap_error": ""
+    },
+    {
+      "draft": "validation/drafts/04-founder.txt",
+      "editorial_exit": 0,
+      "editorial": {
+        "profile_id": "donovin-sims",
+        "format": "long",
+        "words": 129,
+        "baseline_author": "Corey Ganim reference",
+        "baseline_sample_count": 222,
+        "reference_median": 143.0,
+        "flags": [
+          "Personal/numerical claim: verify dated source and public-use suitability manually"
+        ],
+        "caveat": "Heuristics only; manual facts, originality and voice review required."
+      },
+      "overlap_exit": 0,
+      "overlap_output": "Longest shared run: 3 words -> \"don't need a\" (post 2078058885257076908)\n5-word sequences copied from corpus: 0 of 125\nCorpora checked: donovin-sims: /Users/forex/Donovin_Voice_Guide/voice-clone/profiles/donovin-sims/data/corpus.jsonl, corey-ganim: /Users/forex/Donovin_Voice_Guide/voice-clone/profiles/corey-ganim/data/corpus.jsonl\nOK: no threshold overlap detected; manual idea/structure review still required.\n",
+      "overlap_error": ""
+    }
+  ],
+  "published": false,
+  "independent_human_evaluation": false
+}

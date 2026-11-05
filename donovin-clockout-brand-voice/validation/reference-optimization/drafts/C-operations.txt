@@ -1,0 +1,21 @@
+A follow-up reminder can fire on time and still be useless.
+
+Suppose a job is waiting for a customer's missing document. The reminder says “follow up,” but the employee still has to find the job, work out what's missing, and check whether someone already asked.
+
+That recurring search is part of the bottleneck.
+
+Write down the minimum information the person needs:
+
+- The job being held up
+- The specific missing item
+- The last contact and response
+- Who takes the next action
+- What closes the follow-up
+
+Then decide where that information belongs and who keeps it current.
+
+Test the revised handoff on sample jobs. Check whether someone can take the next step without reconstructing the history.
+
+Automation becomes easier to evaluate once you know what a useful reminder must contain.
+
+Faster notifications won't help much if every recipient has to investigate from scratch.

@@ -1,0 +1,13 @@
+{
+ "id": "P007",
+ "buys": false,
+ "purchases_first_month": 0,
+ "reason_code": "timing",
+ "reason": "I already pay for a CRM, a scheduler and a review tool I barely touch, so another offer in my inbox does not move me. This one is at least a flat fee with a written test instead of a monthly bill, but nothing is hurting bad enough this week to chase it.",
+ "objection": "I have been sold one simple fix before and ended up with another login and another thing to babysit. I do not know you, and my Monday paperwork is annoying, not an emergency.",
+ "would_change_my_mind": "One of my two owner buddies at the supply house telling me you actually fixed their quotes follow-up and it stuck after 30 days.",
+ "price_too_cheap": 150,
+ "price_cheap": 600,
+ "price_expensive": 2500,
+ "price_too_expensive": 5000
+}

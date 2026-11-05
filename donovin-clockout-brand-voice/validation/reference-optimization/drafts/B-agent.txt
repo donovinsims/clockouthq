@@ -1,0 +1,17 @@
+A useful document-review agent starts with two versions of one document.
+
+Here's a small build plan:
+
+1) Choose a baseline file and a revised file. Give each a clear version label.
+
+2) Have the agent return proposed changes in a table: old passage, new passage, location, and why the difference might matter.
+
+3) Keep the original passages beside its explanation. You should be able to inspect the comparison without hunting through both files.
+
+4) Add a deliberate trap to the test documents: move a paragraph without changing its wording. Does the agent report a new policy, or recognize that the text only moved?
+
+5) Review the table yourself before accepting anything. Keep source documents read-only during this test.
+
+Tool support varies. Check that your chosen tool can read both versions and point to the relevant passages before expanding the build.
+
+Get the comparison right on a small sample before putting recurring document reviews on a schedule.

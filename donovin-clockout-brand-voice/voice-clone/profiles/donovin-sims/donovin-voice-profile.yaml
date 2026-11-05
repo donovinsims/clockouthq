@@ -1,0 +1,110 @@
+{
+  "schema_version": "2.0",
+  "profile_id": "donovin-sims",
+  "as_of": "2026-11-01",
+  "identity": {
+    "name": "Donovin Sims",
+    "x": "https://x.com/donovinsims",
+    "linkedin": "https://www.linkedin.com/in/donovinsims",
+    "business": "Clockout",
+    "website": "https://clockout.us",
+    "facts": "voice-clone/profiles/donovin-sims/facts.md"
+  },
+  "positioning": "Teach practical AI so people can build useful things; Clockout diagnoses and implements operational improvements.",
+  "audiences": {
+    "A": "Working professionals and everyday AI learners seeking skills and independence",
+    "B": "Business owners, founders and operators seeking diagnosis and feasible implementation"
+  },
+  "content_strategy_file": "content-strategy.json",
+  "content_mix": {
+    "status": "initial_target_not_measured",
+    "practical_education": 60,
+    "agents_tools_builds": 20,
+    "business_operations": 15,
+    "founder_journey": 5
+  },
+  "tone": {
+    "status": "adopted_editorial_direction_not_empirical_Donovin_measurement",
+    "characteristics": [
+      "Direct",
+      "Practical",
+      "Commercially grounded",
+      "Generous and educational",
+      "Conversational and occasionally rough",
+      "Confident but evidence-conscious"
+    ]
+  },
+  "structures": {
+    "default_flow": "task/problem \u2192 practical move \u2192 steps/tools \u2192 test or constraints \u2192 useful ending",
+    "formats": {
+      "short": "One concrete observation, no forced expansion",
+      "long": "Worked process, labeled steps and checks",
+      "quote": "Respond to an actual supplied source",
+      "thread": "Connected steps; root statistics are not full-thread length",
+      "article": "Headings, detailed examples and tradeoffs",
+      "reply": "Limited reference evidence; context-specific draft only"
+    },
+    "casing": "Sentence case by default; casual lowercase optional",
+    "punctuation": "Prefer periods, commas, colons and blank lines; avoid default em dashes",
+    "ending": "Declarative or useful next step; optional genuine CTA"
+  },
+  "vocabulary": {
+    "reference": "voice-clone/profiles/donovin-sims/lexicon.md",
+    "never_blanket_ban": [
+      "optimize",
+      "framework",
+      "roadmap",
+      "leverage"
+    ],
+    "signature_phrases": "Optional seasoning, never quotas"
+  },
+  "positions_file": "voice-clone/profiles/donovin-sims/positions.md",
+  "commercial_progression": {
+    "entry": "Bounded Free Business Look",
+    "assessment": "Paid only when warranted",
+    "implementation": "Scoped to the actual problem",
+    "recurring": "Only for real ongoing needs with reliable delivery",
+    "all_stages_optional": true,
+    "evergreen_price": null
+  },
+  "excluded": [
+    "AI agency startup teaching",
+    "AI consulting sales coaching",
+    "agency client-acquisition education",
+    "consulting income promises",
+    "in-person workshops as Donovin offer",
+    "Corey personal outcomes as Donovin evidence"
+  ],
+  "provenance": {
+    "identity_source": "Owner brief and canonical Clockout records",
+    "canonical_tree": "0a3d45f9cc04c6c3446409c4f21034634fbd1fcb",
+    "style_author": "Corey Ganim",
+    "reference_profile": "voice-clone/profiles/corey-ganim/corey-voice-profile.yaml",
+    "reference_measurements": {
+      "author": "Corey Ganim",
+      "unique_originals": 405,
+      "measured": 395,
+      "holdout": 10,
+      "stats_file": "voice-clone/profiles/corey-ganim/data/stats.json"
+    },
+    "donovin_measurements": {
+      "authentic_originals": 0,
+      "per_format": {},
+      "status": "not_available"
+    },
+    "generated_drafts_are_training_data": false
+  },
+  "review": {
+    "facts": "Every experience needs dated evidence and public-use suitability",
+    "originality": "Check reference, own, separate draft history and other batch drafts; inspect lexical candidates and conceptual sequence manually",
+    "freshness": "Verify current tool abilities/prices in official sources",
+    "approval": "Deliver proposed drafts for Donovin review; never publish",
+    "guarantees": "No indistinguishability or virality claim"
+  },
+  "reference_workflow": {
+    "command": "python3 voice-clone/scripts/retrieve.py brief TOPIC --category practical_education --audience A --format long",
+    "examples": "3-6 balanced non-held-out sources",
+    "technique_extraction": "Inspect hook, rhythm, progression, detail and ending; source text stays attributed",
+    "history": "Separate nontraining draft/approved-edit/published ledger; no automatic identity or position changes"
+  }
+}

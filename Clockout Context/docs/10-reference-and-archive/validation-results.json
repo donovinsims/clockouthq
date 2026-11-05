@@ -1,0 +1,12 @@
+{
+  "status": "PASS",
+  "checks": {
+    "files": 95,
+    "relative_links": 134,
+    "anchors": 6,
+    "sources": 41,
+    "claims": 23,
+    "credential_pattern_matches": 0
+  },
+  "errors": []
+}

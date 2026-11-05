@@ -1,0 +1,13 @@
+{
+ "id": "P010",
+ "buys": false,
+ "purchases_first_month": 0,
+ "reason_code": "habit",
+ "reason": "I have already got software I pay for and barely touch, and I built my own setup at 11pm so I know what my gaps are. Paying a stranger in Roscoe $1,500 to $3,500 to tell me my process is clunky feels like buying back a problem I have basically already solved by ignoring it.",
+ "objection": "The free hour sounds nice until I remember the hour is my Monday morning, and I have been burned enough to assume the one page ends with a number in it. And if the honest answer is use what you already pay for, why am I paying him to say that?",
+ "would_change_my_mind": "If a manager I actually know in the area used him and could name the exact thing he fixed and what it cost, I would spend the free hour. Referral from someone who is not him is the only thing that moves me.",
+ "price_too_cheap": 200,
+ "price_cheap": 800,
+ "price_expensive": 2500,
+ "price_too_expensive": 5000
+}

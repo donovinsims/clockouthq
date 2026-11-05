@@ -1,0 +1,13 @@
+{
+ "id": "P020",
+ "buys": false,
+ "purchases_first_month": 0,
+ "reason_code": "trust",
+ "reason": "The one-pager is free, so I would read it over coffee Sunday night and probably nod at half of it. But I do not hand $950 to a fella I have never met to touch the way my shop runs, and no robot talks to your customers unless you approve every word still means a robot is in the loop somewhere.",
+ "objection": "My customers call me, not a machine. Whether it is a missed-call text or a quote follow-up, if it says one wrong thing about a price or a timeline, I am the one who eats it and I lose the job, and I do not know you well enough to bet my name on your setup.",
+ "would_change_my_mind": "If he showed me the actual words that would go out to my customers, sitting on my own phone, and let me keep my hands on the send button for the first month while he walks me through it, then I would talk about the $950.",
+ "price_too_cheap": 200,
+ "price_cheap": 750,
+ "price_expensive": 1800,
+ "price_too_expensive": 3000
+}

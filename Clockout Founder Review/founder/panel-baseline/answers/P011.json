@@ -1,0 +1,13 @@
+{
+ "id": "P011",
+ "buys": false,
+ "purchases_first_month": 0,
+ "reason_code": "trust",
+ "reason": "I do not buy from someone who just shows up, I buy from whoever the guy at the supply house or my electrician cousin vouches for. Donovin at least admits a process fix might be the answer, but I have had no one in town tell me he has been through an HVAC shop like mine.",
+ "objection": "Nobody I know has used him. An hour of my week is real money, and I have sat through free assessments before that turned into a pitch for software I did not need, that is exactly what Clockout sounds like.",
+ "would_change_my_mind": "Two owners I actually know in the trade, one of them with a shop my size, telling me he walked their quote-and-schedule mess and it stuck without breaking anything. Then I would take the free look.",
+ "price_too_cheap": 300,
+ "price_cheap": 1200,
+ "price_expensive": 3500,
+ "price_too_expensive": 6000
+}

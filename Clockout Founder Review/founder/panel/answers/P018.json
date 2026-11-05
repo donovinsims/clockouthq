@@ -1,0 +1,13 @@
+{
+ "id": "P018",
+ "buys": false,
+ "purchases_first_month": 0,
+ "reason_code": "price",
+ "reason": "I will read the free page if it shows up on my phone, but $950 for one fix is not something I am cutting a check for when I do not even know what is broke. I would rather chase the quotes myself than pay somebody to tell me my follow-up is bad.",
+ "objection": "The price is written down, but I still do not know what I am actually getting for $950 until after I have already paid $250, and half my problem is I do not have time to read a runbook or sit through revisions.",
+ "would_change_my_mind": "A free page that names a specific number I am losing every month, say $2,800 in quotes that went cold, and a flat price under $500 with nothing up front until I see it work.",
+ "price_too_cheap": 150,
+ "price_cheap": 400,
+ "price_expensive": 1200,
+ "price_too_expensive": 2500
+}

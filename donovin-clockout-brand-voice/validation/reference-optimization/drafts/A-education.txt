@@ -1,0 +1,21 @@
+“Can you sort this out?” is a rough starting point for an AI task.
+
+Before pasting that work request into a chat, split it into four pieces:
+
+The deliverable:
+What should you have when the task is finished?
+
+The material:
+Which notes, files or examples should it use?
+
+The limits:
+What must it leave alone? What information is still missing?
+
+The check:
+How will you decide whether the result is usable?
+
+Try it with a fictional request to organize a team update. Ask for a draft outline, not a polished report. See whether the outline contains the sections you actually need before asking for the full version.
+
+For workplace material, follow your organization's tool and data rules.
+
+A clearer task gives you something better to review. Save that task description when it works, and adjust it when the work changes.

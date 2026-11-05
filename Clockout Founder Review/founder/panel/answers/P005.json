@@ -1,0 +1,13 @@
+{
+ "id": "P005",
+ "buys": false,
+ "purchases_first_month": 0,
+ "reason_code": "trust",
+ "reason": "The follow-up problem is real, half my quotes sit there and I know it. But I buy from people somebody in town vouches for, and a guy from Roscoe who does not do HVAC or plumbing sending me a page he wrote without ever seeing my jobs, that is not a referral, that is a pitch.",
+ "objection": "He is selling me a process, not my trade. He has never run a crew, never had a homeowner go quiet on a $9,800 furnace swap, so his one page is going to tell me things I already know and then charge $950 to tell me again. And I still cannot name one shop around here that used him and what happened.",
+ "would_change_my_mind": "A name I actually know, a plumbing or HVAC owner within a half hour of me who paid him and can tell me what it did to their callbacks, and I would read the page before he calls me.",
+ "price_too_cheap": 100,
+ "price_cheap": 400,
+ "price_expensive": 1500,
+ "price_too_expensive": 3000
+}

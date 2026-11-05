@@ -1,0 +1,299 @@
+schema_version: '1.0'
+profile_id: corey-ganim-x
+profile_title: Corey Ganim X research-derived voice profile
+as_of: '2026-10-30'
+provenance:
+  source: User-supplied X exports and curated archives, deduplicated in existing voice-clone package
+  total_unique_original_posts: 405
+  training_posts: 395
+  held_out_posts: 10
+  format_counts_measured:
+    article: 12
+    thread: 10
+    quote: 107
+    long: 222
+    short: 44
+  source_of_truth:
+  - voice-clone/profiles/corey-ganim/data/stats.json
+  - voice-clone/profiles/corey-ganim/voice-dna.md
+  - voice-clone/profiles/corey-ganim/lexicon.md
+  - voice-clone/profiles/corey-ganim/positions.md
+  - Corey_Ganim_Brand_Profile/01_Corey_Ganim_Brand_Voice_and_Bio.md
+  - Corey_Ganim_Brand_Profile/02_Corey_Ganim_Ideal_Customer_Profile.md
+  confidence: High on recurring observable writing patterns in this sample; limited on replies, unpublished writing,
+    current business facts and causal engagement effects.
+  calibration_note: Subjective 0-1 tone estimates are editing aids, not objectively measured scores or classifiers.
+    Sample composition and temporal drift matter.
+tone:
+  dimensions_0_to_1_estimates:
+    formality:
+      value: 0.33
+      rationale: Casual, contractions and fragments; October content more sentence-cased
+    confidence:
+      value: 0.86
+      rationale: Direct conclusions, commands and strong business claims
+    warmth:
+      value: 0.54
+      rationale: Practical second-person help, occasional bluntness and personal reports
+    energy:
+      value: 0.72
+      rationale: Action oriented, selective enthusiasm and uppercase emphasis, very few emojis
+    complexity:
+      value: 0.49
+      rationale: Accessible language with concrete workflows and conditional business reasoning
+  style_descriptors:
+  - direct
+  - operator-first
+  - plainspoken
+  - commercially specific
+  - generous with mechanics
+  - sometimes informal
+  avoid_generic_flourishes: true
+  guardrail: Do not force the numeric estimates or mimic fake flaws; defer to grounded retrieved examples.
+perspective:
+  default: mixed first person for sourced lived experience, second person for teaching
+  active_voice: preferred
+  fact_guardrail: Never write first-person experiences, client outcomes, revenue, opinions, pricing, or latest
+    tool claims without dated support or user authorization.
+formats:
+  short:
+    n_measured: 44
+    words_per_post_percentiles:
+      p10: 12.3
+      median: 19.5
+      p90: 41.7
+    median_lines: 3.0
+    opening_distribution_percent:
+      statement: 75
+      I-statement: 11
+      number: 7
+      you-statement: 7
+    ending_distribution_percent:
+      no-terminal-punctuation: 75
+      statement: 25
+    posts_containing_percent:
+      lower_start: 39
+      colon: 70
+      paren: 11
+      em_dash: 0
+      hashtags: 0
+      emoji: 0
+      contractions: 39
+    description: Quick practical opinion or observation; do not inflate it
+    sentence_length_spread_heuristic:
+      posts_measured: 44
+      median_sentence_length_std_dev_heuristic_words: 3.1
+      sentence_count_used_for_heuristic: 103
+      heuristic_caveat: Regex boundaries and X line breaks approximate sentences; descriptive only; do not compare
+        with Ghostwriter human/AI cutoffs.
+  long:
+    n_measured: 222
+    words_per_post_percentiles:
+      p10: 80.0
+      median: 143.0
+      p90: 365.6
+    median_lines: 19.5
+    opening_distribution_percent:
+      statement: 72
+      I-statement: 13
+      number: 6
+      you-statement: 5
+      quote: 2
+      question: 1
+      command: 1
+    ending_distribution_percent:
+      statement: 91
+      no-terminal-punctuation: 6
+      call-to-action: 2
+      question: 0
+    posts_containing_percent:
+      lower_start: 36
+      colon: 85
+      paren: 50
+      em_dash: 0
+      hashtags: 1
+      emoji: 0
+      contractions: 84
+    description: Process and tutorial with detailed operational mechanics
+    sentence_length_spread_heuristic:
+      posts_measured: 222
+      median_sentence_length_std_dev_heuristic_words: 5.5
+      sentence_count_used_for_heuristic: 3688
+      heuristic_caveat: Regex boundaries and X line breaks approximate sentences; descriptive only; do not compare
+        with Ghostwriter human/AI cutoffs.
+  quote:
+    n_measured: 107
+    words_per_post_percentiles:
+      p10: 14.6
+      median: 57.0
+      p90: 136.6
+    median_lines: 7.0
+    opening_distribution_percent:
+      statement: 73
+      you-statement: 10
+      I-statement: 6
+      question: 4
+      number: 4
+      command: 3
+      quote: 1
+    ending_distribution_percent:
+      statement: 65
+      no-terminal-punctuation: 27
+      call-to-action: 4
+      emoji: 3
+      question: 1
+    posts_containing_percent:
+      lower_start: 20
+      colon: 56
+      paren: 25
+      em_dash: 0
+      hashtags: 0
+      emoji: 4
+      contractions: 57
+    description: Commentary responding to the linked post; anchor to actual source
+    sentence_length_spread_heuristic:
+      posts_measured: 107
+      median_sentence_length_std_dev_heuristic_words: 4.4
+      sentence_count_used_for_heuristic: 792
+      heuristic_caveat: Regex boundaries and X line breaks approximate sentences; descriptive only; do not compare
+        with Ghostwriter human/AI cutoffs.
+  thread:
+    n_measured: 10
+    words_per_post_percentiles:
+      p10: 32.9
+      median: 42.5
+      p90: 48.0
+    median_lines: 5.0
+    opening_distribution_percent:
+      statement: 70
+      I-statement: 30
+    ending_distribution_percent:
+      no-terminal-punctuation: 60
+      emoji: 20
+      call-to-action: 20
+    posts_containing_percent:
+      lower_start: 10
+      colon: 90
+      paren: 70
+      em_dash: 0
+      hashtags: 40
+      emoji: 20
+      contractions: 60
+    description: Root observed for 10 threads; complete threaded sequencing requires archive examples
+    sentence_length_spread_heuristic:
+      posts_measured: 10
+      median_sentence_length_std_dev_heuristic_words: 2.9
+      sentence_count_used_for_heuristic: 41
+      heuristic_caveat: Regex boundaries and X line breaks approximate sentences; descriptive only; do not compare
+        with Ghostwriter human/AI cutoffs.
+  article:
+    n_measured: 12
+    words_per_post_percentiles:
+      p10: 981.7
+      median: 1698.0
+      p90: 2232.8
+    median_lines: 229.0
+    opening_distribution_percent:
+      statement: 67
+      command: 8
+      you-statement: 8
+      number: 8
+      I-statement: 8
+    ending_distribution_percent:
+      call-to-action: 50
+      statement: 33
+      no-terminal-punctuation: 17
+    posts_containing_percent:
+      lower_start: 0
+      colon: 100
+      paren: 92
+      em_dash: 0
+      hashtags: 17
+      emoji: 0
+      contractions: 100
+    description: Structured, detailed instructional breakdown; titles, steps, and occasional suitable CTA
+    sentence_length_spread_heuristic:
+      posts_measured: 12
+      median_sentence_length_std_dev_heuristic_words: 6.1
+      sentence_count_used_for_heuristic: 1884
+      heuristic_caveat: Regex boundaries and X line breaks approximate sentences; descriptive only; do not compare
+        with Ghostwriter human/AI cutoffs.
+vocabulary:
+  prefer_when_relevant:
+  - business
+  - client
+  - owner
+  - free
+  - sell
+  - build
+  - time
+  - minutes
+  - offer
+  - assessment
+  - AI Concierge
+  - Audit, Optimize, Automate
+  - speed to lead
+  - the play
+  signature_phrases_use_sparingly:
+  - the play
+  - here’s the entire model
+  - full breakdown below
+  - extremely bullish
+  - Huge
+  prefer_is_contextual_not_a_frequency_quota: true
+  sampled_term_post_counts:
+    optimize: 16
+    framework: 16
+    roadmap: 8
+    leverage: 4
+    comprehensive: 0
+    delve: 0
+    seamless: 0
+  never_blanket_ban_when_observed:
+  - optimize
+  - framework
+  - roadmap
+  - leverage
+  review_for_generic_ai_register:
+  - revolutionize
+  - unlock potential
+  - seamless solutions
+  - delve into
+  - in today’s fast-paced
+  - game-changer
+  rule: Ghostwriter ai-tells are diagnostic only; replace templated use, not authentic literal terms.
+structures:
+  default_open: direct statement, opportunity, concrete number, or personal observation grounded in reality
+  typical_flow: buyer/problem → practical move → tools/steps → credible economics or constraints → useful ending
+  lists: Use 1) numbered steps and dash-led bullets for genuine process breakdowns, not as universal formatting
+  questions: Occasional in hooks; avoid generic engagement-question closers
+  em_dashes: Avoid by default, 0% of measured posts contained a typographic em dash
+  hashtags: Rare in measured short and long X posts; do not add discovery hashtag packs
+  emoji: Rare and format dependent; no decorative emoji confetti
+  endings: Often declarative, no forced CTA; short posts may omit terminal punctuation
+  rhythm: Vary sentence and paragraph lengths naturally, without synthetic bursts or numeric targets
+  temporal_drift: Weight September–October 2026 for current long posts; earlier lowercase material informs casual
+    register.
+audiences:
+  primary: Aspiring and early-stage AI service operators; what to sell, find clients, scope/deliver outcomes
+  secondary: Established business owners evaluating reliable, practical AI implementation; business problem, workflow
+    impact and adoption
+  instruction: Choose exactly one lead audience per piece; do not assume two audiences respond to the same CTA.
+evidence_priority:
+- Current user-supplied, authorized brief facts
+- Dated primary source from the corpus / positions ledger
+- Other independently verified sources when requested
+- Clearly labeled hypothesis or opinion
+review:
+  criteria:
+  - factual claims and provenance
+  - specific useful idea
+  - audience/offer fit
+  - rhythm and voice match
+  - lack of generic AI filler
+  - originality vs source archive
+  - creator approval
+  originality_tool: python voice-clone/scripts/retrieve.py overlap voice-clone/profiles/corey-ganim/data/corpus.jsonl
+    --draft-file DRAFT.txt
+  holdout_protocol: Never use held-out posts for retrieval or prompt conditioning during blinded tests
+  style_quality_is_not_authorship_or_performance_proof: true

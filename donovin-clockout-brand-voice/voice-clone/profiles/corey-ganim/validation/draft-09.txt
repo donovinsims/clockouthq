@@ -1,0 +1,15 @@
+A lot of people are trying to sell AI automation to companies that haven't documented how work actually happens.
+
+I'd approach it the other way around.
+
+First, ask the person doing the work to walk through a real example. Write down every tool, decision and handoff.
+
+Next, find the part that creates the most delays or rework. It might be a missing form field. It might be a messy approval rule. It might be someone retyping the same information into two systems.
+
+Fix the process with the simplest possible change.
+
+Only then decide whether an AI agent belongs anywhere in the workflow.
+
+This is less fun than showing someone a bot with a hundred integrations.
+
+But it's much easier to explain to the person paying the bill.

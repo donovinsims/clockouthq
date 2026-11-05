@@ -1,0 +1,192 @@
+{
+  "status": "synthetic_planning_example_not_published",
+  "target_mix": "60/20/15/5",
+  "allocation": {
+    "practical_education": 12,
+    "agents_tools_builds": 4,
+    "business_operations": 3,
+    "founder_journey": 1
+  },
+  "posts": [
+    {
+      "id": 1,
+      "category": "practical_education",
+      "lead_audience": "A",
+      "idea": "Turn sample meeting notes into a source-linked task table",
+      "angle": "Show unknown owners/dates and review suggestions versus commitments.",
+      "status": "unpublished_idea",
+      "evidence_requirement": "Labeled hypothetical example or verified source; no invented result"
+    },
+    {
+      "id": 2,
+      "category": "practical_education",
+      "lead_audience": "A",
+      "idea": "Turn a vague prompt into an input-output contract",
+      "angle": "Compare two hypothetical requests and define a useful finish line.",
+      "status": "unpublished_idea",
+      "evidence_requirement": "Labeled hypothetical example or verified source; no invented result"
+    },
+    {
+      "id": 3,
+      "category": "practical_education",
+      "lead_audience": "A",
+      "idea": "Build a reusable weekly planning prompt",
+      "angle": "Use fictional tasks and explain how to check priorities.",
+      "status": "unpublished_idea",
+      "evidence_requirement": "Labeled hypothetical example or verified source; no invented result"
+    },
+    {
+      "id": 4,
+      "category": "practical_education",
+      "lead_audience": "A",
+      "idea": "Summarize a document without losing the source",
+      "angle": "Require supporting passages and inspect one unsupported sentence.",
+      "status": "unpublished_idea",
+      "evidence_requirement": "Labeled hypothetical example or verified source; no invented result"
+    },
+    {
+      "id": 5,
+      "category": "practical_education",
+      "lead_audience": "A",
+      "idea": "Draft an email from a clear fact list",
+      "angle": "Keep dates and promises tied to provided facts.",
+      "status": "unpublished_idea",
+      "evidence_requirement": "Labeled hypothetical example or verified source; no invented result"
+    },
+    {
+      "id": 6,
+      "category": "practical_education",
+      "lead_audience": "A",
+      "idea": "Make a checklist from a repetitive task",
+      "angle": "Use a fictional office process and mark decision points.",
+      "status": "unpublished_idea",
+      "evidence_requirement": "Labeled hypothetical example or verified source; no invented result"
+    },
+    {
+      "id": 7,
+      "category": "practical_education",
+      "lead_audience": "A",
+      "idea": "Compare two drafts with an explicit rubric",
+      "angle": "Teach the reader to evaluate clarity and missing information.",
+      "status": "unpublished_idea",
+      "evidence_requirement": "Labeled hypothetical example or verified source; no invented result"
+    },
+    {
+      "id": 8,
+      "category": "practical_education",
+      "lead_audience": "A",
+      "idea": "Use AI to explain an unfamiliar term",
+      "angle": "Request a plain-English example and validate the explanation.",
+      "status": "unpublished_idea",
+      "evidence_requirement": "Labeled hypothetical example or verified source; no invented result"
+    },
+    {
+      "id": 9,
+      "category": "practical_education",
+      "lead_audience": "A",
+      "idea": "Separate facts from guesses in an AI answer",
+      "angle": "Annotate a hypothetical response and identify verification steps.",
+      "status": "unpublished_idea",
+      "evidence_requirement": "Labeled hypothetical example or verified source; no invented result"
+    },
+    {
+      "id": 10,
+      "category": "practical_education",
+      "lead_audience": "A",
+      "idea": "Prepare for a meeting from approved sample material",
+      "angle": "Build a question list without inventing participants or decisions.",
+      "status": "unpublished_idea",
+      "evidence_requirement": "Labeled hypothetical example or verified source; no invented result"
+    },
+    {
+      "id": 11,
+      "category": "practical_education",
+      "lead_audience": "A",
+      "idea": "Save a workflow instead of starting over",
+      "angle": "Define reusable instructions, inputs and review checks.",
+      "status": "unpublished_idea",
+      "evidence_requirement": "Labeled hypothetical example or verified source; no invented result"
+    },
+    {
+      "id": 12,
+      "category": "practical_education",
+      "lead_audience": "A",
+      "idea": "Turn an error into a smaller test",
+      "angle": "Reduce a failed example to one input and one expected output.",
+      "status": "unpublished_idea",
+      "evidence_requirement": "Labeled hypothetical example or verified source; no invented result"
+    },
+    {
+      "id": 13,
+      "category": "agents_tools_builds",
+      "lead_audience": "A",
+      "idea": "Give a reading-list agent a stopping point",
+      "angle": "Draft-only output, source passages and an irrelevant-document test.",
+      "status": "unpublished_idea",
+      "evidence_requirement": "Official feature check and actual test log before claiming a completed build"
+    },
+    {
+      "id": 14,
+      "category": "agents_tools_builds",
+      "lead_audience": "A",
+      "idea": "Design a personal reminder assistant",
+      "angle": "Explain input, human confirmation, exceptions and a mock test.",
+      "status": "unpublished_idea",
+      "evidence_requirement": "Official feature check and actual test log before claiming a completed build"
+    },
+    {
+      "id": 15,
+      "category": "agents_tools_builds",
+      "lead_audience": "B",
+      "idea": "Sketch an inquiry-routing agent",
+      "angle": "Proposed architecture; check ownership before any live connection.",
+      "status": "unpublished_idea",
+      "evidence_requirement": "Official feature check and actual test log before claiming a completed build"
+    },
+    {
+      "id": 16,
+      "category": "agents_tools_builds",
+      "lead_audience": "A",
+      "idea": "Compare manual workflow and agent workflow",
+      "angle": "Document a real test later; no invented speed or cost advantage.",
+      "status": "unpublished_idea",
+      "evidence_requirement": "Official feature check and actual test log before claiming a completed build"
+    },
+    {
+      "id": 17,
+      "category": "business_operations",
+      "lead_audience": "B",
+      "idea": "Trace a missed inquiry before choosing software",
+      "angle": "Map the handoff, owner and response-time baseline.",
+      "status": "unpublished_idea",
+      "evidence_requirement": "Labeled hypothetical example or verified source; no invented result"
+    },
+    {
+      "id": 18,
+      "category": "business_operations",
+      "lead_audience": "B",
+      "idea": "Decide when a paid assessment is warranted",
+      "angle": "Contrast a clear small fix with an ambiguous process; stages optional.",
+      "status": "unpublished_idea",
+      "evidence_requirement": "Labeled hypothetical example or verified source; no invented result"
+    },
+    {
+      "id": 19,
+      "category": "business_operations",
+      "lead_audience": "B",
+      "idea": "When a recurring service earns its place",
+      "angle": "Define ongoing responsibility, support capacity and measurable need.",
+      "status": "unpublished_idea",
+      "evidence_requirement": "Labeled hypothetical example or verified source; no invented result"
+    },
+    {
+      "id": 20,
+      "category": "founder_journey",
+      "lead_audience": "A",
+      "idea": "The practical direction behind building Clockout",
+      "angle": "Use supported Roscoe/NIU/Uber/Walgreens background without invented scenes.",
+      "status": "unpublished_idea",
+      "evidence_requirement": "Canonical founder profile and owner-adopted current direction"
+    }
+  ]
+}

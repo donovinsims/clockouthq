@@ -1,0 +1,13 @@
+{
+ "id": "P010",
+ "buys": false,
+ "purchases_first_month": 0,
+ "reason_code": "habit",
+ "reason": "I have bought enough software that promised to save me time and now I barely open half of it, the follow-up and the Monday paperwork get done by me at 11pm because I already know how. The free page is nice, but $950 to $2,500 is real money for something I would probably end up maintaining myself.",
+ "objection": "I am already paying for tools I barely use, so how do I know this one does not join the pile? And passes the written test, who writes the test?",
+ "would_change_my_mind": "A one-page write-up on my actual business that names something costing me money I had not spotted, plus one client in northern Illinois about my size who will take my call about whether the balance really was not charged.",
+ "price_too_cheap": 200,
+ "price_cheap": 500,
+ "price_expensive": 1500,
+ "price_too_expensive": 2500
+}

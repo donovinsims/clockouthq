@@ -1,0 +1,41 @@
+One of my favorite offers for a local AI operator is a process teardown.
+
+Not a 50-page audit no one reads.
+
+One workflow, documented with enough detail that the owner recognizes it.
+
+Here's how I'd structure the deliverable:
+
+The trigger:
+
+What starts the work? New lead, service request, invoice, scheduling conflict, customer question.
+
+The current process:
+
+Every person involved, every tool, every handoff. If the same information gets entered three times, show all three.
+
+The failure points:
+
+Where requests get stuck, where customers wait, where the owner has to intervene, and where someone makes a decision without the right context.
+
+The better process:
+
+What should be removed, standardized or reassigned before adding any automation.
+
+The first useful improvement:
+
+The smallest change that would make tomorrow easier, even if it requires zero AI.
+
+The automation candidate:
+
+If the workflow still has a repetitive step, identify exactly what a bot could do, what it would need to read, and when a human has to approve.
+
+The proof:
+
+One simple metric to check after the change. Response time, rework, missed inquiries, hours spent or invoices collected. Use the business's real baseline.
+
+The handoff:
+
+Who owns it. What happens when it breaks. Which parts the client can edit. Which parts require support.
+
+That's a much easier conversation than walking in and asking a business owner whether they want an AI agent.

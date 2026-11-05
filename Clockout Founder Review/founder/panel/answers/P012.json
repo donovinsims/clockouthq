@@ -1,0 +1,13 @@
+{
+ "id": "P012",
+ "buys": false,
+ "purchases_first_month": 0,
+ "reason_code": "habit",
+ "reason": "I already built my own site and set up my own software at 11pm, so paying someone $950 to $2,500 to redo a chunk of it stings. The free page would get read on a Monday between invoices and payroll, but I would file it in the do-it-myself pile.",
+ "objection": "Where does the $250 or $750 up front go, and what does my business actually look like while your fix is half-done? I am not hiring someone to touch my logins and my customer messages and then find out the written test was something you wrote to pass.",
+ "would_change_my_mind": "See the written test up front, spelled out in numbers I agree to, before I pay a dollar. If it is specific to missed calls turned into booked jobs, and you show me one local business it worked for, I would probably buy the $950 fix.",
+ "price_too_cheap": 150,
+ "price_cheap": 600,
+ "price_expensive": 2500,
+ "price_too_expensive": 5000
+}

@@ -1,0 +1,13 @@
+{
+ "id": "P008",
+ "buys": false,
+ "purchases_first_month": 0,
+ "reason_code": "trust",
+ "reason": "The free one-pager is fine, it does not cost me anything and I might read it in the truck between jobs. But I paid an agency over a grand a month for a year for click reports and got almost no work out of it, so a stranger in Roscoe telling me he will fix my follow-up for $950 sounds like the same movie with a smaller ticket.",
+ "objection": "Anyone can promise a written test up front. What burned me last time was not the pitch, it was that nobody could show me the money afterward, so how do I know his test is not just a nicer-sounding version of a clicks report?",
+ "would_change_my_mind": "A five-minute call with one other owner in the area, a plumber or another one-truck guy I could actually call, who says the missed-call fix put real booked jobs on his calendar, plus a test written in jobs and dollars, not deliverables, so I can tell if it failed.",
+ "price_too_cheap": 150,
+ "price_cheap": 400,
+ "price_expensive": 1200,
+ "price_too_expensive": 2600
+}

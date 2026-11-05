@@ -1,0 +1,24 @@
+test_cross_author_merge_rejected (test_voice_system.VoiceSystemTests.test_cross_author_merge_rejected) ... ok
+test_default_identity_and_separate_corpora (test_voice_system.VoiceSystemTests.test_default_identity_and_separate_corpora) ... ok
+test_editorial_uses_yaml_path_and_flags_claim (test_voice_system.VoiceSystemTests.test_editorial_uses_yaml_path_and_flags_claim) ... ok
+test_empty_own_search_and_cwd_independence (test_voice_system.VoiceSystemTests.test_empty_own_search_and_cwd_independence) ... ok
+test_holdout_and_per_format_measurement (test_voice_system.VoiceSystemTests.test_holdout_and_per_format_measurement) ... ok
+test_holdouts_excluded_from_normal_search (test_voice_system.VoiceSystemTests.test_holdouts_excluded_from_normal_search) ... ok
+test_ingest_deduplicates_and_unknown_metrics_unranked (test_voice_system.VoiceSystemTests.test_ingest_deduplicates_and_unknown_metrics_unranked) ... ok
+test_ingest_rejects_mixed_missing_and_generated (test_voice_system.VoiceSystemTests.test_ingest_rejects_mixed_missing_and_generated) ... ok
+test_invalid_profile_fails_clearly (test_voice_system.VoiceSystemTests.test_invalid_profile_fails_clearly) ... ok
+test_missing_id_is_stable_in_generic_normalizer (test_voice_system.VoiceSystemTests.test_missing_id_is_stable_in_generic_normalizer) ... ok
+test_overlap_flag_and_empty_corpus (test_voice_system.VoiceSystemTests.test_overlap_flag_and_empty_corpus) ... ok
+test_overlap_requires_one_draft (test_voice_system.VoiceSystemTests.test_overlap_requires_one_draft) ... ok
+test_own_stats_not_fabricated (test_voice_system.VoiceSystemTests.test_own_stats_not_fabricated) ... ok
+test_profile_changes_actual_baseline (test_voice_system.VoiceSystemTests.test_profile_changes_actual_baseline) ... ok
+test_profile_overlap_covers_both_authors (test_voice_system.VoiceSystemTests.test_profile_overlap_covers_both_authors) ... ok
+test_retrieval_legacy_and_profile_route (test_voice_system.VoiceSystemTests.test_retrieval_legacy_and_profile_route) ... ok
+test_strategy_allocation_and_instruction_copies (test_voice_system.VoiceSystemTests.test_strategy_allocation_and_instruction_copies) ... ok
+
+----------------------------------------------------------------------
+Ran 17 tests in 2.961s
+
+OK
+
+EXIT=0

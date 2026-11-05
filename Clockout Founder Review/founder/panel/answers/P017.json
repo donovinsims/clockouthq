@@ -1,0 +1,13 @@
+{
+ "id": "P017",
+ "buys": false,
+ "purchases_first_month": 0,
+ "reason_code": "habit",
+ "reason": "I do not buy from people I have not heard of, and nothing here tells me who in town has used Donovin or how it went. I already pay for software I barely use, so a free page on my phone does not get me to open my wallet.",
+ "objection": "Before I spend $950 I want a name I can call, another shop owner around Roscoe or Rockford who had this fixed and will tell me straight whether it was worth it and whether the handoff stuck after 30 days.",
+ "would_change_my_mind": "A referral from someone I trust in the trades who used him and says the fix is still holding months later, then I would read the page and talk.",
+ "price_too_cheap": 200,
+ "price_cheap": 500,
+ "price_expensive": 2500,
+ "price_too_expensive": 5000
+}

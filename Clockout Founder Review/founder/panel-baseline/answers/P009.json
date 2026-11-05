@@ -1,0 +1,13 @@
+{
+ "id": "P009",
+ "buys": false,
+ "purchases_first_month": 0,
+ "reason_code": "habit",
+ "reason": "I buy on referrals, and I do not know Donovin or anyone who has used him. Nothing here tells me who in town hired Clockout and whether it worked out.",
+ "objection": "Even at a fixed price, I am handing over my office manager time and my own Monday mornings to a stranger from Roscoe with no name I can check, and a one-page write-up does not tell me if the fix actually holds up after he is gone.",
+ "would_change_my_mind": "Two owners of businesses my size, nearby, who will take my call and tell me what he actually fixed and what it cost them.",
+ "price_too_cheap": 300,
+ "price_cheap": 1200,
+ "price_expensive": 3500,
+ "price_too_expensive": 6000
+}

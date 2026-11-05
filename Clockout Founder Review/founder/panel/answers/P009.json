@@ -1,0 +1,13 @@
+{
+ "id": "P009",
+ "buys": true,
+ "purchases_first_month": 950,
+ "reason_code": "trust",
+ "reason": "Free one-pager on my own business and no meeting to get it, that costs me nothing but a read on Monday. The price is written down before he starts and I only pay the balance if it passes the test, so the risk sits on his side, not mine.",
+ "objection": "I still do not know who in town used him and how it went. Nobody I trust has vouched for him yet, and the last thing I need is another monthly contract I cannot get out of.",
+ "would_change_my_mind": "One name I actually know, a fellow owner in the trades or a practice manager around here, who says he did what he promised and handed it over clean.",
+ "price_too_cheap": 200,
+ "price_cheap": 600,
+ "price_expensive": 2500,
+ "price_too_expensive": 5000
+}

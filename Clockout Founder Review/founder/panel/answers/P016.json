@@ -1,0 +1,13 @@
+{
+ "id": "P016",
+ "buys": true,
+ "purchases_first_month": 250,
+ "reason_code": "trust",
+ "reason": "The free one-pager costs me nothing but my phone number, and this time the money is tied to a test written down before he starts instead of reports about clicks. After the agency, that is the only kind of offer I will even read.",
+ "objection": "The written test is only worth something if I trust him to write a real one and not a test he can pass without anything changing in my week. And $2,500 is real money for a one-truck shop having a slow month.",
+ "would_change_my_mind": "The one-pager turning up late or generic, all talk about clicks and impressions and nothing about the quotes I am eating, or him dodging when I ask what exactly the test measures and who signs off on it.",
+ "price_too_cheap": 200,
+ "price_cheap": 600,
+ "price_expensive": 2500,
+ "price_too_expensive": 4000
+}

@@ -1,0 +1,7 @@
+if you're building an AI service business and don't have clients yet, your portfolio probably shouldn't be another collection of generic demos.
+
+Pick a real business with a visible problem.
+
+Document what is broken. Show the exact workflow that would improve it. Explain what you'd need from the owner before you could deploy anything.
+
+One useful piece of evidence beats a folder full of bots that solve nothing.

@@ -1,0 +1,18 @@
+Before buying another tool for missed inquiries, trace one inquiry through the business.
+
+Where did it arrive?
+Who was supposed to see it?
+What counted as a response?
+Where did the handoff stop?
+
+If nobody owns the next step, an integration can move the message faster and still leave it unanswered.
+
+Start with a simple process map. Name the person responsible, the expected response window, and what happens when they're unavailable.
+
+Then test the smallest change on sample inquiries.
+
+Track response time and whether each inquiry reaches the right person. Compare the same measures before and after. Don't turn a rough estimate into a savings claim.
+
+This is the order I want Clockout to follow: Audit → Optimize → Automate.
+
+The process has to be clear enough to know what the technology is supposed to improve.

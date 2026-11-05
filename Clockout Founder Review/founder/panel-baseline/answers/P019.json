@@ -1,0 +1,13 @@
+{
+ "id": "P019",
+ "buys": false,
+ "purchases_first_month": 0,
+ "reason_code": "price",
+ "reason": "Free look costs me an hour in the truck and my best hour is at 7am when quotes need to go out. And if it turns up something, I am looking at fifteen hundred to thirty-five hundred for a fix I probably could half-do myself with the software I already pay for.",
+ "objection": "That is real money for something I cannot see yet, I cannot compare his number to the cheapest number on the table because there is no other number. My phone bill and my scheduling software already quote me in dollars, his is prices for an hour of somebody opinion, and I have been burned by consultants who tell me to change a process.",
+ "would_change_my_mind": "Someone I actually know in the trades, a guy in Roscoe or Rockford who runs a crew I respect, telling me the free hour found a specific thing and the fix came in under two grand, with the number written down before he started.",
+ "price_too_cheap": 200,
+ "price_cheap": 750,
+ "price_expensive": 2500,
+ "price_too_expensive": 4000
+}

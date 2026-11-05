@@ -1,0 +1,13 @@
+{
+ "id": "P001",
+ "buys": true,
+ "purchases_first_month": 0,
+ "reason_code": "trust",
+ "reason": "The free one-pager costs me nothing and he is local out of Roscoe, so I would let him send it. But I do not hand $250 to a stranger off a cold pitch in a normal week, I would read the page first and see if he actually knows HVAC work.",
+ "objection": "Everyone is selling AI now and I cannot risk a half-baked tool mouthing off to my customers or blowing up my dispatch. A one-page write-up from somebody I have never met does not prove he can do the work.",
+ "would_change_my_mind": "The free page names something real about my business, my actual missed-call log, my actual Monday paperwork, and then a 15-minute call with two references from HVAC or plumbing shops my size who will say he answered the phone when it broke.",
+ "price_too_cheap": 200,
+ "price_cheap": 800,
+ "price_expensive": 2600,
+ "price_too_expensive": 5000
+}

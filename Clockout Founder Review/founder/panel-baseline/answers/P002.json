@@ -1,0 +1,13 @@
+{
+ "id": "P002",
+ "buys": false,
+ "purchases_first_month": 0,
+ "reason_code": "trust",
+ "reason": "I have already paid somebody $1,500 a month for a year to tell me about clicks instead of jobs, so a free hour and a one-page write-up does not get me back in that chair. If the fix is real, tell me the fix and the price in the email and skip the meeting.",
+ "objection": "An hour of my time is the most expensive thing on that page, and the last guy who wanted to look at how my business handles inquiries was building a retainer. I cannot tell from this whether you are a handyman who fixes one thing or a consultant who comes back every month.",
+ "would_change_my_mind": "A one-page sample of what you would actually write up for a business like mine, with the price and the finish line on it, sent to my phone - no meeting first. And someone in McHenry or Winnebago County whose quote-to-job time actually dropped who will take my call.",
+ "price_too_cheap": 300,
+ "price_cheap": 1500,
+ "price_expensive": 2700,
+ "price_too_expensive": 3500
+}

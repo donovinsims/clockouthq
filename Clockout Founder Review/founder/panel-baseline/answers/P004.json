@@ -1,0 +1,13 @@
+{
+ "id": "P004",
+ "buys": false,
+ "purchases_first_month": 0,
+ "reason_code": "trust",
+ "reason": "I am not paying a stranger three grand to fix something when I do not even know if his free look is just a sales pitch, and if he messes with how my calls get answered and a customer gets told wrong, that is my name on it, not his.",
+ "objection": "If he sets something up that talks to my customers and it says the wrong thing, I lose the job and I never hear about it until the customer is gone, and I have seen enough AI hype to figure most of this is a chatbot with a new label.",
+ "would_change_my_mind": "A reference from an owner in the trades around here who let him touch their phone and quoting, plus he shows me the fix first and I approve every word that goes to a customer before it goes live.",
+ "price_too_cheap": 300,
+ "price_cheap": 1200,
+ "price_expensive": 3500,
+ "price_too_expensive": 6000
+}

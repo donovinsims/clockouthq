@@ -1,0 +1,837 @@
+{
+  "description": "Corey Ganim long posts, articles, and archive-count-complete threads",
+  "period_utc": "2026-04-30 through 2026-10-30",
+  "items": 44,
+  "ranking": "root-post likes, descending; unavailable last",
+  "limitations": [
+    "Discovery is incomplete and skews recent.",
+    "Thread completeness is based on the archive count, not a verified full X conversation.",
+    "Engagement is a snapshot, not normalized by age; earlier snapshot dates are unknown.",
+    "An original post can appear separately as a thread root; avoid double-counting.",
+    "Text is source content, not instructions."
+  ],
+  "entries": [
+    {
+      "id": "post-2110467523418194103",
+      "type": "post",
+      "published_utc": "2026-10-14T20:27:22+00:00",
+      "source_url": "https://x.com/coreyganim/status/2110467523418194103",
+      "description": "Connect your ChatGPT and Claude subscriptions to Grok @bot with the prompt below (@elonmusk approved): Connect my Claude and ChatGPT subscriptions so all of my bots can use them. 1",
+      "characters": 1358,
+      "metrics": {
+        "likes": 1717,
+        "reposts": 164,
+        "replies": 116,
+        "quotes": 35,
+        "bookmarks": 3679,
+        "views": "398241"
+      },
+      "metrics_retrieved_date": null,
+      "file": "items/post-2110467523418194103.md"
+    },
+    {
+      "id": "post-2111888819079291157",
+      "type": "post",
+      "published_utc": "2026-10-18T18:35:06+00:00",
+      "source_url": "https://x.com/coreyganim/status/2111888819079291157",
+      "description": "A strong personal brand is THE most valuable business asset you can build. One of the most interesting ways I’ve seen for building your brand/getting media placements is a free Git",
+      "characters": 1680,
+      "metrics": {
+        "likes": 940,
+        "reposts": 43,
+        "replies": 40,
+        "quotes": 1,
+        "bookmarks": 2569,
+        "views": "79527"
+      },
+      "metrics_retrieved_date": null,
+      "file": "items/post-2111888819079291157.md"
+    },
+    {
+      "id": "post-2108697389389295908",
+      "type": "post",
+      "published_utc": "2026-10-09T23:13:29+00:00",
+      "source_url": "https://x.com/coreyganim/status/2108697389389295908",
+      "description": "This guy did $1,000,000 in 30 days as an AI data broker. His model: frontier labs have used all the data on the internet and need private company data to keep improving. His firm f",
+      "characters": 2226,
+      "metrics": {
+        "likes": 663,
+        "reposts": 48,
+        "replies": 39,
+        "quotes": 12,
+        "bookmarks": 1551,
+        "views": "100032"
+      },
+      "metrics_retrieved_date": null,
+      "file": "items/post-2108697389389295908.md"
+    },
+    {
+      "id": "post-2092559429275447742",
+      "type": "post",
+      "published_utc": "2026-08-26T10:27:00+00:00",
+      "source_url": "https://x.com/coreyganim/status/2092559429275447742",
+      "description": "Huge hack if you're using Grok Bot: Cursor has much fewer connectors than Claude/ChatGPT but the way to get around that is by using Composio. -Connect Composio connector to Grok Bo",
+      "characters": 425,
+      "metrics": {
+        "likes": 618,
+        "reposts": 24,
+        "replies": 46,
+        "quotes": 2,
+        "bookmarks": 933,
+        "views": "44365"
+      },
+      "metrics_retrieved_date": null,
+      "file": "items/post-2092559429275447742.md"
+    },
+    {
+      "id": "article-2094066129790755304",
+      "type": "article",
+      "published_utc": "2026-08-30T14:14:05+00:00",
+      "source_url": "https://x.com/coreyganim/status/2094066129790755304",
+      "description": "I've been selling AI consulting for a year, but last week I interviewed a guy who puts my model to shame. His name is Dino Watt and he recently closed a $30,000 AI consulting retai",
+      "characters": 12170,
+      "metrics": {
+        "likes": 603,
+        "reposts": 30,
+        "replies": 21,
+        "quotes": 2,
+        "bookmarks": 2437,
+        "views": "202216"
+      },
+      "metrics_retrieved_date": null,
+      "file": "items/article-2094066129790755304.md"
+    },
+    {
+      "id": "post-2113243121358147638",
+      "type": "post",
+      "published_utc": "2026-10-22T12:16:36+00:00",
+      "source_url": "https://x.com/coreyganim/status/2113243121358147638",
+      "description": "AI generated music is 1000x better than real music. Today I canceled Spotify and SiriusXM because I finally tested Suno. What sold me was the first prompt I gave it: “My favorite a",
+      "characters": 746,
+      "metrics": {
+        "likes": 498,
+        "reposts": 32,
+        "replies": 1184,
+        "quotes": 923,
+        "bookmarks": 724,
+        "views": "856992"
+      },
+      "metrics_retrieved_date": null,
+      "file": "items/post-2113243121358147638.md"
+    },
+    {
+      "id": "post-2112663410043470281",
+      "type": "post",
+      "published_utc": "2026-10-20T21:53:02+00:00",
+      "source_url": "https://x.com/coreyganim/status/2112663410043470281",
+      "description": "My top 10 Grok Bot use cases so far: 1. Chief of Staff bot. I delegate to it, it hands work to my other bots, and it catches conflicts like a call overlapping my flight or a podcas",
+      "characters": 1788,
+      "metrics": {
+        "likes": 493,
+        "reposts": 18,
+        "replies": 56,
+        "quotes": 6,
+        "bookmarks": 1026,
+        "views": "50106"
+      },
+      "metrics_retrieved_date": null,
+      "file": "items/post-2112663410043470281.md"
+    },
+    {
+      "id": "thread-2098536815175340180",
+      "type": "thread",
+      "published_utc": "2026-09-11T22:19:00+00:00",
+      "source_url": "https://x.com/coreyganim/status/2098536815175340180",
+      "archive_url": "https://threadreaderapp.com/thread/2098536815175340180.html",
+      "description": "every useful AI workspace needs these 4 files (at minimum): company. md customer. md offer. md voice. md Almost nobody asked what actually goes in the files or how to build them. H",
+      "characters": 2853,
+      "part_count": 9,
+      "complete_by_archive_count": true,
+      "metrics": {
+        "likes": 443,
+        "reposts": 23,
+        "replies": 23,
+        "quotes": 5,
+        "bookmarks": 1504,
+        "views": "50569"
+      },
+      "metrics_retrieved_date": "2026-10-30",
+      "file": "items/thread-2098536815175340180.md"
+    },
+    {
+      "id": "thread-2097270723194781853",
+      "type": "thread",
+      "published_utc": "2026-09-08T10:28:00+00:00",
+      "source_url": "https://x.com/coreyganim/status/2097270723194781853",
+      "archive_url": "https://threadreaderapp.com/thread/2097270723194781853.html",
+      "description": "We built a Second Brain for our business in 45 minutes. Now every new agent starts with full context. We found things in our own data we'd never have noticed. The exact system, ste",
+      "characters": 2655,
+      "part_count": 11,
+      "complete_by_archive_count": true,
+      "metrics": {
+        "likes": 440,
+        "reposts": 16,
+        "replies": 33,
+        "quotes": 0,
+        "bookmarks": 1526,
+        "views": "68065"
+      },
+      "metrics_retrieved_date": "2026-10-30",
+      "file": "items/thread-2097270723194781853.md"
+    },
+    {
+      "id": "thread-2102735796826681771",
+      "type": "thread",
+      "published_utc": "2026-09-23T12:24:15+00:00",
+      "source_url": "https://x.com/coreyganim/status/2102735796826681771",
+      "archive_url": "https://threadreaderapp.com/thread/2102735796826681771.html",
+      "description": "The 6 AI services SMBs actually pay for clearly explained. 1. AI Tools Assessment: $999 2. Process Redesign: $3,500 3. Knowledge System: $3,000 4. Custom Workflows: $3,000 to $5,00",
+      "characters": 3106,
+      "part_count": 9,
+      "complete_by_archive_count": true,
+      "metrics": {
+        "likes": 436,
+        "reposts": 27,
+        "replies": 23,
+        "quotes": 5,
+        "bookmarks": 1209,
+        "views": "34843"
+      },
+      "metrics_retrieved_date": "2026-10-30",
+      "file": "items/thread-2102735796826681771.md"
+    },
+    {
+      "id": "article-2084974468347121940",
+      "type": "article",
+      "published_utc": "2026-08-05T12:07:04+00:00",
+      "source_url": "https://x.com/coreyganim/status/2084974468347121940",
+      "description": "This business model is hiding in plain sight. In the next few minutes, I'll show you how one non-technical operator is installing AI \"employees\" inside small businesses and getting",
+      "characters": 10426,
+      "metrics": {
+        "likes": 414,
+        "reposts": 32,
+        "replies": 15,
+        "quotes": 4,
+        "bookmarks": 1205,
+        "views": "82601"
+      },
+      "metrics_retrieved_date": null,
+      "file": "items/article-2084974468347121940.md"
+    },
+    {
+      "id": "post-2066581137191776483",
+      "type": "post",
+      "published_utc": "2026-06-15T17:58:32+00:00",
+      "source_url": "https://x.com/coreyganim/status/2066581137191776483",
+      "description": "This week I crossed 50,000 followers on X. Hard to believe, because when I started posting about AI, I had 15k. Every one of them came from my old life: selling on Amazon. Most of ",
+      "characters": 4405,
+      "metrics": {
+        "likes": 355,
+        "reposts": 12,
+        "replies": 61,
+        "quotes": 1,
+        "bookmarks": 96,
+        "views": "66970"
+      },
+      "metrics_retrieved_date": null,
+      "file": "items/post-2066581137191776483.md"
+    },
+    {
+      "id": "post-2114703733007188231",
+      "type": "post",
+      "published_utc": "2026-10-26T13:00:33+00:00",
+      "source_url": "https://x.com/coreyganim/status/2114703733007188231",
+      "description": "I built a Grok Bot that acts as en elite fitness coach. It includes: -My full athlete profile -A complete exercise library -In-depth training and nutrition playbooks based on @Mind",
+      "characters": 826,
+      "metrics": {
+        "likes": 318,
+        "reposts": 9,
+        "replies": 44,
+        "quotes": 2,
+        "bookmarks": 591,
+        "views": "39321"
+      },
+      "metrics_retrieved_date": null,
+      "file": "items/post-2114703733007188231.md"
+    },
+    {
+      "id": "thread-2067913325229306159",
+      "type": "thread",
+      "published_utc": "2026-06-19T10:12:11+00:00",
+      "source_url": "https://x.com/coreyganim/status/2067913325229306159",
+      "archive_url": "https://threadreaderapp.com/thread/2067913325229306159.html",
+      "description": "I'm making $1,000 per hour as an AI Concierge. I scaled this offer to $8K MRR in 10 days. It requires 0 coding, minimal experience, and the demand is INSANE. How to start your own ",
+      "characters": 2929,
+      "part_count": 11,
+      "complete_by_archive_count": true,
+      "metrics": {
+        "likes": 295,
+        "reposts": 17,
+        "replies": 26,
+        "quotes": 1,
+        "bookmarks": 951,
+        "views": "45615"
+      },
+      "metrics_retrieved_date": "2026-10-30",
+      "file": "items/thread-2067913325229306159.md"
+    },
+    {
+      "id": "post-2092375719292862933",
+      "type": "post",
+      "published_utc": "2026-08-25T22:17:00+00:00",
+      "source_url": "https://x.com/coreyganim/status/2092375719292862933",
+      "description": "The exact prompt I used to build my Chief of Staff Grok Bot (bookmark this): Paste this as the Chief of Staff bot description: You are [Name]'s Chief of Staff. Your job is to prote",
+      "characters": 3068,
+      "metrics": {
+        "likes": 276,
+        "reposts": 15,
+        "replies": 11,
+        "quotes": 2,
+        "bookmarks": 747,
+        "views": "28048"
+      },
+      "metrics_retrieved_date": null,
+      "file": "items/post-2092375719292862933.md"
+    },
+    {
+      "id": "article-2078058885257076908",
+      "type": "article",
+      "published_utc": "2026-07-17T10:07:01+00:00",
+      "source_url": "https://x.com/coreyganim/status/2078058885257076908",
+      "description": "Business owners know AI exists. They've seen the demos. They've tried ChatGPT. But they're stuck. They're drowning in tools and have no idea which ones solve their specific problem",
+      "characters": 6022,
+      "metrics": {
+        "likes": 274,
+        "reposts": 19,
+        "replies": 14,
+        "quotes": 6,
+        "bookmarks": 742,
+        "views": "27395"
+      },
+      "metrics_retrieved_date": null,
+      "file": "items/article-2078058885257076908.md"
+    },
+    {
+      "id": "post-2111182906370781683",
+      "type": "post",
+      "published_utc": "2026-10-16T19:50:03+00:00",
+      "source_url": "https://x.com/coreyganim/status/2111182906370781683",
+      "description": "I know data brokering is a hot topic on X right now and a lot of people think it's a bubble that has a short runway but hear me out: Right now the frontier labs are the primary buy",
+      "characters": 939,
+      "metrics": {
+        "likes": 237,
+        "reposts": 9,
+        "replies": 22,
+        "quotes": 4,
+        "bookmarks": 385,
+        "views": "29427"
+      },
+      "metrics_retrieved_date": null,
+      "file": "items/post-2111182906370781683.md"
+    },
+    {
+      "id": "post-2110700709448499694",
+      "type": "post",
+      "published_utc": "2026-10-15T11:53:58+00:00",
+      "source_url": "https://x.com/coreyganim/status/2110700709448499694",
+      "description": "This got a RT from @elonmusk because it flat out works. To the folks who think this is against Anthropic TOS, here's how it works: Your Grok @bot is calling Codex/Claude Code via t",
+      "characters": 346,
+      "metrics": {
+        "likes": 220,
+        "reposts": 14,
+        "replies": 23,
+        "quotes": 2,
+        "bookmarks": 347,
+        "views": "45594"
+      },
+      "metrics_retrieved_date": null,
+      "file": "items/post-2110700709448499694.md"
+    },
+    {
+      "id": "post-2115389605851599038",
+      "type": "post",
+      "published_utc": "2026-10-28T10:25:58+00:00",
+      "source_url": "https://x.com/coreyganim/status/2115389605851599038",
+      "description": "If you want to get clients, make connections, build trust, etc... You NEED to be hosting in person events. This is my 4th month in a row hosting a local in-person AI For Business m",
+      "characters": 2056,
+      "metrics": {
+        "likes": 191,
+        "reposts": 4,
+        "replies": 44,
+        "quotes": 0,
+        "bookmarks": 174,
+        "views": "10291"
+      },
+      "metrics_retrieved_date": null,
+      "file": "items/post-2115389605851599038.md"
+    },
+    {
+      "id": "thread-2074076221302874178",
+      "type": "thread",
+      "published_utc": "2026-07-06T10:21:20+00:00",
+      "source_url": "https://x.com/coreyganim/status/2074076221302874178",
+      "archive_url": "https://threadreaderapp.com/thread/2074076221302874178.html",
+      "description": "It's been 1 month since since we built our AI Second Brain. -All our data is searchable -New agents start with full context -We unlocked insights we'd never have otherwise Our busi",
+      "characters": 1615,
+      "part_count": 7,
+      "complete_by_archive_count": true,
+      "metrics": {
+        "likes": 174,
+        "reposts": 9,
+        "replies": 14,
+        "quotes": 4,
+        "bookmarks": 418,
+        "views": "34212"
+      },
+      "metrics_retrieved_date": "2026-10-30",
+      "file": "items/thread-2074076221302874178.md"
+    },
+    {
+      "id": "article-2095505027536224349",
+      "type": "article",
+      "published_utc": "2026-09-03T13:31:45+00:00",
+      "source_url": "https://x.com/coreyganim/status/2095505027536224349",
+      "description": "EVERYONE is sleeping on this offer because it's not what 99.9% of people think of when they think \"make money with AI\". Most people are trying to build an agency, a SaaS, or an app",
+      "characters": 12890,
+      "metrics": {
+        "likes": 168,
+        "reposts": 3,
+        "replies": 14,
+        "quotes": 1,
+        "bookmarks": 441,
+        "views": "31872"
+      },
+      "metrics_retrieved_date": null,
+      "file": "items/article-2095505027536224349.md"
+    },
+    {
+      "id": "article-2093074260361347474",
+      "type": "article",
+      "published_utc": "2026-08-27T20:32:45+00:00",
+      "source_url": "https://x.com/coreyganim/status/2093074260361347474",
+      "description": "24 hours after I downloaded Grok Bot, it closed a $999 deal out of my inbox. It fielded the lead, drafted 2 replies, sent a Stripe link, and made sure the lead paid while I was wor",
+      "characters": 9876,
+      "metrics": {
+        "likes": 165,
+        "reposts": 16,
+        "replies": 5,
+        "quotes": 1,
+        "bookmarks": 513,
+        "views": "55656"
+      },
+      "metrics_retrieved_date": null,
+      "file": "items/article-2093074260361347474.md"
+    },
+    {
+      "id": "article-2087907515795443846",
+      "type": "article",
+      "published_utc": "2026-08-13T14:21:57+00:00",
+      "source_url": "https://x.com/coreyganim/status/2087907515795443846",
+      "description": "Stop using AI to collect business ideas. That's a waste of time. Instead, use Codex to do everything that comes after the idea: offer, pricing, pitch, website, and a walk-in prospe",
+      "characters": 12192,
+      "metrics": {
+        "likes": 161,
+        "reposts": 13,
+        "replies": 1,
+        "quotes": 2,
+        "bookmarks": 384,
+        "views": "45535"
+      },
+      "metrics_retrieved_date": null,
+      "file": "items/article-2087907515795443846.md"
+    },
+    {
+      "id": "post-2115476203184218336",
+      "type": "post",
+      "published_utc": "2026-10-28T16:10:05+00:00",
+      "source_url": "https://x.com/coreyganim/status/2115476203184218336",
+      "description": "8 open source GitHub repos you can turn into a cash-flowing AI service business overnight. Below are the exact offers you can sell. All of them are solopreneur-friendly. Most of th",
+      "characters": 2140,
+      "metrics": {
+        "likes": 153,
+        "reposts": 11,
+        "replies": 17,
+        "quotes": 2,
+        "bookmarks": 374,
+        "views": "10335"
+      },
+      "metrics_retrieved_date": null,
+      "file": "items/post-2115476203184218336.md"
+    },
+    {
+      "id": "post-2115115153540669747",
+      "type": "post",
+      "published_utc": "2026-10-27T16:15:24+00:00",
+      "source_url": "https://x.com/coreyganim/status/2115115153540669747",
+      "description": "The most underrated thing you can do with Claude Code right now: Remotion Recaps It's been super useful asking Claude to turn its own output into a 2-minute video. I've been doing ",
+      "characters": 1259,
+      "metrics": {
+        "likes": 145,
+        "reposts": 5,
+        "replies": 29,
+        "quotes": 3,
+        "bookmarks": 331,
+        "views": "13396"
+      },
+      "metrics_retrieved_date": null,
+      "file": "items/post-2115115153540669747.md"
+    },
+    {
+      "id": "thread-2100981172272865755",
+      "type": "thread",
+      "published_utc": "2026-09-18T16:12:00+00:00",
+      "source_url": "https://x.com/coreyganim/status/2100981172272865755",
+      "archive_url": "https://threadreaderapp.com/thread/2100981172272865755.html",
+      "description": "My friend made $80,000 in 7 months running a simple, free local AI meetup that lands paying clients. Here's his entire 10-step playbook: (#6 tells you who's buying before they walk",
+      "characters": 2874,
+      "part_count": 13,
+      "complete_by_archive_count": true,
+      "metrics": {
+        "likes": 143,
+        "reposts": 10,
+        "replies": 9,
+        "quotes": 1,
+        "bookmarks": 351,
+        "views": "12951"
+      },
+      "metrics_retrieved_date": "2026-10-30",
+      "file": "items/thread-2100981172272865755.md"
+    },
+    {
+      "id": "article-2100948018434281701",
+      "type": "article",
+      "published_utc": "2026-09-18T14:00:15+00:00",
+      "source_url": "https://x.com/coreyganim/status/2100948018434281701",
+      "description": "Ten clients on one free open-source repo is roughly $3,000 a month in recurring revenue for about 10 hours of work. The software costs you nothing. The buyer never needs to know wh",
+      "characters": 12890,
+      "metrics": {
+        "likes": 139,
+        "reposts": 6,
+        "replies": 9,
+        "quotes": 1,
+        "bookmarks": 439,
+        "views": "37030"
+      },
+      "metrics_retrieved_date": null,
+      "file": "items/article-2100948018434281701.md"
+    },
+    {
+      "id": "article-2049837999534318073",
+      "type": "article",
+      "published_utc": "2026-04-30T13:07:17+00:00",
+      "source_url": "https://x.com/coreyganim/status/2049837999534318073",
+      "description": "35 KILLER Claude Prompts That Do The Work For You (steal these)",
+      "characters": 6734,
+      "metrics": {
+        "likes": 139,
+        "reposts": 20,
+        "replies": 7,
+        "quotes": 3,
+        "bookmarks": 333,
+        "views": "20049"
+      },
+      "metrics_retrieved_date": null,
+      "file": "items/article-2049837999534318073.md"
+    },
+    {
+      "id": "article-2054569765071372600",
+      "type": "article",
+      "published_utc": "2026-05-13T14:29:38+00:00",
+      "source_url": "https://x.com/coreyganim/status/2054569765071372600",
+      "description": "I want to build an AI voice agent (full setup guide)",
+      "characters": 7167,
+      "metrics": {
+        "likes": 135,
+        "reposts": 17,
+        "replies": 11,
+        "quotes": 0,
+        "bookmarks": 301,
+        "views": "10383"
+      },
+      "metrics_retrieved_date": null,
+      "file": "items/article-2054569765071372600.md"
+    },
+    {
+      "id": "article-2051293720138432635",
+      "type": "article",
+      "published_utc": "2026-05-04T13:31:48+00:00",
+      "source_url": "https://x.com/coreyganim/status/2051293720138432635",
+      "description": "How to build your AI Second Brain with no code (Karpathy's method clearly explained)",
+      "characters": 5761,
+      "metrics": {
+        "likes": 121,
+        "reposts": 17,
+        "replies": 6,
+        "quotes": 2,
+        "bookmarks": 403,
+        "views": "97723"
+      },
+      "metrics_retrieved_date": null,
+      "file": "items/article-2051293720138432635.md"
+    },
+    {
+      "id": "post-2109989049305842150",
+      "type": "post",
+      "published_utc": "2026-10-13T12:46:05+00:00",
+      "source_url": "https://x.com/coreyganim/status/2109989049305842150",
+      "description": "If you built a second brain but haven't told Claude/Codex how to use it, it's useless. The fix takes 90 seconds. Add a set of custom instructions (full prompt below) that tell it: ",
+      "characters": 2732,
+      "metrics": {
+        "likes": 118,
+        "reposts": 5,
+        "replies": 16,
+        "quotes": 2,
+        "bookmarks": 304,
+        "views": "12607"
+      },
+      "metrics_retrieved_date": null,
+      "file": "items/post-2109989049305842150.md"
+    },
+    {
+      "id": "post-2114771654098530627",
+      "type": "post",
+      "published_utc": "2026-10-26T17:30:27+00:00",
+      "source_url": "https://x.com/coreyganim/status/2114771654098530627",
+      "description": "I run 6 Grok Bots that fire 14 routines a week across 11 connected apps. Here's the full breakdown of my top 10 use cases, including the schedule each one runs on. Full video walks",
+      "characters": 2217,
+      "metrics": {
+        "likes": 115,
+        "reposts": 5,
+        "replies": 19,
+        "quotes": 1,
+        "bookmarks": 224,
+        "views": "9947"
+      },
+      "metrics_retrieved_date": null,
+      "file": "items/post-2114771654098530627.md"
+    },
+    {
+      "id": "thread-2100257655461982416",
+      "type": "thread",
+      "published_utc": "2026-09-16T16:17:00+00:00",
+      "source_url": "https://x.com/coreyganim/status/2100257655461982416",
+      "archive_url": "https://threadreaderapp.com/thread/2100257655461982416.html",
+      "description": "The simplest way to sell managed AI agents if you have zero case studies: A 30-day paid pilot with one job. The full structure in 9 steps (#7 is the one page that earns the renewal",
+      "characters": 2668,
+      "part_count": 12,
+      "complete_by_archive_count": true,
+      "metrics": {
+        "likes": 113,
+        "reposts": 4,
+        "replies": 16,
+        "quotes": 0,
+        "bookmarks": 296,
+        "views": "12461"
+      },
+      "metrics_retrieved_date": "2026-10-30",
+      "file": "items/thread-2100257655461982416.md"
+    },
+    {
+      "id": "article-2089766791321133401",
+      "type": "article",
+      "published_utc": "2026-08-18T17:30:03+00:00",
+      "source_url": "https://x.com/coreyganim/status/2089766791321133401",
+      "description": "You don't need to do cold outreach or know how to code to start making money selling AI services. I built my AI services business past $10K a month in under a year with a three-sta",
+      "characters": 10807,
+      "metrics": {
+        "likes": 108,
+        "reposts": 6,
+        "replies": 8,
+        "quotes": 2,
+        "bookmarks": 255,
+        "views": "63242"
+      },
+      "metrics_retrieved_date": null,
+      "file": "items/article-2089766791321133401.md"
+    },
+    {
+      "id": "post-2099808193178485185",
+      "type": "post",
+      "published_utc": "2026-09-15T10:31:00+00:00",
+      "source_url": "https://x.com/coreyganim/status/2099808193178485185",
+      "description": "The exact 2-sentence prompt I used to hire my Chief of Staff Grok Bot (bookmark this): \"You're my Chief of Staff bot. I want you to give me a list of all the things that a typical ",
+      "characters": 958,
+      "metrics": {
+        "likes": 104,
+        "reposts": 6,
+        "replies": 12,
+        "quotes": 0,
+        "bookmarks": 269,
+        "views": "9767"
+      },
+      "metrics_retrieved_date": null,
+      "file": "items/post-2099808193178485185.md"
+    },
+    {
+      "id": "thread-2099260836632260647",
+      "type": "thread",
+      "published_utc": "2026-09-13T22:16:00+00:00",
+      "source_url": "https://x.com/coreyganim/status/2099260836632260647",
+      "archive_url": "https://threadreaderapp.com/thread/2099260836632260647.html",
+      "description": "The most slept on client acquisition channel in AI consulting is other consultants. The full referral partner playbook in 8 plays, including the follow up rule that decides whether",
+      "characters": 3389,
+      "part_count": 11,
+      "complete_by_archive_count": true,
+      "metrics": {
+        "likes": 93,
+        "reposts": 4,
+        "replies": 17,
+        "quotes": 1,
+        "bookmarks": 189,
+        "views": "10024"
+      },
+      "metrics_retrieved_date": "2026-10-30",
+      "file": "items/thread-2099260836632260647.md"
+    },
+    {
+      "id": "thread-2062474022269395074",
+      "type": "thread",
+      "published_utc": "2026-06-04T09:58:20+00:00",
+      "source_url": "https://x.com/coreyganim/status/2062474022269395074",
+      "archive_url": "https://threadreaderapp.com/thread/2062474022269395074.html",
+      "description": "I'm making $1,000/hour with an AI services offer. It's simple. It's high value. And it doesn't require you to be technical or build some giant custom system. The full model explain",
+      "characters": 1616,
+      "part_count": 7,
+      "complete_by_archive_count": true,
+      "metrics": {
+        "likes": 90,
+        "reposts": 6,
+        "replies": 9,
+        "quotes": 1,
+        "bookmarks": 199,
+        "views": "16266"
+      },
+      "metrics_retrieved_date": "2026-10-30",
+      "file": "items/thread-2062474022269395074.md"
+    },
+    {
+      "id": "thread-2066873370520551810",
+      "type": "thread",
+      "published_utc": "2026-06-16T13:19:46+00:00",
+      "source_url": "https://x.com/coreyganim/status/2066873370520551810",
+      "archive_url": "https://threadreaderapp.com/thread/2066873370520551810.html",
+      "description": "The top 7 ways to land $999 AI Audit clients (even if you have no money, experience, or audience) ...and how you can implement them this week. 1. 15-minute Mini AI Audits",
+      "characters": 3265,
+      "part_count": 9,
+      "complete_by_archive_count": true,
+      "metrics": {
+        "likes": 82,
+        "reposts": 3,
+        "replies": 6,
+        "quotes": 1,
+        "bookmarks": 228,
+        "views": "13915"
+      },
+      "metrics_retrieved_date": "2026-10-30",
+      "file": "items/thread-2066873370520551810.md"
+    },
+    {
+      "id": "post-2113313048316272831",
+      "type": "post",
+      "published_utc": "2026-10-22T16:54:28+00:00",
+      "source_url": "https://x.com/coreyganim/status/2113313048316272831",
+      "description": "9 free Grok Bot templates you can install as a service this week: All 9 are in the xAI marketplace. Here's what each one does, with a link to the template. Full video walks through",
+      "characters": 2280,
+      "metrics": {
+        "likes": 71,
+        "reposts": 2,
+        "replies": 9,
+        "quotes": 0,
+        "bookmarks": 149,
+        "views": "8633"
+      },
+      "metrics_retrieved_date": null,
+      "file": "items/post-2113313048316272831.md"
+    },
+    {
+      "id": "post-2113681829945315380",
+      "type": "post",
+      "published_utc": "2026-10-23T17:19:53+00:00",
+      "source_url": "https://x.com/coreyganim/status/2113681829945315380",
+      "description": "A simple framework I use to delegate tasks to AI agents is Why/Done/Access. On your to do list app of choice try including these 3 lines in the description of each task: Why: Done:",
+      "characters": 1256,
+      "metrics": {
+        "likes": 50,
+        "reposts": 2,
+        "replies": 17,
+        "quotes": 2,
+        "bookmarks": 78,
+        "views": "5931"
+      },
+      "metrics_retrieved_date": null,
+      "file": "items/post-2113681829945315380.md"
+    },
+    {
+      "id": "article-2112577969617092879",
+      "type": "article",
+      "published_utc": "2026-10-20T16:13:32+00:00",
+      "source_url": "https://x.com/coreyganim/status/2112577969617092879",
+      "description": "Grok Bot for PR: The Newsjack Bot That Gets You in the Press",
+      "characters": 7705,
+      "metrics": {
+        "likes": 46,
+        "reposts": 3,
+        "replies": 3,
+        "quotes": 0,
+        "bookmarks": 98,
+        "views": "6420"
+      },
+      "metrics_retrieved_date": null,
+      "file": "items/article-2112577969617092879.md"
+    },
+    {
+      "id": "post-2115881525543653394",
+      "type": "post",
+      "published_utc": "2026-10-29T19:00:41+00:00",
+      "source_url": "https://x.com/coreyganim/status/2115881525543653394",
+      "description": "The Grok Bot setter we run on our free community (works for any business with inbound leads): The trigger: -Someone new comes in (free community, email list, etc) -Bot sends them a",
+      "characters": 1324,
+      "metrics": {
+        "likes": 46,
+        "reposts": 2,
+        "replies": 10,
+        "quotes": 1,
+        "bookmarks": 63,
+        "views": "4938"
+      },
+      "metrics_retrieved_date": null,
+      "file": "items/post-2115881525543653394.md"
+    },
+    {
+      "id": "post-2113405523018006966",
+      "type": "post",
+      "published_utc": "2026-10-22T23:01:56+00:00",
+      "source_url": "https://x.com/coreyganim/status/2113405523018006966",
+      "description": "As a founder it’s easy to get tunnel vision on the wrong things. So I like to run the prompt below once a month or so to get an outsider’s view (the outsider being Claude) on what ",
+      "characters": 571,
+      "metrics": {
+        "likes": 26,
+        "reposts": 2,
+        "replies": 10,
+        "quotes": 0,
+        "bookmarks": 27,
+        "views": "6205"
+      },
+      "metrics_retrieved_date": null,
+      "file": "items/post-2113405523018006966.md"
+    },
+    {
+      "id": "post-2116142364058157232",
+      "type": "post",
+      "published_utc": "2026-10-30T12:17:10+00:00",
+      "source_url": "https://x.com/coreyganim/status/2116142364058157232",
+      "description": "Starting to get 50% (or more) of my daily work done via iMessage. I pinned text threads with my Dot and my Instinct, and any time I need to get a business task done I just text my ",
+      "characters": 527,
+      "metrics": {
+        "likes": 20,
+        "reposts": 0,
+        "replies": 12,
+        "quotes": 0,
+        "bookmarks": 9,
+        "views": "1931"
+      },
+      "metrics_retrieved_date": null,
+      "file": "items/post-2116142364058157232.md"
+    }
+  ]
+}

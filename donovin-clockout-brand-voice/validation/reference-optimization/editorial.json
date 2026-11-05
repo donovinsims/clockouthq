@@ -1,0 +1,58 @@
+[
+  {
+    "draft": "validation/reference-optimization/drafts/A-education.txt",
+    "exit": 0,
+    "review": {
+      "profile_id": "donovin-sims",
+      "format": "long",
+      "words": 140,
+      "baseline_author": "Corey Ganim reference",
+      "baseline_sample_count": 222,
+      "reference_median": 143.0,
+      "flags": [],
+      "caveat": "Heuristics only; manual facts, originality and voice review required."
+    }
+  },
+  {
+    "draft": "validation/reference-optimization/drafts/B-agent.txt",
+    "exit": 0,
+    "review": {
+      "profile_id": "donovin-sims",
+      "format": "long",
+      "words": 158,
+      "baseline_author": "Corey Ganim reference",
+      "baseline_sample_count": 222,
+      "reference_median": 143.0,
+      "flags": [],
+      "caveat": "Heuristics only; manual facts, originality and voice review required."
+    }
+  },
+  {
+    "draft": "validation/reference-optimization/drafts/C-operations.txt",
+    "exit": 0,
+    "review": {
+      "profile_id": "donovin-sims",
+      "format": "long",
+      "words": 143,
+      "baseline_author": "Corey Ganim reference",
+      "baseline_sample_count": 222,
+      "reference_median": 143.0,
+      "flags": [],
+      "caveat": "Heuristics only; manual facts, originality and voice review required."
+    }
+  },
+  {
+    "draft": "validation/reference-optimization/drafts/D-founder.txt",
+    "exit": 0,
+    "review": {
+      "profile_id": "donovin-sims",
+      "format": "long",
+      "words": 139,
+      "baseline_author": "Corey Ganim reference",
+      "baseline_sample_count": 222,
+      "reference_median": 143.0,
+      "flags": [],
+      "caveat": "Heuristics only; manual facts, originality and voice review required."
+    }
+  }
+]

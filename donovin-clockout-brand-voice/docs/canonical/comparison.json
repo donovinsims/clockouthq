@@ -1,0 +1,589 @@
+{
+  "review_date": "2026-11-01",
+  "timezone": "America/Chicago",
+  "tree": "0a3d45f9cc04c6c3446409c4f21034634fbd1fcb",
+  "files": [
+    {
+      "path": ".gitignore",
+      "remote_blob": "f5a2d5d5aa816181a23ec2f8ad25317bf10361f4",
+      "local_blob": "f5a2d5d5aa816181a23ec2f8ad25317bf10361f4",
+      "status": "identical"
+    },
+    {
+      "path": "README.md",
+      "remote_blob": "0191f773b0936e385263589e7fff38659a952278",
+      "local_blob": "0191f773b0936e385263589e7fff38659a952278",
+      "status": "identical"
+    },
+    {
+      "path": "docs/.gitignore",
+      "remote_blob": "df15b934c13150e58a3a78d721076ed5fff8fc19",
+      "local_blob": "df15b934c13150e58a3a78d721076ed5fff8fc19",
+      "status": "identical"
+    },
+    {
+      "path": "docs/01-founder/profile.md",
+      "remote_blob": "2e29a95c4a1c787e54017f4fa17e11872fb3d0cc",
+      "local_blob": "2e29a95c4a1c787e54017f4fa17e11872fb3d0cc",
+      "status": "identical"
+    },
+    {
+      "path": "docs/01-founder/working-with-donovin.md",
+      "remote_blob": "ed2f7213c8f6451613a38d27e3ca0c691b795a65",
+      "local_blob": "ed2f7213c8f6451613a38d27e3ca0c691b795a65",
+      "status": "identical"
+    },
+    {
+      "path": "docs/02-business-foundation/business-plan.md",
+      "remote_blob": "f983afc887933ea9a847f7420349cfcb74362bac",
+      "local_blob": "dee8bfe2bf97539add31677cb351b342241abb10",
+      "status": "different"
+    },
+    {
+      "path": "docs/02-business-foundation/services-and-mentor-boundaries.md",
+      "remote_blob": "cb559ba81abedc52adbd0ce938c8bc014291a0fe",
+      "local_blob": "be847efeef87d6599ba2df94b0a54263c96b0529",
+      "status": "different"
+    },
+    {
+      "path": "docs/03-market-research/market-and-qualification.md",
+      "remote_blob": "043655ae1c5f05e14eb7691c1e70332cc60e2498",
+      "local_blob": "043655ae1c5f05e14eb7691c1e70332cc60e2498",
+      "status": "identical"
+    },
+    {
+      "path": "docs/03-market-research/property-management-validation.md",
+      "remote_blob": "29e839a0e0bea849cf6251d80cf3c3b0cd8b582c",
+      "local_blob": "29e839a0e0bea849cf6251d80cf3c3b0cd8b582c",
+      "status": "identical"
+    },
+    {
+      "path": "docs/04-offers-and-sales/sales-playbook.md",
+      "remote_blob": "f72c9f005db81b4fab718350e6cc79763783a42a",
+      "local_blob": "f72c9f005db81b4fab718350e6cc79763783a42a",
+      "status": "identical"
+    },
+    {
+      "path": "docs/04-offers-and-sales/website-offer.md",
+      "remote_blob": "eaf9ad505dba302152c69560f90c7328894b1aca",
+      "local_blob": "1e6a0749718a065ea5397b838e9902cf00421e18",
+      "status": "different"
+    },
+    {
+      "path": "docs/04-offers-and-sales/website-sales-operating-system.md",
+      "remote_blob": "0a18163cb587983addc46374d1861f35c206283d",
+      "local_blob": "a54c8db007369c90dd6d9d1430a1331fc91048a0",
+      "status": "different"
+    },
+    {
+      "path": "docs/05-delivery-and-operations/delivery-playbook.md",
+      "remote_blob": "47a5966aace9acd3fad3f4663dcf4c8f67ef1157",
+      "local_blob": "91f4daea96f957829f4bf73002edc4f26a54a9a6",
+      "status": "different"
+    },
+    {
+      "path": "docs/05-delivery-and-operations/optional-service-playbooks.md",
+      "remote_blob": "73bd1d13ad320f2d37fca06539769eea7e102ba4",
+      "local_blob": "73bd1d13ad320f2d37fca06539769eea7e102ba4",
+      "status": "identical"
+    },
+    {
+      "path": "docs/05-delivery-and-operations/qa-launch-and-support.md",
+      "remote_blob": "27d71bf0b9dd66e784199bc3b0aed404465d28d5",
+      "local_blob": "27d71bf0b9dd66e784199bc3b0aed404465d28d5",
+      "status": "identical"
+    },
+    {
+      "path": "docs/06-marketing-and-brand/brand-and-messaging.md",
+      "remote_blob": "5ed236a64933c5ca1567714af1bcb00a67939185",
+      "local_blob": "5ed236a64933c5ca1567714af1bcb00a67939185",
+      "status": "identical"
+    },
+    {
+      "path": "docs/06-marketing-and-brand/google-business-profile.md",
+      "remote_blob": "b36e4c107bcd956f6cb0bcaaa8d541f3cff396d1",
+      "local_blob": "b36e4c107bcd956f6cb0bcaaa8d541f3cff396d1",
+      "status": "identical"
+    },
+    {
+      "path": "docs/06-marketing-and-brand/website-status.md",
+      "remote_blob": "f21681b1b369d5f06eae81876977db47dffabfaf",
+      "local_blob": "f21681b1b369d5f06eae81876977db47dffabfaf",
+      "status": "identical"
+    },
+    {
+      "path": "docs/07-tools-and-systems/execution-system.md",
+      "remote_blob": "267418667f89013df9173d772fa5f41f9bfe001f",
+      "local_blob": "267418667f89013df9173d772fa5f41f9bfe001f",
+      "status": "identical"
+    },
+    {
+      "path": "docs/07-tools-and-systems/github-setup-and-maintenance.md",
+      "remote_blob": "faf579cb28e304aab058a8e368dcdce94dd72c83",
+      "local_blob": "faf579cb28e304aab058a8e368dcdce94dd72c83",
+      "status": "identical"
+    },
+    {
+      "path": "docs/07-tools-and-systems/tool-register.md",
+      "remote_blob": "fe2d80d488374b20a295b3e7f400f046e5c78207",
+      "local_blob": "fe2d80d488374b20a295b3e7f400f046e5c78207",
+      "status": "identical"
+    },
+    {
+      "path": "docs/08-finance-and-goals/cash-and-metrics.md",
+      "remote_blob": "9eda21452a0f48b1d3c7a82edc5fe27a69305ea8",
+      "local_blob": "1c49cd69c716b1f9dee5994bdee7bab459ed2a02",
+      "status": "different"
+    },
+    {
+      "path": "docs/09-execution-and-decisions/contradictions.md",
+      "remote_blob": "af80c71068f030f79c2a3766d95e43c229182128",
+      "local_blob": "af80c71068f030f79c2a3766d95e43c229182128",
+      "status": "identical"
+    },
+    {
+      "path": "docs/09-execution-and-decisions/decision-log.md",
+      "remote_blob": "04ddd9fd4fa68cde95f570937cfc054e8b459c4b",
+      "local_blob": "df42d2749556b58ab24ef5a6698c5b6e0ca8ea46",
+      "status": "different"
+    },
+    {
+      "path": "docs/09-execution-and-decisions/history-2026-09-to-10.md",
+      "remote_blob": "b29abf92cb3a1e45c01d20586e59051c0061673b",
+      "local_blob": "6165e159bffebd4501b829af58803f0ce7bebcc1",
+      "status": "different"
+    },
+    {
+      "path": "docs/09-execution-and-decisions/november-10-review.md",
+      "remote_blob": "3d32daf91a6bc3af2ee9468aeb5b2278bb7bf8d3",
+      "local_blob": "a316b5ce820d6f456fd1a36cbcd1f883e52f749f",
+      "status": "different"
+    },
+    {
+      "path": "docs/09-execution-and-decisions/roadmap.md",
+      "remote_blob": "f01228e1215fe526d17a32bef48396d12a570927",
+      "local_blob": "f01228e1215fe526d17a32bef48396d12a570927",
+      "status": "identical"
+    },
+    {
+      "path": "docs/09-execution-and-decisions/website-sales-sprint.md",
+      "remote_blob": "5b8919844f224247a1722b2ddaa97c0182a8b2d3",
+      "local_blob": "5b8919844f224247a1722b2ddaa97c0182a8b2d3",
+      "status": "identical"
+    },
+    {
+      "path": "docs/10-reference-and-archive/ACCURACY_AND_DEPTH_REVIEW.md",
+      "remote_blob": "8f1da5348c0e2a58ea34903ef504af02b91cb695",
+      "local_blob": "c5ec1def59f7f6fd8eaf60548043f496c6eba552",
+      "status": "different"
+    },
+    {
+      "path": "docs/10-reference-and-archive/CONSOLIDATION_REPORT.md",
+      "remote_blob": "c921a6fd8c1c25a4f7a0f4b687a5192077e18579",
+      "local_blob": "f9cf3f5d4b9bba394d626e9913b9f4e236863c2d",
+      "status": "different"
+    },
+    {
+      "path": "docs/10-reference-and-archive/COVERAGE_AND_GAPS.md",
+      "remote_blob": "a752159a3c56441d5fc8d58c5ba36ab17d84f984",
+      "local_blob": "a752159a3c56441d5fc8d58c5ba36ab17d84f984",
+      "status": "identical"
+    },
+    {
+      "path": "docs/10-reference-and-archive/FUNCTIONAL_SCENARIOS.md",
+      "remote_blob": "841bfbfbc138a4e9056dcb54a97615f5b22817a2",
+      "local_blob": "565bd96ab859637c466efa7a5458a5d00c524c75",
+      "status": "different"
+    },
+    {
+      "path": "docs/10-reference-and-archive/MENTOR_LIBRARY.md",
+      "remote_blob": "60bdf190705a56d3c454d92d3779cff67eadebdd",
+      "local_blob": "60bdf190705a56d3c454d92d3779cff67eadebdd",
+      "status": "identical"
+    },
+    {
+      "path": "docs/10-reference-and-archive/OPERATING_SYSTEM_IMPROVEMENT_REPORT.md",
+      "remote_blob": "c9c061a84b986ab736dd645612ff454618b5b7b4",
+      "local_blob": "c9c061a84b986ab736dd645612ff454618b5b7b4",
+      "status": "identical"
+    },
+    {
+      "path": "docs/10-reference-and-archive/OPERATING_SYSTEM_VALIDATION.md",
+      "remote_blob": "711872b31f9ebbbd6b41b1ff662cd739cee555f8",
+      "local_blob": "711872b31f9ebbbd6b41b1ff662cd739cee555f8",
+      "status": "identical"
+    },
+    {
+      "path": "docs/10-reference-and-archive/PROVENANCE.md",
+      "remote_blob": "263201279dbe164de134ebe0b05b213880f0234e",
+      "local_blob": "598856a2750b2fe102b5205856cccdcb3817c7d7",
+      "status": "different"
+    },
+    {
+      "path": "docs/10-reference-and-archive/README.md",
+      "remote_blob": "7d63ba3e5882162be12015a05b5e70f34c58864d",
+      "local_blob": "7d63ba3e5882162be12015a05b5e70f34c58864d",
+      "status": "identical"
+    },
+    {
+      "path": "docs/10-reference-and-archive/SOURCE_REGISTER.md",
+      "remote_blob": "76423b073befa9d21a6f0102dde167cadc5b471f",
+      "local_blob": "76423b073befa9d21a6f0102dde167cadc5b471f",
+      "status": "identical"
+    },
+    {
+      "path": "docs/10-reference-and-archive/VALIDATION.md",
+      "remote_blob": "ab289e912ed7caa404831ff1b3c8f2c4ea79a6e8",
+      "local_blob": "ab289e912ed7caa404831ff1b3c8f2c4ea79a6e8",
+      "status": "identical"
+    },
+    {
+      "path": "docs/10-reference-and-archive/claims.yaml",
+      "remote_blob": "a1c5dc31864d04e66e199e6ab1f97ee8f03dbca0",
+      "local_blob": "5bef7e11275a835fb482bce0db2b4cbf2c1ddfe7",
+      "status": "different"
+    },
+    {
+      "path": "docs/10-reference-and-archive/file-coverage.csv",
+      "remote_blob": "bb93f38b618f7b23d95a30b9613a6bfdbcea7010",
+      "local_blob": "9e0d21cff95b73feb2a8d05d70455acdbb259b2f",
+      "status": "different"
+    },
+    {
+      "path": "docs/10-reference-and-archive/file-disposition.csv",
+      "remote_blob": "a9496b2f35da9ae544404aa164a4e492f4b29ce1",
+      "local_blob": "a9496b2f35da9ae544404aa164a4e492f4b29ce1",
+      "status": "identical"
+    },
+    {
+      "path": "docs/10-reference-and-archive/input-archives.json",
+      "remote_blob": "79170510ee095620aec41c548a73cca4d3ee99c8",
+      "local_blob": "79170510ee095620aec41c548a73cca4d3ee99c8",
+      "status": "identical"
+    },
+    {
+      "path": "docs/10-reference-and-archive/reference-library-inventory.csv",
+      "remote_blob": "e61a2fbc356bd111f0249e36a6b7351a7cbe42ce",
+      "local_blob": "e61a2fbc356bd111f0249e36a6b7351a7cbe42ce",
+      "status": "identical"
+    },
+    {
+      "path": "docs/10-reference-and-archive/source-extracts/L01.md",
+      "remote_blob": "c7732b3a6e1a5d8f8d7855328578d351ea33411a",
+      "local_blob": "c7732b3a6e1a5d8f8d7855328578d351ea33411a",
+      "status": "identical"
+    },
+    {
+      "path": "docs/10-reference-and-archive/source-extracts/L02.md",
+      "remote_blob": "31992b0ea8206c27219fa543f6671180991d4e04",
+      "local_blob": "31992b0ea8206c27219fa543f6671180991d4e04",
+      "status": "identical"
+    },
+    {
+      "path": "docs/10-reference-and-archive/source-extracts/L03.md",
+      "remote_blob": "d53b2e23d57f63ba96ef6986d73b03c73fa64685",
+      "local_blob": "d53b2e23d57f63ba96ef6986d73b03c73fa64685",
+      "status": "identical"
+    },
+    {
+      "path": "docs/10-reference-and-archive/source-extracts/L04.md",
+      "remote_blob": "7d1efa4e64fe57720f44343756f7b57d36b207ed",
+      "local_blob": "7d1efa4e64fe57720f44343756f7b57d36b207ed",
+      "status": "identical"
+    },
+    {
+      "path": "docs/10-reference-and-archive/source-extracts/L05.md",
+      "remote_blob": "64fccb1b66d6e17a2e6c44844a61740391a4bde3",
+      "local_blob": "64fccb1b66d6e17a2e6c44844a61740391a4bde3",
+      "status": "identical"
+    },
+    {
+      "path": "docs/10-reference-and-archive/source-extracts/L06.md",
+      "remote_blob": "3ae426653f642bbd8b353b767ee3e24ecc49858f",
+      "local_blob": "3ae426653f642bbd8b353b767ee3e24ecc49858f",
+      "status": "identical"
+    },
+    {
+      "path": "docs/10-reference-and-archive/source-extracts/L07.md",
+      "remote_blob": "d4a085a4f179e1bb67311427032645619a8f9e42",
+      "local_blob": "d4a085a4f179e1bb67311427032645619a8f9e42",
+      "status": "identical"
+    },
+    {
+      "path": "docs/10-reference-and-archive/source-extracts/L08.md",
+      "remote_blob": "17db50caa03874023f177131cff720bb3c173df8",
+      "local_blob": "17db50caa03874023f177131cff720bb3c173df8",
+      "status": "identical"
+    },
+    {
+      "path": "docs/10-reference-and-archive/source-extracts/L09.md",
+      "remote_blob": "70946dfbf09cc1c6ab0a811ff8cadbcd4aa77921",
+      "local_blob": "70946dfbf09cc1c6ab0a811ff8cadbcd4aa77921",
+      "status": "identical"
+    },
+    {
+      "path": "docs/10-reference-and-archive/source-extracts/L10.md",
+      "remote_blob": "71d63d8e48853ac44730a5e538c2207033c417e8",
+      "local_blob": "71d63d8e48853ac44730a5e538c2207033c417e8",
+      "status": "identical"
+    },
+    {
+      "path": "docs/10-reference-and-archive/source-extracts/S01.md",
+      "remote_blob": "141f058a81c084f4325c3ccd60ceb794fc120234",
+      "local_blob": "0e654df76056a5837a6bb4d58e0376eacf55e2c3",
+      "status": "different"
+    },
+    {
+      "path": "docs/10-reference-and-archive/source-extracts/S02.md",
+      "remote_blob": "d1b3c2a43f9e50f7ea65b7b172a8f5a3fd30608c",
+      "local_blob": "d1b3c2a43f9e50f7ea65b7b172a8f5a3fd30608c",
+      "status": "identical"
+    },
+    {
+      "path": "docs/10-reference-and-archive/source-extracts/S03.md",
+      "remote_blob": "84a2f565e59f940adc8c4aaa232654a4d5f90e71",
+      "local_blob": "84a2f565e59f940adc8c4aaa232654a4d5f90e71",
+      "status": "identical"
+    },
+    {
+      "path": "docs/10-reference-and-archive/source-extracts/S04.md",
+      "remote_blob": "f699560b62f5d7b4d841ec9e20b3c7a77643bead",
+      "local_blob": "f699560b62f5d7b4d841ec9e20b3c7a77643bead",
+      "status": "identical"
+    },
+    {
+      "path": "docs/10-reference-and-archive/source-extracts/S05.md",
+      "remote_blob": "abd90cec092c96528d43d3828b1f64f2f728dbd9",
+      "local_blob": "abd90cec092c96528d43d3828b1f64f2f728dbd9",
+      "status": "identical"
+    },
+    {
+      "path": "docs/10-reference-and-archive/source-extracts/S06.md",
+      "remote_blob": "12ee86e8b56c5877df3195ef5a9104b6d1b4dead",
+      "local_blob": "12ee86e8b56c5877df3195ef5a9104b6d1b4dead",
+      "status": "identical"
+    },
+    {
+      "path": "docs/10-reference-and-archive/source-extracts/S07.md",
+      "remote_blob": "260ec5fdcaf47990609b34d4605c322575fd272b",
+      "local_blob": "260ec5fdcaf47990609b34d4605c322575fd272b",
+      "status": "identical"
+    },
+    {
+      "path": "docs/10-reference-and-archive/source-extracts/S08.md",
+      "remote_blob": "e9ebb3d841e46f9a35cbdfca07e351030bfadae0",
+      "local_blob": "e9ebb3d841e46f9a35cbdfca07e351030bfadae0",
+      "status": "identical"
+    },
+    {
+      "path": "docs/10-reference-and-archive/source-extracts/S09.md",
+      "remote_blob": "52027607213f1410a50b2d0c45d2f96d8dd06355",
+      "local_blob": "52027607213f1410a50b2d0c45d2f96d8dd06355",
+      "status": "identical"
+    },
+    {
+      "path": "docs/10-reference-and-archive/source-extracts/S10.md",
+      "remote_blob": "9f3846992a7e41b964cb80d44a82613a0c2b2327",
+      "local_blob": "9f3846992a7e41b964cb80d44a82613a0c2b2327",
+      "status": "identical"
+    },
+    {
+      "path": "docs/10-reference-and-archive/source-extracts/S11.md",
+      "remote_blob": "1bf26fe543c5684401f43ebef3c33a39cca5b7eb",
+      "local_blob": "1bf26fe543c5684401f43ebef3c33a39cca5b7eb",
+      "status": "identical"
+    },
+    {
+      "path": "docs/10-reference-and-archive/source-extracts/S12.md",
+      "remote_blob": "5cc6104d428c3c11b13a916f9638f97f42c82cdc",
+      "local_blob": "5cc6104d428c3c11b13a916f9638f97f42c82cdc",
+      "status": "identical"
+    },
+    {
+      "path": "docs/10-reference-and-archive/source-extracts/S13.md",
+      "remote_blob": "1a04c66b9cbc341c2bd4f3103effc365898e6b7e",
+      "local_blob": "1a04c66b9cbc341c2bd4f3103effc365898e6b7e",
+      "status": "identical"
+    },
+    {
+      "path": "docs/10-reference-and-archive/source-extracts/S14.md",
+      "remote_blob": "a6082c072763b0f4ca5044092e4f04b2e4405287",
+      "local_blob": "a6082c072763b0f4ca5044092e4f04b2e4405287",
+      "status": "identical"
+    },
+    {
+      "path": "docs/10-reference-and-archive/source-extracts/S15.md",
+      "remote_blob": "bd226034df1666a0fc0bf8b7e26be700e7e1fa2c",
+      "local_blob": "bd226034df1666a0fc0bf8b7e26be700e7e1fa2c",
+      "status": "identical"
+    },
+    {
+      "path": "docs/10-reference-and-archive/source-extracts/S16.md",
+      "remote_blob": "c144e010b0225134511aa3c5a48176d029f334c7",
+      "local_blob": "c144e010b0225134511aa3c5a48176d029f334c7",
+      "status": "identical"
+    },
+    {
+      "path": "docs/10-reference-and-archive/source-extracts/U02.md",
+      "remote_blob": "b3b2fff59a236310fef814c71d61c5d770263e0b",
+      "local_blob": "1b59cb40850b5757d128dce1969f9feaa7490771",
+      "status": "different"
+    },
+    {
+      "path": "docs/10-reference-and-archive/source-extracts/U03.md",
+      "remote_blob": "aec785e6b7f6f4ddca722a0b47dd54d9b7e84c05",
+      "local_blob": "aec785e6b7f6f4ddca722a0b47dd54d9b7e84c05",
+      "status": "identical"
+    },
+    {
+      "path": "docs/10-reference-and-archive/source-extracts/U04.md",
+      "remote_blob": "eb1c5fabb9e2ecbdc13cb075c51dd0134edc5dd4",
+      "local_blob": "2babf252d6a63dc88ff97e191c74d18d9008bb5b",
+      "status": "different"
+    },
+    {
+      "path": "docs/10-reference-and-archive/source-register.json",
+      "remote_blob": "5f8e1a6f9d5d025d1c2759af065f95e53e60b214",
+      "local_blob": "5f8e1a6f9d5d025d1c2759af065f95e53e60b214",
+      "status": "identical"
+    },
+    {
+      "path": "docs/10-reference-and-archive/templates/cash-tracker.csv",
+      "remote_blob": "3f9ce33240538ac196975ec4f528ea50144c2946",
+      "local_blob": "3f9ce33240538ac196975ec4f528ea50144c2946",
+      "status": "identical"
+    },
+    {
+      "path": "docs/10-reference-and-archive/templates/client-brief-and-discovery.md",
+      "remote_blob": "27b50bb4d4e3ddcf03d8962bd901178beaa8e667",
+      "local_blob": "27b50bb4d4e3ddcf03d8962bd901178beaa8e667",
+      "status": "identical"
+    },
+    {
+      "path": "docs/10-reference-and-archive/templates/delivery-and-handoff.md",
+      "remote_blob": "e6987e6b3787547ee7f4e86eb48adb4df6f7aab2",
+      "local_blob": "e6987e6b3787547ee7f4e86eb48adb4df6f7aab2",
+      "status": "identical"
+    },
+    {
+      "path": "docs/10-reference-and-archive/templates/outreach-and-follow-up.md",
+      "remote_blob": "789f7f95d961562abd5be89a77fe6d3104f22c2e",
+      "local_blob": "789f7f95d961562abd5be89a77fe6d3104f22c2e",
+      "status": "identical"
+    },
+    {
+      "path": "docs/10-reference-and-archive/templates/prospect-and-free-look.md",
+      "remote_blob": "e2da69397ad0aecfce99292107c98e976ca6b362",
+      "local_blob": "e2da69397ad0aecfce99292107c98e976ca6b362",
+      "status": "identical"
+    },
+    {
+      "path": "docs/10-reference-and-archive/templates/review-and-decision.md",
+      "remote_blob": "6148ee4f7be7ec16b26b74dc1358f04b371691ca",
+      "local_blob": "6148ee4f7be7ec16b26b74dc1358f04b371691ca",
+      "status": "identical"
+    },
+    {
+      "path": "docs/10-reference-and-archive/templates/scope-and-proposal.md",
+      "remote_blob": "9d687b93c4c8675822f642e1281beed2bb716036",
+      "local_blob": "cf9deec287554ee96e16566b4e11301a91f8ea34",
+      "status": "different"
+    },
+    {
+      "path": "docs/10-reference-and-archive/templates/sprint-tracker.csv",
+      "remote_blob": "bf3715ae94fa55c9b4dab88bf01fb818c41b599f",
+      "local_blob": "bf3715ae94fa55c9b4dab88bf01fb818c41b599f",
+      "status": "identical"
+    },
+    {
+      "path": "docs/10-reference-and-archive/templates/tool-cost-register.csv",
+      "remote_blob": "674cfb724d68c790a6c7ae722804aec9d08af471",
+      "local_blob": "674cfb724d68c790a6c7ae722804aec9d08af471",
+      "status": "identical"
+    },
+    {
+      "path": "docs/10-reference-and-archive/templates/update-prompt.md",
+      "remote_blob": "fe60108c2070b2d884abb207967bea565ed0f5b3",
+      "local_blob": "fe60108c2070b2d884abb207967bea565ed0f5b3",
+      "status": "identical"
+    },
+    {
+      "path": "docs/10-reference-and-archive/templates/website-project-forms.md",
+      "remote_blob": "9988e84ee350a39a2dd277caa2a0a0601b1505d1",
+      "local_blob": "9988e84ee350a39a2dd277caa2a0a0601b1505d1",
+      "status": "identical"
+    },
+    {
+      "path": "docs/10-reference-and-archive/templates/weekly-review.md",
+      "remote_blob": "d81e9974e36565693df2f32888023657f187899f",
+      "local_blob": "d81e9974e36565693df2f32888023657f187899f",
+      "status": "identical"
+    },
+    {
+      "path": "docs/10-reference-and-archive/validate_master.py",
+      "remote_blob": "31cd036809cd3e565a2cc9bb3f592696f85bc7bf",
+      "local_blob": "31cd036809cd3e565a2cc9bb3f592696f85bc7bf",
+      "status": "identical"
+    },
+    {
+      "path": "docs/10-reference-and-archive/validation-results.json",
+      "remote_blob": "78c33c86d749a42bf90bfe670c7e3664e1760d16",
+      "local_blob": "78c33c86d749a42bf90bfe670c7e3664e1760d16",
+      "status": "identical"
+    },
+    {
+      "path": "docs/AGENTS.md",
+      "remote_blob": "5348f7ca9db361108070bd67ef1ef70f16b3a61c",
+      "local_blob": "bfba5367a9d76eef08c4f8fbb0dc857b38e1bf59",
+      "status": "different"
+    },
+    {
+      "path": "docs/CHANGELOG.md",
+      "remote_blob": "5e5da3abc0786e4571ffcce72f2970b9b6738ba0",
+      "local_blob": "d9614979910e6e839258e0e96e1837a433779412",
+      "status": "different"
+    },
+    {
+      "path": "docs/CHECKPOINT.md",
+      "remote_blob": "52a7ce90b217f5f0ac081c5c536bc106c0ed7053",
+      "local_blob": "53ce5e93d6b11f19fd0cfc741ceffd21a85fcdb9",
+      "status": "different"
+    },
+    {
+      "path": "docs/CURRENT_STATE.md",
+      "remote_blob": "21d0f787a3ad066aa7d49a2b6faa8f153ccb58cf",
+      "local_blob": "002c2231d36d6838fd23f293892f68476e5e7ee6",
+      "status": "different"
+    },
+    {
+      "path": "docs/DOCS_MAINTENANCE.md",
+      "remote_blob": "12d2f6acb38fded11c4548b19ceb03ae5f6a0b5f",
+      "local_blob": "12d2f6acb38fded11c4548b19ceb03ae5f6a0b5f",
+      "status": "identical"
+    },
+    {
+      "path": "docs/OPEN_DECISIONS.md",
+      "remote_blob": "d744bd226179aa20bd73ea7af114f67c9211c9bf",
+      "local_blob": "e35fb3fe86feeddf50f8f3df6ab729e6e3124634",
+      "status": "different"
+    },
+    {
+      "path": "docs/README.md",
+      "remote_blob": "c6044a3b45386200f284e2d500d65062a126bdf5",
+      "local_blob": "fae2fdc94f721da0a3e328a71c072ebcb81fd852",
+      "status": "different"
+    },
+    {
+      "path": "docs/SHA256SUMS",
+      "remote_blob": "fa34b40887b5b67cb6127188f9153c0cdccd7baf",
+      "local_blob": "085a163f542b2a911b2dc24618aa9707d9654a35",
+      "status": "different"
+    },
+    {
+      "path": "docs/manifest.yaml",
+      "remote_blob": "6a572d99896292a8bbb142c925f67dc1fdb2b745",
+      "local_blob": "6a572d99896292a8bbb142c925f67dc1fdb2b745",
+      "status": "identical"
+    }
+  ]
+}

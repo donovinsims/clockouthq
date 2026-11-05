@@ -1,0 +1,20 @@
+{
+  "status": "fail",
+  "checks": [
+    "Parsed 33 JSON/JSONL files",
+    "Parsed all 4 YAML files with existing PyYAML",
+    "Active Donovin identity/routing and separate corpus paths",
+    "8 separate draft-history records remain nontraining",
+    "14 biography sections, six characteristics, matching instruction copies",
+    "60/20/15/5 strategy and 12/4/3/1 plan consistency",
+    "Active identity scan and 121 relative Markdown links",
+    "60 original corpus/archive/upstream files byte-identical",
+    "Read-only reference integrity: 321 files",
+    "28 fetched canonical files match pinned Git blob hashes",
+    "Portable context matches curated active inputs"
+  ],
+  "notes": [],
+  "errors": [
+    "Read-only reference folder changed versus captured manifest"
+  ]
+}

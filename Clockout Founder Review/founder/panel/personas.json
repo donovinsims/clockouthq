@@ -1,0 +1,222 @@
+[
+ {
+  "id": "P001",
+  "name": "Min",
+  "age": 37,
+  "segment": "Owner of a 2-9 person trade or home-service business (HVAC, plumbing, electrical, landscaping, cleaning, auto, restoration)",
+  "income": 125000,
+  "behaviour": "Fast decider when trust is there",
+  "behaviour_how": "if the person seems straight and the price is clear, he decides in one meeting and hates being sold to twice",
+  "objection": "AI sounds like hype, and I can't have a robot saying the wrong thing to my customers",
+  "habit": "reads email on his phone in the truck between jobs, thumbs only"
+ },
+ {
+  "id": "P002",
+  "name": "Chloe",
+  "age": 51,
+  "segment": "Owner of a 10-25 person service business (multi-crew trades, dental/medical office, retail, property services)",
+  "income": 159000,
+  "behaviour": "Burned before by a marketing agency",
+  "behaviour_how": "paid $500-$2,000 a month for a year, got reports about clicks and almost no jobs, and still resents it",
+  "objection": "I don't have time to sit in meetings about this",
+  "habit": "reads email on his phone in the truck between jobs, thumbs only"
+ },
+ {
+  "id": "P003",
+  "name": "Harper",
+  "age": 56,
+  "segment": "Independent operator or solo professional (single truck, solo agent, one-chair shop)",
+  "income": 67000,
+  "behaviour": "Fast decider when trust is there",
+  "behaviour_how": "if the person seems straight and the price is clear, he decides in one meeting and hates being sold to twice",
+  "objection": "AI sounds like hype, and I can't have a robot saying the wrong thing to my customers",
+  "habit": "either answers the phone in the middle of a job or misses it entirely"
+ },
+ {
+  "id": "P004",
+  "name": "Omar",
+  "age": 46,
+  "segment": "Owner of a 10-25 person service business (multi-crew trades, dental/medical office, retail, property services)",
+  "income": 136000,
+  "behaviour": "AI skeptic",
+  "behaviour_how": "has read the hype, thinks most of it is a chatbot, and worries a robot will answer a customer wrong and cost him the job",
+  "objection": "AI sounds like hype, and I can't have a robot saying the wrong thing to my customers",
+  "habit": "Monday morning is invoices, payroll and paperwork he has been putting off"
+ },
+ {
+  "id": "P005",
+  "name": "Aria",
+  "age": 59,
+  "segment": "Owner of a 2-9 person trade or home-service business (HVAC, plumbing, electrical, landscaping, cleaning, auto, restoration)",
+  "income": 140000,
+  "behaviour": "Referral-only buyer",
+  "behaviour_how": "buys almost nothing cold; wants to know who else in town used this person and how it went",
+  "objection": "My business is different — a guy from outside the trade won't get it",
+  "habit": "quotes by text or on a paper pad, then forgets to follow up on half of them"
+ },
+ {
+  "id": "P006",
+  "name": "Priya",
+  "age": 37,
+  "segment": "Small property manager or portfolio operator (40-200 units)",
+  "income": 148000,
+  "behaviour": "Price-first deal hunter",
+  "behaviour_how": "asks 'how much' in the first two minutes and compares every quote to the cheapest number on the table",
+  "objection": "I don't have time to sit in meetings about this",
+  "habit": "reads email on his phone in the truck between jobs, thumbs only"
+ },
+ {
+  "id": "P007",
+  "name": "Ava",
+  "age": 59,
+  "segment": "Owner of a 2-9 person trade or home-service business (HVAC, plumbing, electrical, landscaping, cleaning, auto, restoration)",
+  "income": 89000,
+  "behaviour": "Software collector",
+  "behaviour_how": "already pays for a CRM, a scheduling app and a review tool, uses about a third of each, and suspects the answer is not another subscription",
+  "objection": "I already pay for software I barely use",
+  "habit": "talks to two other owners a week, usually at the supply house or on a ball field"
+ },
+ {
+  "id": "P008",
+  "name": "Jade",
+  "age": 45,
+  "segment": "Independent operator or solo professional (single truck, solo agent, one-chair shop)",
+  "income": 80000,
+  "behaviour": "Burned before by a marketing agency",
+  "behaviour_how": "paid $500-$2,000 a month for a year, got reports about clicks and almost no jobs, and still resents it",
+  "objection": "I got burned by a marketing agency before and I'm not doing that again",
+  "habit": "either answers the phone in the middle of a job or misses it entirely"
+ },
+ {
+  "id": "P009",
+  "name": "Farah",
+  "age": 61,
+  "segment": "Owner of a 10-25 person service business (multi-crew trades, dental/medical office, retail, property services)",
+  "income": 161000,
+  "behaviour": "Referral-only buyer",
+  "behaviour_how": "buys almost nothing cold; wants to know who else in town used this person and how it went",
+  "objection": "I don't want another monthly contract I can't get out of",
+  "habit": "Monday morning is invoices, payroll and paperwork he has been putting off"
+ },
+ {
+  "id": "P010",
+  "name": "Luca",
+  "age": 60,
+  "segment": "Small property manager or portfolio operator (40-200 units)",
+  "income": 139000,
+  "behaviour": "Do-it-myself owner",
+  "behaviour_how": "built the current website or set up the software himself at 11pm and is quietly proud and quietly exhausted by it",
+  "objection": "I already pay for software I barely use",
+  "habit": "Monday morning is invoices, payroll and paperwork he has been putting off"
+ },
+ {
+  "id": "P011",
+  "name": "Sara",
+  "age": 33,
+  "segment": "Owner of a 2-9 person trade or home-service business (HVAC, plumbing, electrical, landscaping, cleaning, auto, restoration)",
+  "income": 133000,
+  "behaviour": "Referral-only buyer",
+  "behaviour_how": "buys almost nothing cold; wants to know who else in town used this person and how it went",
+  "objection": "My business is different — a guy from outside the trade won't get it",
+  "habit": "reads email on his phone in the truck between jobs, thumbs only"
+ },
+ {
+  "id": "P012",
+  "name": "Raj",
+  "age": 43,
+  "segment": "Owner of a 10-25 person service business (multi-crew trades, dental/medical office, retail, property services)",
+  "income": 231000,
+  "behaviour": "Do-it-myself owner",
+  "behaviour_how": "built the current website or set up the software himself at 11pm and is quietly proud and quietly exhausted by it",
+  "objection": "I don't want another monthly contract I can't get out of",
+  "habit": "Monday morning is invoices, payroll and paperwork he has been putting off"
+ },
+ {
+  "id": "P013",
+  "name": "Callum",
+  "age": 60,
+  "segment": "Owner of a 2-9 person trade or home-service business (HVAC, plumbing, electrical, landscaping, cleaning, auto, restoration)",
+  "income": 81000,
+  "behaviour": "Software collector",
+  "behaviour_how": "already pays for a CRM, a scheduling app and a review tool, uses about a third of each, and suspects the answer is not another subscription",
+  "objection": "AI sounds like hype, and I can't have a robot saying the wrong thing to my customers",
+  "habit": "either answers the phone in the middle of a job or misses it entirely"
+ },
+ {
+  "id": "P014",
+  "name": "Fatima",
+  "age": 62,
+  "segment": "Small property manager or portfolio operator (40-200 units)",
+  "income": 112000,
+  "behaviour": "Do-it-myself owner",
+  "behaviour_how": "built the current website or set up the software himself at 11pm and is quietly proud and quietly exhausted by it",
+  "objection": "How do I know this will actually pay for itself?",
+  "habit": "does the books at the kitchen table on Sunday night"
+ },
+ {
+  "id": "P015",
+  "name": "Rafael",
+  "age": 40,
+  "segment": "Owner of a 2-9 person trade or home-service business (HVAC, plumbing, electrical, landscaping, cleaning, auto, restoration)",
+  "income": 98000,
+  "behaviour": "Burned before by a marketing agency",
+  "behaviour_how": "paid $500-$2,000 a month for a year, got reports about clicks and almost no jobs, and still resents it",
+  "objection": "I don't have time to sit in meetings about this",
+  "habit": "either answers the phone in the middle of a job or misses it entirely"
+ },
+ {
+  "id": "P016",
+  "name": "Selin",
+  "age": 49,
+  "segment": "Independent operator or solo professional (single truck, solo agent, one-chair shop)",
+  "income": 94000,
+  "behaviour": "Burned before by a marketing agency",
+  "behaviour_how": "paid $500-$2,000 a month for a year, got reports about clicks and almost no jobs, and still resents it",
+  "objection": "How do I know this will actually pay for itself?",
+  "habit": "Monday morning is invoices, payroll and paperwork he has been putting off"
+ },
+ {
+  "id": "P017",
+  "name": "Noah",
+  "age": 56,
+  "segment": "Owner of a 10-25 person service business (multi-crew trades, dental/medical office, retail, property services)",
+  "income": 146000,
+  "behaviour": "Referral-only buyer",
+  "behaviour_how": "buys almost nothing cold; wants to know who else in town used this person and how it went",
+  "objection": "I already pay for software I barely use",
+  "habit": "reads email on his phone in the truck between jobs, thumbs only"
+ },
+ {
+  "id": "P018",
+  "name": "Levi",
+  "age": 56,
+  "segment": "Owner of a 2-9 person trade or home-service business (HVAC, plumbing, electrical, landscaping, cleaning, auto, restoration)",
+  "income": 84000,
+  "behaviour": "Price-first deal hunter",
+  "behaviour_how": "asks 'how much' in the first two minutes and compares every quote to the cheapest number on the table",
+  "objection": "I don't have time to sit in meetings about this",
+  "habit": "quotes by text or on a paper pad, then forgets to follow up on half of them"
+ },
+ {
+  "id": "P019",
+  "name": "Owen",
+  "age": 46,
+  "segment": "Owner of a 2-9 person trade or home-service business (HVAC, plumbing, electrical, landscaping, cleaning, auto, restoration)",
+  "income": 128000,
+  "behaviour": "Price-first deal hunter",
+  "behaviour_how": "asks 'how much' in the first two minutes and compares every quote to the cheapest number on the table",
+  "objection": "That's real money for something I can't see yet",
+  "habit": "reads email on his phone in the truck between jobs, thumbs only"
+ },
+ {
+  "id": "P020",
+  "name": "Sol",
+  "age": 62,
+  "segment": "Independent operator or solo professional (single truck, solo agent, one-chair shop)",
+  "income": 50000,
+  "behaviour": "AI skeptic",
+  "behaviour_how": "has read the hype, thinks most of it is a chatbot, and worries a robot will answer a customer wrong and cost him the job",
+  "objection": "AI sounds like hype, and I can't have a robot saying the wrong thing to my customers",
+  "habit": "does the books at the kitchen table on Sunday night"
+ }
+]

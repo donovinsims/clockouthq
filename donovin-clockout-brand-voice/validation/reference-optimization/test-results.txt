@@ -1,0 +1,37 @@
+test_balanced_keeps_everyday_and_contrast (test_reference_intelligence.ReferenceIntelligenceTests.test_balanced_keeps_everyday_and_contrast) ... ok
+test_batch_context_and_attribution (test_reference_intelligence.ReferenceIntelligenceTests.test_batch_context_and_attribution) ... ok
+test_batch_overlap_compares_other_batch_drafts (test_reference_intelligence.ReferenceIntelligenceTests.test_batch_overlap_compares_other_batch_drafts) ... ok
+test_best_uses_comparable_baseline_not_raw_likes (test_reference_intelligence.ReferenceIntelligenceTests.test_best_uses_comparable_baseline_not_raw_likes) ... ok
+test_exact_format_filter_and_representative_mode (test_reference_intelligence.ReferenceIntelligenceTests.test_exact_format_filter_and_representative_mode) ... ok
+test_history_repetition_and_generated_not_training (test_reference_intelligence.ReferenceIntelligenceTests.test_history_repetition_and_generated_not_training) ... ok
+test_hypothetical_is_not_history_and_menu_is_not_walkthrough (test_reference_intelligence.ReferenceIntelligenceTests.test_hypothetical_is_not_history_and_menu_is_not_walkthrough) ... ok
+test_missing_zero_views_are_unknown_not_poor_performance (test_reference_intelligence.ReferenceIntelligenceTests.test_missing_zero_views_are_unknown_not_poor_performance) ... ok
+test_no_relevant_reference_falls_back_honestly (test_reference_intelligence.ReferenceIntelligenceTests.test_no_relevant_reference_falls_back_honestly) ... ok
+test_output_cannot_overwrite_reference_or_escape_project (test_reference_intelligence.ReferenceIntelligenceTests.test_output_cannot_overwrite_reference_or_escape_project) ... ok
+test_ratios_and_original_metrics_preserved (test_reference_intelligence.ReferenceIntelligenceTests.test_ratios_and_original_metrics_preserved) ... ok
+test_short_copied_sentence_and_reordered_near_duplicate (test_reference_intelligence.ReferenceIntelligenceTests.test_short_copied_sentence_and_reordered_near_duplicate) ... ok
+test_structure_outranks_keyword_only (test_reference_intelligence.ReferenceIntelligenceTests.test_structure_outranks_keyword_only) ... ok
+test_cross_author_merge_rejected (test_voice_system.VoiceSystemTests.test_cross_author_merge_rejected) ... ok
+test_default_identity_and_separate_corpora (test_voice_system.VoiceSystemTests.test_default_identity_and_separate_corpora) ... ok
+test_editorial_uses_yaml_path_and_flags_claim (test_voice_system.VoiceSystemTests.test_editorial_uses_yaml_path_and_flags_claim) ... ok
+test_empty_own_search_and_cwd_independence (test_voice_system.VoiceSystemTests.test_empty_own_search_and_cwd_independence) ... ok
+test_holdout_and_per_format_measurement (test_voice_system.VoiceSystemTests.test_holdout_and_per_format_measurement) ... ok
+test_holdouts_excluded_from_normal_search (test_voice_system.VoiceSystemTests.test_holdouts_excluded_from_normal_search) ... ok
+test_ingest_deduplicates_and_unknown_metrics_unranked (test_voice_system.VoiceSystemTests.test_ingest_deduplicates_and_unknown_metrics_unranked) ... ok
+test_ingest_rejects_mixed_missing_and_generated (test_voice_system.VoiceSystemTests.test_ingest_rejects_mixed_missing_and_generated) ... ok
+test_invalid_profile_fails_clearly (test_voice_system.VoiceSystemTests.test_invalid_profile_fails_clearly) ... ok
+test_missing_id_is_stable_in_generic_normalizer (test_voice_system.VoiceSystemTests.test_missing_id_is_stable_in_generic_normalizer) ... ok
+test_overlap_flag_and_empty_corpus (test_voice_system.VoiceSystemTests.test_overlap_flag_and_empty_corpus) ... ok
+test_overlap_requires_one_draft (test_voice_system.VoiceSystemTests.test_overlap_requires_one_draft) ... ok
+test_own_stats_not_fabricated (test_voice_system.VoiceSystemTests.test_own_stats_not_fabricated) ... ok
+test_profile_changes_actual_baseline (test_voice_system.VoiceSystemTests.test_profile_changes_actual_baseline) ... ok
+test_profile_overlap_covers_both_authors (test_voice_system.VoiceSystemTests.test_profile_overlap_covers_both_authors) ... ok
+test_retrieval_legacy_and_profile_route (test_voice_system.VoiceSystemTests.test_retrieval_legacy_and_profile_route) ... ok
+test_strategy_allocation_and_instruction_copies (test_voice_system.VoiceSystemTests.test_strategy_allocation_and_instruction_copies) ... ok
+
+----------------------------------------------------------------------
+Ran 30 tests in 3.441s
+
+OK
+
+EXIT=0

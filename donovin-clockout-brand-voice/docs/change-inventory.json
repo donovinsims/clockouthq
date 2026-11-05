@@ -1,0 +1,209 @@
+{
+  "changed_originals": [
+    {
+      "original_path": "BRIEF_TEMPLATE.md",
+      "status": "updated",
+      "current_path": "BRIEF_TEMPLATE.md"
+    },
+    {
+      "original_path": "CHANGELOG.md",
+      "status": "updated",
+      "current_path": "CHANGELOG.md"
+    },
+    {
+      "original_path": "Corey_Ganim_Brand_Profile/01_Corey_Ganim_Brand_Voice_and_Bio.md",
+      "status": "renamed_and_adapted",
+      "current_path": "Donovin_Sims_Brand_Profile/01_Donovin_Sims_Brand_Voice_and_Bio.md"
+    },
+    {
+      "original_path": "Corey_Ganim_Brand_Profile/02_Corey_Ganim_Ideal_Customer_Profile.md",
+      "status": "renamed_and_adapted",
+      "current_path": "Donovin_Sims_Brand_Profile/02_Donovin_Sims_Ideal_Customer_Profile.md"
+    },
+    {
+      "original_path": "Corey_Ganim_Brand_Profile/03_Corey_Ganim_Project_Instructions.md",
+      "status": "renamed_and_adapted",
+      "current_path": "Donovin_Sims_Brand_Profile/03_Donovin_Sims_Project_Instructions.md"
+    },
+    {
+      "original_path": "Corey_Ganim_Brand_Profile/03_Corey_Ganim_Project_Instructions.txt",
+      "status": "renamed_and_adapted",
+      "current_path": "Donovin_Sims_Brand_Profile/03_Donovin_Sims_Project_Instructions.txt"
+    },
+    {
+      "original_path": "Corey_Ganim_Brand_Profile/README.md",
+      "status": "renamed_and_adapted",
+      "current_path": "Donovin_Sims_Brand_Profile/README.md"
+    },
+    {
+      "original_path": "EDITORIAL_QUALITY_CHECKLIST.md",
+      "status": "updated",
+      "current_path": "EDITORIAL_QUALITY_CHECKLIST.md"
+    },
+    {
+      "original_path": "INTEGRATION_AUDIT.json",
+      "status": "updated",
+      "current_path": "INTEGRATION_AUDIT.json"
+    },
+    {
+      "original_path": "README.md",
+      "status": "updated",
+      "current_path": "README.md"
+    },
+    {
+      "original_path": "TESTING_AND_LIMITATIONS.md",
+      "status": "updated",
+      "current_path": "TESTING_AND_LIMITATIONS.md"
+    },
+    {
+      "original_path": "WORKFLOW.md",
+      "status": "updated",
+      "current_path": "WORKFLOW.md"
+    },
+    {
+      "original_path": "integrations/voice-analyze/SKILL.md",
+      "status": "updated",
+      "current_path": "integrations/voice-analyze/SKILL.md"
+    },
+    {
+      "original_path": "integrations/voice-apply/SKILL.md",
+      "status": "updated",
+      "current_path": "integrations/voice-apply/SKILL.md"
+    },
+    {
+      "original_path": "scripts/check_draft.py",
+      "status": "updated",
+      "current_path": "scripts/check_draft.py"
+    },
+    {
+      "original_path": "voice-clone/COREY_GANIM_QUICK_START.md",
+      "status": "archived",
+      "current_path": "docs/archive/original-active/COREY_GANIM_QUICK_START.md"
+    },
+    {
+      "original_path": "voice-clone/SKILL.md",
+      "status": "updated",
+      "current_path": "voice-clone/SKILL.md"
+    },
+    {
+      "original_path": "voice-clone/profiles/corey-ganim/README.md",
+      "status": "updated",
+      "current_path": "voice-clone/profiles/corey-ganim/README.md"
+    },
+    {
+      "original_path": "voice-clone/profiles/corey-ganim/corey-voice-profile.yaml",
+      "status": "updated",
+      "current_path": "voice-clone/profiles/corey-ganim/corey-voice-profile.yaml"
+    },
+    {
+      "original_path": "voice-clone/scripts/ingest.py",
+      "status": "updated",
+      "current_path": "voice-clone/scripts/ingest.py"
+    },
+    {
+      "original_path": "voice-clone/scripts/retrieve.py",
+      "status": "updated",
+      "current_path": "voice-clone/scripts/retrieve.py"
+    }
+  ],
+  "added_files": [
+    "AGENTS.md",
+    "Donovin_Sims_Brand_Profile/01_Donovin_Sims_Brand_Voice_and_Bio.md",
+    "Donovin_Sims_Brand_Profile/02_Donovin_Sims_Ideal_Customer_Profile.md",
+    "Donovin_Sims_Brand_Profile/03_Donovin_Sims_Project_Instructions.md",
+    "Donovin_Sims_Brand_Profile/03_Donovin_Sims_Project_Instructions.txt",
+    "Donovin_Sims_Brand_Profile/README.md",
+    "content-strategy.json",
+    "docs/IMPLEMENTATION_REPORT.md",
+    "docs/LOCAL_SOURCE_AUDIT.md",
+    "docs/SOURCE_RECONCILIATION.md",
+    "docs/TRANSFORMATION_PLAN.md",
+    "docs/archive/README.md",
+    "docs/archive/original-active/BRIEF_TEMPLATE.md",
+    "docs/archive/original-active/CHANGELOG.md",
+    "docs/archive/original-active/COREY_GANIM_QUICK_START.md",
+    "docs/archive/original-active/Corey_Ganim_Brand_Profile/01_Corey_Ganim_Brand_Voice_and_Bio.md",
+    "docs/archive/original-active/Corey_Ganim_Brand_Profile/02_Corey_Ganim_Ideal_Customer_Profile.md",
+    "docs/archive/original-active/Corey_Ganim_Brand_Profile/03_Corey_Ganim_Project_Instructions.md",
+    "docs/archive/original-active/Corey_Ganim_Brand_Profile/03_Corey_Ganim_Project_Instructions.txt",
+    "docs/archive/original-active/Corey_Ganim_Brand_Profile/README.md",
+    "docs/archive/original-active/EDITORIAL_QUALITY_CHECKLIST.md",
+    "docs/archive/original-active/INTEGRATION_AUDIT.json",
+    "docs/archive/original-active/README.md",
+    "docs/archive/original-active/TESTING_AND_LIMITATIONS.md",
+    "docs/archive/original-active/WORKFLOW.md",
+    "docs/archive/original-active/integrations/voice-analyze/SKILL.md",
+    "docs/archive/original-active/integrations/voice-apply/SKILL.md",
+    "docs/archive/original-active/scripts/check_draft.py",
+    "docs/archive/original-active/voice-clone/SKILL.md",
+    "docs/archive/original-active/voice-clone/profiles/corey-ganim/README.md",
+    "docs/archive/original-active/voice-clone/profiles/corey-ganim/corey-voice-profile.yaml",
+    "docs/archive/original-active/voice-clone/scripts/ingest.py",
+    "docs/archive/original-active/voice-clone/scripts/retrieve.py",
+    "docs/canonical/SNAPSHOT.md",
+    "docs/canonical/comparison.json",
+    "docs/canonical/docs/01-founder/profile.md",
+    "docs/canonical/docs/02-business-foundation/business-plan.md",
+    "docs/canonical/docs/02-business-foundation/services-and-mentor-boundaries.md",
+    "docs/canonical/docs/04-offers-and-sales/website-offer.md",
+    "docs/canonical/docs/04-offers-and-sales/website-sales-operating-system.md",
+    "docs/canonical/docs/05-delivery-and-operations/delivery-playbook.md",
+    "docs/canonical/docs/08-finance-and-goals/cash-and-metrics.md",
+    "docs/canonical/docs/09-execution-and-decisions/contradictions.md",
+    "docs/canonical/docs/09-execution-and-decisions/decision-log.md",
+    "docs/canonical/docs/09-execution-and-decisions/history-2026-09-to-10.md",
+    "docs/canonical/docs/09-execution-and-decisions/november-10-review.md",
+    "docs/canonical/docs/10-reference-and-archive/ACCURACY_AND_DEPTH_REVIEW.md",
+    "docs/canonical/docs/10-reference-and-archive/CONSOLIDATION_REPORT.md",
+    "docs/canonical/docs/10-reference-and-archive/FUNCTIONAL_SCENARIOS.md",
+    "docs/canonical/docs/10-reference-and-archive/PROVENANCE.md",
+    "docs/canonical/docs/10-reference-and-archive/claims.yaml",
+    "docs/canonical/docs/10-reference-and-archive/file-coverage.csv",
+    "docs/canonical/docs/10-reference-and-archive/source-extracts/S01.md",
+    "docs/canonical/docs/10-reference-and-archive/source-extracts/U02.md",
+    "docs/canonical/docs/10-reference-and-archive/source-extracts/U04.md",
+    "docs/canonical/docs/10-reference-and-archive/templates/scope-and-proposal.md",
+    "docs/canonical/docs/AGENTS.md",
+    "docs/canonical/docs/CHANGELOG.md",
+    "docs/canonical/docs/CHECKPOINT.md",
+    "docs/canonical/docs/CURRENT_STATE.md",
+    "docs/canonical/docs/OPEN_DECISIONS.md",
+    "docs/canonical/docs/README.md",
+    "docs/canonical/docs/SHA256SUMS",
+    "docs/canonical/tree.json",
+    "docs/change-inventory.json",
+    "docs/original-project-hashes.json",
+    "docs/reference-readonly-baseline.json",
+    "exports/CHATGPT_CONTEXT.md",
+    "scripts/export_chatgpt.py",
+    "scripts/validate_project.py",
+    "tests/test_voice_system.py",
+    "validation/20-post-plan.json",
+    "validation/REVIEW.md",
+    "validation/drafts/01-education.txt",
+    "validation/drafts/02-agent.txt",
+    "validation/drafts/03-operations.txt",
+    "validation/drafts/04-founder.txt",
+    "validation/project-checks.json",
+    "validation/results.json",
+    "validation/test-results.txt",
+    "voice-clone/DONOVIN_SIMS_QUICK_START.md",
+    "voice-clone/profiles/donovin-sims/README.md",
+    "voice-clone/profiles/donovin-sims/data/corpus.jsonl",
+    "voice-clone/profiles/donovin-sims/data/replies.jsonl",
+    "voice-clone/profiles/donovin-sims/data/source-audit.json",
+    "voice-clone/profiles/donovin-sims/data/stats.json",
+    "voice-clone/profiles/donovin-sims/data/stats.md",
+    "voice-clone/profiles/donovin-sims/donovin-voice-profile.yaml",
+    "voice-clone/profiles/donovin-sims/facts.md",
+    "voice-clone/profiles/donovin-sims/hooks.md",
+    "voice-clone/profiles/donovin-sims/learning-log.md",
+    "voice-clone/profiles/donovin-sims/lexicon.md",
+    "voice-clone/profiles/donovin-sims/manifest.json",
+    "voice-clone/profiles/donovin-sims/positions.md",
+    "voice-clone/profiles/donovin-sims/top-posts.md",
+    "voice-clone/profiles/donovin-sims/voice-dna.md",
+    "voice-clone/scripts/profile_config.py"
+  ],
+  "preserved_reference_scope": "Corey data/source-archive and Ghostwriter upstream; original root and brand/scripts/skills archived"
+}

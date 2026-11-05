@@ -1,0 +1,13 @@
+{
+ "id": "P013",
+ "buys": false,
+ "purchases_first_month": 0,
+ "reason_code": "habit",
+ "reason": "I already pay for a CRM, a scheduling app and a review tool and use maybe a third of each. My problem is not that I do not know what is broken, it is that I do not have the hours to look at it, and another paid project is not the fix.",
+ "objection": "Spending $1,500 to $3,500 for a stranger from Roscoe to tell me what any of the three salespeople who call me every week would tell me for free, and the free hour still costs me a service call I cannot afford to miss.",
+ "would_change_my_mind": "If he looked at my setup and named the exact step costing me money in my own numbers, on that free page, and showed two other shops around here my size who paid and got it back, then maybe.",
+ "price_too_cheap": 200,
+ "price_cheap": 500,
+ "price_expensive": 1500,
+ "price_too_expensive": 3500
+}

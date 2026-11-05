@@ -1,0 +1,27 @@
+# Local machine and tool state
+.DS_Store
+._*
+__MACOSX/
+.freebuff/
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+node_modules/
+# Credentials and local sessions
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+*.p12
+*.pfx
+credentials*.json
+secrets*.json
+service-account*.json
+cookies*.json
+cookies*.txt
+session-state*
+storage-state*
+auth-state*
+.netrc

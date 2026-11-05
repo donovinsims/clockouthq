@@ -1,0 +1,13 @@
+{
+ "id": "P008",
+ "buys": false,
+ "purchases_first_month": 0,
+ "reason_code": "trust",
+ "reason": "I already paid an agency $1,500 a month for a year and got click reports instead of jobs, so a free look from someone out of Roscoe is not going to win me over. The free hour is the hook, and I have been hooked before.",
+ "objection": "How do I know the free write-up will not just be a sales pitch that ends with and that will be $3,500? I have heard tell you what I would fix before and it cost me a year and a lot of money.",
+ "would_change_my_mind": "Proof from a business like mine, a truck or a one-chair shop, not a big company, that says plainly how many jobs they got out of it and what they paid, and that I can call that person myself.",
+ "price_too_cheap": 300,
+ "price_cheap": 900,
+ "price_expensive": 2500,
+ "price_too_expensive": 4000
+}

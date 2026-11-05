@@ -1,0 +1,13 @@
+{
+ "id": "P014",
+ "buys": false,
+ "purchases_first_month": 0,
+ "reason_code": "trust",
+ "reason": "I have been sold I will save you time a dozen times and I am the one who ends up babysitting it. I would read the free page at the kitchen table Sunday night, and that is about it.",
+ "objection": "A one-page guess about my business from someone I have never met is not proof, how do I know the $950 fix actually pays for itself, and that I am not the one chasing him for the 30-day check-back?",
+ "would_change_my_mind": "Show me a written before-and-after from another landlord or property manager near me, same unit count, the actual dollars and hours, with a phone number I can call.",
+ "price_too_cheap": 200,
+ "price_cheap": 500,
+ "price_expensive": 2500,
+ "price_too_expensive": 5000
+}

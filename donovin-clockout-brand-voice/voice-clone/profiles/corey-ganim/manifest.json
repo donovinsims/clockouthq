@@ -1,0 +1,24 @@
+{
+  "name": "Corey Ganim X voice profile",
+  "source_date": "2026-10-30",
+  "unique_posts": 405,
+  "measured_posts": 395,
+  "holdout_posts": 10,
+  "formats": {
+    "article": 12,
+    "thread": 10,
+    "long": 228,
+    "quote": 109,
+    "short": 46
+  },
+  "unranked_posts": 20,
+  "reply_samples_available": 0,
+  "independent_blind_test": "not performed",
+  "source_corpus_sha256": "4c29419e7b088db304961dc935a323e89c4465e3d44c261c9cbf4a927ac190e5",
+  "known_limitations": [
+    "Only supplied posts, not the full X publishing history",
+    "Historical view metrics are uneven snapshots and may be missing",
+    "Thread archives may be incomplete",
+    "No creator authorization to represent them or approved edits"
+  ]
+}

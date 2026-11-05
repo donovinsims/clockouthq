@@ -1,0 +1,57 @@
+name: Clockout Source of Truth
+version: 3.0-final
+baseline_date: '2026-10-29'
+timezone: America/Chicago
+root: docs
+formats:
+- Markdown
+- YAML
+- JSON
+- CSV
+scope: Professional plus relevant personal context
+active_mission: Documentation complete; latest recorded business mission is the dated
+  October 29 website cash plan, outcomes unverified
+next_review: '2026-11-10'
+owner: Donovin Sims
+repository_status: initialized_remote_public_verified_2026-11-02
+external_mutations_for_this_delivery: none
+canonical_entrypoints:
+- README.md
+- AGENTS.md
+- CURRENT_STATE.md
+- CHANGELOG.md
+- OPEN_DECISIONS.md
+source_register: 10-reference-and-archive/source-register.json
+claims_register: 10-reference-and-archive/claims.yaml
+coverage: 10-reference-and-archive/file-coverage.csv
+validation: 10-reference-and-archive/OPERATING_SYSTEM_VALIDATION.md
+sections:
+- 01-founder
+- 02-business-foundation
+- 03-market-research
+- 04-offers-and-sales
+- 05-delivery-and-operations
+- 06-marketing-and-brand
+- 07-tools-and-systems
+- 08-finance-and-goals
+- 09-execution-and-decisions
+- 10-reference-and-archive
+repository_root: parent folder containing docs
+documentation_root: docs
+checkpoint: CHECKPOINT.md
+maintenance_sop: DOCS_MAINTENANCE.md
+consolidation_report: 10-reference-and-archive/CONSOLIDATION_REPORT.md
+input_archives:
+- A01
+- A02
+current_owner_correction_source: U02
+documentation_completed: '2026-10-30'
+business_baseline_date: '2026-10-29'
+improvement_report: 10-reference-and-archive/OPERATING_SYSTEM_IMPROVEMENT_REPORT.md
+functional_scenarios: 10-reference-and-archive/FUNCTIONAL_SCENARIOS.md
+current_documentation_authority: U05
+accuracy_review: 10-reference-and-archive/ACCURACY_AND_DEPTH_REVIEW.md
+repository_visibility_verified: public
+repository_visibility_review_date: '2026-11-02'
+push_status: paused_by_owner_local_changes_only
+core_workflow_verification: 10-reference-and-archive/CORE_WORKFLOW_VERIFICATION.md

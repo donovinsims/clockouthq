@@ -1,0 +1,190 @@
+baseline_date: '2026-10-29'
+timezone: America/Chicago
+claims:
+- id: C01
+  claim: Clockout is Donovin Sims's solo AI implementation and business optimization
+    company in Roscoe Illinois
+  status: CONFIRMED_OWNER_CONTEXT
+  sources:
+  - S04
+  - L01
+  confidence: high_for_owner_intent_and_self_report
+- id: C02
+  claim: Collect at least 500 USD in available funds by November 10 2026
+  status: FOUNDER_DECISION_DATED_BASELINE
+  sources:
+  - U02
+  - S01
+  confidence: high
+  as_of: '2026-10-29'
+  limitation: Does not verify later execution, receipts or automatic market transition
+- id: C03
+  claim: Proposed introductory one-page website offer is 500 USD with 250 upfront
+    and 250 after approval before launch
+  status: PROPOSED_INTRODUCTORY_OFFER
+  sources:
+  - S01
+  - U02
+  confidence: high_that_current_owner_mission_presents_terms_as_proposed
+  limitation: Price revised on 2026-10-31 by Donovin. Scope remains the U02 proposal.
+- id: C04
+  claim: Actual sprint receipts and available cash
+  status: UNKNOWN
+  sources:
+  - U02
+  - S01
+  confidence: no_financial_evidence_reviewed
+- id: C05
+  claim: Free business look is the established public entry offer
+  status: CONFIRMED_OWNER_CONTEXT
+  sources:
+  - S04
+  confidence: high_for_intent_not_current_live_copy
+- id: C06
+  claim: No universal Clockout rate card or mandatory 999 USD assessment
+  status: CONFIRMED_OWNER_CONTEXT
+  sources:
+  - S04
+  confidence: high
+- id: C07
+  claim: Property management is a focused validation hypothesis rather than proven
+    specialization
+  status: OWNER_INTEREST_AND_PROPOSED_EXPERIMENT
+  sources:
+  - S13
+  - S01
+  confidence: high_for_interest_medium_for_recommended_sequence
+- id: C08
+  claim: Property-management validation deferred through November 10 results review
+  status: FOUNDER_DECISION_DATED_BASELINE
+  sources:
+  - S01
+  - U02
+  confidence: high
+  as_of: '2026-10-29'
+  limitation: Does not verify later execution, receipts or automatic market transition
+- id: C09
+  claim: clockout.us live and shareable as of October 4
+  status: HISTORICAL_OWNER_CONFIRMATION_REPORTED
+  sources:
+  - L01
+  - L03
+  confidence: medium_current_state_unverified
+- id: C10
+  claim: L03 describes inactive preview form in Oct 4 context; L06 and L07 describe
+    noindex on September review deployments
+  status: HISTORICAL_REPORTED_OBSERVATIONS
+  sources:
+  - L03
+  - L06
+  - L07
+  confidence: medium_current_state_unverified
+  limitation: Prior Oct 13 attribution to S10 is unsupported by packaged excerpt;
+    current domain/form/indexing state unknown
+- id: C11
+  claim: GBP service-update attempts failed and did not establish intended eight services
+  status: REPORTED_EXECUTION_FAILURE
+  sources:
+  - S10
+  confidence: medium_independent_final_verification_absent
+- id: C12
+  claim: Current Google profile verification and saved services
+  status: UNKNOWN
+  sources:
+  - S10
+  - L03
+  confidence: conflicting_historical_metadata
+- id: C13
+  claim: Pietro project complete and excluded from active workload
+  status: FOUNDER_CONFIRMED_COMPLETE
+  sources:
+  - S01
+  - U02
+  confidence: high_for_owner_completion_statement_not_new_system_audit
+- id: C14
+  claim: Approximately 5000 and 20000 USD monthly revenue milestones
+  status: GOALS_NOT_RESULTS
+  sources:
+  - S04
+  - L01
+  confidence: high_for_goal_only
+- id: C15
+  claim: Corey pricing examples and guest outcomes are reference material
+  status: CONFIRMED_BOUNDARY
+  sources:
+  - S04
+  - S09
+  confidence: high
+- id: C16
+  claim: Data brokerage excluded from Clockout strategy
+  status: CONFIRMED_OWNER_DECISION
+  sources:
+  - S09
+  confidence: high
+- id: C17
+  claim: Component policy differs between September checkout and October context
+  status: UNRESOLVED_CONTRADICTION
+  sources:
+  - L05
+  - L08
+  - S04
+  confidence: high_that_sources_conflict
+- id: C18
+  claim: Exact template permission and redistribution rights
+  status: HOLD_UNRESOLVED
+  sources:
+  - L01
+  - L09
+  confidence: conflicting_records
+- id: C19
+  claim: Prior October 13 updated ZIP contained 157 files and 13 matching transcripts
+  status: UNVERIFIED_INHERITED_REPORT
+  sources:
+  - S08
+  confidence: not_independently_verified
+  limitation: Packaged S08 contains owner requests, not the claimed assistant count
+    report or original attachment; exact counts not independently inspectable
+- id: C20
+  claim: Current GitHub repository creation is not authorized
+  status: CONFIRMED_BOUNDARY
+  sources:
+  - U02
+  - S01
+  confidence: high
+- id: C21
+  claim: No new prospects or sales conversations since October 13 at the October 29
+    founder confirmation
+  status: CONFIRMED_DATED_HISTORICAL_BASELINE
+  sources:
+  - U02
+  - A02
+  confidence: high_for_owner_confirmation
+  limitation: Does not establish older contacts revenue or activity after confirmation
+- id: C22
+  claim: Final package has one docs root and root checkpoint
+  status: ARTIFACT_VALIDATION_REQUIRED
+  sources:
+  - U02
+  confidence: use_final_validation_report
+- id: C23
+  claim: Full re-verification of Master v3 against packaged sources completed 2026-10-30 under
+    U04 with no unsupported material claim found in active canonical documents; two recovered-context
+    additions were made and reconciliation reports are in ACCURACY_AND_DEPTH_REVIEW.md
+  status: DOCUMENTATION_REVIEW_RECORD
+  sources:
+  - U04
+  - U03
+  confidence: review_of_packaged_evidence_only
+  limitation: Review covers packaged evidence; absent original attachments and catalog-only
+    library entries were not recovered, and no live business state was checked
+- id: C24
+  claim: Initial repository setup is complete; November 2 bounded core workflow checks passed;
+    GitHub visibility is PUBLIC and the owner paused this update's push
+  status: DATED_CORE_WORKFLOW_OBSERVATION
+  sources:
+  - U05
+  - W04
+  confidence: direct_observation_with_owner_publication_instruction
+  limitation: No push or production deployment tested; optional tools and business outcomes remain unverified
+documentation_review_date: '2026-10-30'
+core_workflow_review_date: '2026-11-02'

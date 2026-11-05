@@ -1,0 +1,13 @@
+{
+ "id": "P007",
+ "buys": false,
+ "purchases_first_month": 0,
+ "reason_code": "habit",
+ "reason": "I already pay for a CRM, a scheduler and a review tool I use about a third of, so my gut says the answer is not another thing I have to manage. A free hour sounds fine, but I know how that ends, a write-up and a pitch.",
+ "objection": "If the fix is use the software you already pay for, I can hear that for free from the two owners I talk to at the supply house. I do not have an hour to spend to be told to change a process, and I do not have $1,500 to $3,500 to hand a stranger in Roscoe when I still do not know what is actually broken.",
+ "would_change_my_mind": "Someone I actually know, a plumber or electrician around here, telling me Donovin fixed their intake and it stuck. Then I would take the free look, not before.",
+ "price_too_cheap": 300,
+ "price_cheap": 1200,
+ "price_expensive": 3500,
+ "price_too_expensive": 6000
+}

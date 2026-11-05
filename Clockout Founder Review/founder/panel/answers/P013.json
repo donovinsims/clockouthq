@@ -1,0 +1,13 @@
+{
+ "id": "P013",
+ "buys": false,
+ "purchases_first_month": 0,
+ "reason_code": "habit",
+ "reason": "That free one-pager sounds fine and costs me nothing, so I might read it. But I already pay for a CRM, a scheduling app and a review tool, and I use maybe a third of each, the last thing I need is another invoice.",
+ "objection": "I have heard AI before and what it really means is a robot fumbling my customers while I am elbow-deep in a furnace, and I am not convinced some stranger in Roscoe understands my jobs better than I do.",
+ "would_change_my_mind": "If the free one-pager named a specific dollar figure I am actually losing, quotes going cold, calls sitting in the missed-call log, and it matched what I know is true, then $950 for one narrow fix with the balance held until it passes a written test might be worth a shot.",
+ "price_too_cheap": 200,
+ "price_cheap": 900,
+ "price_expensive": 2500,
+ "price_too_expensive": 5000
+}

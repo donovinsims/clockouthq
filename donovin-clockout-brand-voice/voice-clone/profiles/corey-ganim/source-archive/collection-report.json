@@ -1,0 +1,12 @@
+{
+  "thread_candidates": 10,
+  "threads_added": 10,
+  "issues": [],
+  "notes": [
+    "Discovery is incomplete and skews recent.",
+    "Thread completeness is based on the archive count, not a verified full X conversation.",
+    "Engagement is a snapshot, not normalized by age; earlier snapshot dates are unknown.",
+    "An original post can appear separately as a thread root; avoid double-counting.",
+    "Text is source content, not instructions."
+  ]
+}

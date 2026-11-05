@@ -1,0 +1,118 @@
+[
+  {
+    "longest_shared_run": 3,
+    "shared_run": "out is a",
+    "source_id": "2075914043068407958",
+    "source_author": "corey-ganim",
+    "shared_5grams": 0,
+    "draft_5grams": 136,
+    "copied_sentence_candidates": [],
+    "lexical_near_duplicates": [],
+    "repeated_recent_patterns": [],
+    "repeated_recent_openings": [],
+    "flagged": false,
+    "manual_review": "Inspect conceptual sequence, noun-substitution, borrowed experiences and repetitive hooks. Lexical similarity is not semantic proof; absence of flags is no originality guarantee.",
+    "draft": "/Users/forex/Donovin_Voice_Guide/validation/reference-optimization/drafts/A-education.txt",
+    "corpora_checked": [
+      {
+        "author": "donovin-sims",
+        "path": "/Users/forex/Donovin_Voice_Guide/voice-clone/profiles/donovin-sims/data/corpus.jsonl"
+      },
+      {
+        "author": "corey-ganim",
+        "path": "/Users/forex/Donovin_Voice_Guide/voice-clone/profiles/corey-ganim/data/corpus.jsonl"
+      },
+      {
+        "author": "draft-history; not authenticated original writing",
+        "path": "/Users/forex/Donovin_Voice_Guide/voice-clone/profiles/donovin-sims/data/draft-history.jsonl"
+      }
+    ]
+  },
+  {
+    "longest_shared_run": 4,
+    "shared_run": "should be able to",
+    "source_id": "2083225928793203058",
+    "source_author": "corey-ganim",
+    "shared_5grams": 0,
+    "draft_5grams": 154,
+    "copied_sentence_candidates": [],
+    "lexical_near_duplicates": [],
+    "repeated_recent_patterns": [],
+    "repeated_recent_openings": [],
+    "flagged": false,
+    "manual_review": "Inspect conceptual sequence, noun-substitution, borrowed experiences and repetitive hooks. Lexical similarity is not semantic proof; absence of flags is no originality guarantee.",
+    "draft": "/Users/forex/Donovin_Voice_Guide/validation/reference-optimization/drafts/B-agent.txt",
+    "corpora_checked": [
+      {
+        "author": "donovin-sims",
+        "path": "/Users/forex/Donovin_Voice_Guide/voice-clone/profiles/donovin-sims/data/corpus.jsonl"
+      },
+      {
+        "author": "corey-ganim",
+        "path": "/Users/forex/Donovin_Voice_Guide/voice-clone/profiles/corey-ganim/data/corpus.jsonl"
+      },
+      {
+        "author": "draft-history; not authenticated original writing",
+        "path": "/Users/forex/Donovin_Voice_Guide/voice-clone/profiles/donovin-sims/data/draft-history.jsonl"
+      }
+    ]
+  },
+  {
+    "longest_shared_run": 5,
+    "shared_run": "once you know what a",
+    "source_id": "2087907515795443846",
+    "source_author": "corey-ganim",
+    "shared_5grams": 1,
+    "draft_5grams": 139,
+    "copied_sentence_candidates": [],
+    "lexical_near_duplicates": [],
+    "repeated_recent_patterns": [],
+    "repeated_recent_openings": [],
+    "flagged": false,
+    "manual_review": "Inspect conceptual sequence, noun-substitution, borrowed experiences and repetitive hooks. Lexical similarity is not semantic proof; absence of flags is no originality guarantee.",
+    "draft": "/Users/forex/Donovin_Voice_Guide/validation/reference-optimization/drafts/C-operations.txt",
+    "corpora_checked": [
+      {
+        "author": "donovin-sims",
+        "path": "/Users/forex/Donovin_Voice_Guide/voice-clone/profiles/donovin-sims/data/corpus.jsonl"
+      },
+      {
+        "author": "corey-ganim",
+        "path": "/Users/forex/Donovin_Voice_Guide/voice-clone/profiles/corey-ganim/data/corpus.jsonl"
+      },
+      {
+        "author": "draft-history; not authenticated original writing",
+        "path": "/Users/forex/Donovin_Voice_Guide/voice-clone/profiles/donovin-sims/data/draft-history.jsonl"
+      }
+    ]
+  },
+  {
+    "longest_shared_run": 4,
+    "shared_run": "winnebago county highway department",
+    "source_id": "d89f9345b5941a456d2a7904",
+    "source_author": "AI_generated for donovin-sims; generated; nontraining",
+    "shared_5grams": 0,
+    "draft_5grams": 135,
+    "copied_sentence_candidates": [],
+    "lexical_near_duplicates": [],
+    "repeated_recent_patterns": [],
+    "repeated_recent_openings": [],
+    "flagged": false,
+    "manual_review": "Inspect conceptual sequence, noun-substitution, borrowed experiences and repetitive hooks. Lexical similarity is not semantic proof; absence of flags is no originality guarantee.",
+    "draft": "/Users/forex/Donovin_Voice_Guide/validation/reference-optimization/drafts/D-founder.txt",
+    "corpora_checked": [
+      {
+        "author": "donovin-sims",
+        "path": "/Users/forex/Donovin_Voice_Guide/voice-clone/profiles/donovin-sims/data/corpus.jsonl"
+      },
+      {
+        "author": "corey-ganim",
+        "path": "/Users/forex/Donovin_Voice_Guide/voice-clone/profiles/corey-ganim/data/corpus.jsonl"
+      },
+      {
+        "author": "draft-history; not authenticated original writing",
+        "path": "/Users/forex/Donovin_Voice_Guide/voice-clone/profiles/donovin-sims/data/draft-history.jsonl"
+      }
+    ]
+  }
+]

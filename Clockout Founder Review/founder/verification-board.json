@@ -1,0 +1,33 @@
+{
+  "date": "2026-11-04",
+  "status": "passed",
+  "stage": "founder-board (pre-existing, preserved as recorded)",
+  "source_count": 18,
+  "scores": {
+    "Offers": 6,
+    "Monopoly": 5,
+    "Product": 6
+  },
+  "votes": {
+    "FUND IF": 3,
+    "FUND": 0,
+    "PASS": 0
+  },
+  "average": 5.67,
+  "checks": [
+    "required artifacts present",
+    "original source hashes unchanged",
+    "memo headings and votes",
+    "computed score average",
+    "all relative links resolve",
+    "outdated website statement preserved",
+    "excluded project absent"
+  ],
+  "limits": [
+    "No live website audit",
+    "No fresh competitor research or consumer panel",
+    "No verified demand or profitability",
+    "No deployment, external outreach or source edits",
+    "iCloud synchronization not verified"
+  ]
+}

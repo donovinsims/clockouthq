@@ -1,0 +1,14 @@
+# Local system and Python artifacts
+.DS_Store
+__MACOSX/
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Local credentials
+.env
+.env.*
+!.env.example
+*.pem
+*.key

@@ -1,0 +1,13 @@
+{
+ "id": "P018",
+ "buys": false,
+ "purchases_first_month": 0,
+ "reason_code": "price",
+ "reason": "I am not paying $1,500 to $3,500 for somebody to tell me what I already know about my own quotes. For a free hour I might listen, but my gut says it turns into a sales pitch.",
+ "objection": "I keep my quotes on a paper pad and half of my follow-ups never happen, and I already know that. Paying a stranger thousands to point at it does not put a single extra job on the board.",
+ "would_change_my_mind": "If he showed me, on the free look, two or three quote follow-ups I dropped last month and what that cost me in dollars, then quoted the fix at under a thousand and took the risk of me not paying if it does not work.",
+ "price_too_cheap": 200,
+ "price_cheap": 750,
+ "price_expensive": 1500,
+ "price_too_expensive": 3500
+}

@@ -1,0 +1,27 @@
+There is a very simple AI service hiding inside every owner-operated business with an unanswered inbox.
+
+You don't need a custom agent that can run the whole company.
+
+You need one job:
+
+Find a new inquiry. Figure out what the person wants. Draft the response. Make sure the owner sees it before the lead goes cold.
+
+The implementation:
+
+1. Collect the actual inquiries. Not made up examples. Pull the last month and group them by request type.
+
+2. Identify which requests are safe to answer with a template and which need an owner.
+
+3. Give the system access to approved business information. Services, service area, working hours, pricing rules and the correct booking link.
+
+4. Have it draft responses for approval first. Don't give it permission to make promises, discounts or commitments it can't verify.
+
+5. Log each inquiry, response, time to first reply and final outcome.
+
+6. Review the exceptions every week. Add rules for the ones that repeat.
+
+The first version isn't supposed to be impressive. It's supposed to be trustworthy.
+
+Once it works, you can expand the job to follow-up and scheduling.
+
+A business owner doesn't need to understand the underlying model to understand why fewer leads sitting unanswered is valuable.

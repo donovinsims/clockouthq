@@ -1,0 +1,3 @@
+Performance baselines: {'article': 12, 'all posts (rough)': 9, 'long': 222, 'quote': 109, 'short': 42, 'missing view metric': 11} (anything marked 'all posts (rough)' is unranked; treat its perf as directional only)
+Raw records: 405 | usable originals kept: 405 | replies: 0 | dropped: {}
+Dated posts: 405 | holdout: 10 | metric: views

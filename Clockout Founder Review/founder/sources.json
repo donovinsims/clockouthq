@@ -1,0 +1,92 @@
+[
+  {
+    "id": "S01",
+    "path": "/Users/forex/Clockout-Context-Files-MASTER-2026-10-29/docs/01-founder/profile.md",
+    "sha256": "0c2f640107364e6f3dcc63fe7f87e8c190dff3d0113677719b018617c5b64728"
+  },
+  {
+    "id": "S02",
+    "path": "/Users/forex/Clockout-Context-Files-MASTER-2026-10-29/docs/01-founder/working-with-donovin.md",
+    "sha256": "11ef74b7a66cc2346e46bff4a60abe79523c5dea4ce92be1f2a41505443ee19f"
+  },
+  {
+    "id": "S03",
+    "path": "/Users/forex/Clockout-Context-Files-MASTER-2026-10-29/docs/02-business-foundation/business-plan.md",
+    "sha256": "dd047e6fd2602f45598b33fa59e0ca7d5b9e1f1673b814baf92ee0e72e74497a"
+  },
+  {
+    "id": "S04",
+    "path": "/Users/forex/Clockout-Context-Files-MASTER-2026-10-29/docs/02-business-foundation/services-and-mentor-boundaries.md",
+    "sha256": "d0d296d9bea487c2016d342c166a5f73bd36dbda7d9c12d203dd70010f34a5d7"
+  },
+  {
+    "id": "S05",
+    "path": "/Users/forex/Clockout-Context-Files-MASTER-2026-10-29/docs/03-market-research/market-and-qualification.md",
+    "sha256": "ce1ee4058c6743d149b7ad47ec0d69d0dc89135cb4d10567ab809ec5b246bfb3"
+  },
+  {
+    "id": "S06",
+    "path": "/Users/forex/Clockout-Context-Files-MASTER-2026-10-29/docs/03-market-research/property-management-validation.md",
+    "sha256": "370ef75652eb30832462895fc0e51d4488b4e0aa1592755dc942977f26442a08"
+  },
+  {
+    "id": "S07",
+    "path": "/Users/forex/Clockout-Context-Files-MASTER-2026-10-29/docs/04-offers-and-sales/sales-playbook.md",
+    "sha256": "d670c2ed9fd6fd8802dd97bb850ae550c350fc4f65c33cb801c45f3393287afd"
+  },
+  {
+    "id": "S08",
+    "path": "/Users/forex/Clockout-Context-Files-MASTER-2026-10-29/docs/04-offers-and-sales/website-offer.md",
+    "sha256": "89b8eb38ae998450030571d0b93d9d3a79d599343d5388c00a1c0ba8ec7172bc"
+  },
+  {
+    "id": "S09",
+    "path": "/Users/forex/Clockout-Context-Files-MASTER-2026-10-29/docs/05-delivery-and-operations/delivery-playbook.md",
+    "sha256": "afa7c9c112b4bd0b103df4d5d21214774d35c8b808c51c446e6f2d2c990c91bb"
+  },
+  {
+    "id": "S10",
+    "path": "/Users/forex/Clockout-Context-Files-MASTER-2026-10-29/docs/05-delivery-and-operations/qa-launch-and-support.md",
+    "sha256": "9349f01200e9930ebc125d3b22097253c4ac0607a3c4621a7be497d0a34f2a14"
+  },
+  {
+    "id": "S11",
+    "path": "/Users/forex/Clockout-Context-Files-MASTER-2026-10-29/docs/05-delivery-and-operations/optional-service-playbooks.md",
+    "sha256": "cecd3e159cb9798cef6aaf9269bb5cab3984a68cb6101f80c95f01200bf07965"
+  },
+  {
+    "id": "S12",
+    "path": "/Users/forex/Clockout-Context-Files-MASTER-2026-10-29/docs/08-finance-and-goals/cash-and-metrics.md",
+    "sha256": "51a4192ba0f077714cab0c4916681a91c109c297e2c143f5b146bcff8320fe2f"
+  },
+  {
+    "id": "S13",
+    "path": "/Users/forex/Clockout-Context-Files-MASTER-2026-10-29/docs/CURRENT_STATE.md",
+    "sha256": "89a1e73f6df488ed4ab98184e779fdee76602cea3418879c1c51d07a5f1f683a"
+  },
+  {
+    "id": "S14",
+    "path": "/Users/forex/Clockout-Context-Files-MASTER-2026-10-29/docs/OPEN_DECISIONS.md",
+    "sha256": "6c46c364355239e99552b8c6e52bdfec9c548e7c3e08f8e2d76c585210823428"
+  },
+  {
+    "id": "S15",
+    "path": "/Users/forex/Clockout-Context-Files-MASTER-2026-10-29/docs/CHECKPOINT.md",
+    "sha256": "c9f97ad9238fe53703731259583be902dfc882b5e3accaa39ea0760e6b874c98"
+  },
+  {
+    "id": "S16",
+    "path": "/Users/forex/donovin-clockout-brand-voice/Donovin_Sims_Brand_Profile/02_Donovin_Sims_Ideal_Customer_Profile.md",
+    "sha256": "5f0028b5fe943f9442e2340feaeba2e3e09ad0aebb5654093a0435401787a8b5"
+  },
+  {
+    "id": "S17",
+    "path": "/Users/forex/donovin-clockout-brand-voice/voice-clone/profiles/donovin-sims/facts.md",
+    "sha256": "6893d86c03b81949609c2b41ca81dc80659949f091c458bdfdfc9dae8cbaaed7"
+  },
+  {
+    "id": "S18",
+    "path": "/Users/forex/donovin-clockout-brand-voice/voice-clone/profiles/donovin-sims/positions.md",
+    "sha256": "bcec65431b4e91d7ff409a2a92cca2079c291806380f189f6083ea18e442c951"
+  }
+]

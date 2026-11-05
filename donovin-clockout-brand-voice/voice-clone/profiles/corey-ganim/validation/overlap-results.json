@@ -1,0 +1,62 @@
+[
+  {
+    "draft": 1,
+    "format": "long",
+    "result": "Longest shared run: 3 words -> \"you don't need\" (post 2054569765071372600)\n5-word sequences copied from corpus: 0 of 202\nOK: original enough.",
+    "exit": 0
+  },
+  {
+    "draft": 2,
+    "format": "long",
+    "result": "Longest shared run: 5 words -> \"building an ai service business\" (post 2082927428758888703)\n5-word sequences copied from corpus: 1 of 64\nOK: original enough.",
+    "exit": 0
+  },
+  {
+    "draft": 3,
+    "format": "short",
+    "result": "Longest shared run: 5 words -> \"the easiest ai service to\" (post 2078427308386406799)\n5-word sequences copied from corpus: 1 of 16\nOK: original enough.",
+    "exit": 0
+  },
+  {
+    "draft": 4,
+    "format": "quote",
+    "result": "Longest shared run: 5 words -> \"the client is buying the\" (post 2098173672809005438)\n5-word sequences copied from corpus: 1 of 54\nOK: original enough.",
+    "exit": 0
+  },
+  {
+    "draft": 5,
+    "format": "quote",
+    "result": "Longest shared run: 2 words -> \"that can\" (post 2051293720138432635)\n5-word sequences copied from corpus: 0 of 18\nOK: original enough.",
+    "exit": 0
+  },
+  {
+    "draft": 6,
+    "format": "short",
+    "result": "Longest shared run: 3 words -> \"you can learn\" (post 2094891075907297751)\n5-word sequences copied from corpus: 0 of 14\nOK: original enough.",
+    "exit": 0
+  },
+  {
+    "draft": 7,
+    "format": "long",
+    "result": "Longest shared run: 5 words -> \"the job write down what\" (post 2089299700386242670)\n5-word sequences copied from corpus: 1 of 89\nOK: original enough.",
+    "exit": 0
+  },
+  {
+    "draft": 8,
+    "format": "long",
+    "result": "Longest shared run: 4 words -> \"the difference between a\" (post 2084312288786276484)\n5-word sequences copied from corpus: 0 of 67\nOK: original enough.",
+    "exit": 0
+  },
+  {
+    "draft": 9,
+    "format": "long",
+    "result": "Longest shared run: 4 words -> \"people are trying to\" (post 2095505027536224349)\n5-word sequences copied from corpus: 0 of 123\nOK: original enough.",
+    "exit": 0
+  },
+  {
+    "draft": 10,
+    "format": "long",
+    "result": "Longest shared run: 4 words -> \"one of my favorite\" (post 2079611360346812636)\n5-word sequences copied from corpus: 0 of 224\nOK: original enough.",
+    "exit": 0
+  }
+]

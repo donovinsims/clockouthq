@@ -1,0 +1,9 @@
+This is the part most people are missing.
+
+A tool demo isn't an offer.
+
+If someone can build it in 15 minutes, cool. Who has the problem? How does it fit into the tools they already use? Who checks the output when it goes wrong?
+
+That's what the client is buying.
+
+The workflow, the ownership and the support.

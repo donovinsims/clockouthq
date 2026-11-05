@@ -1,0 +1,17 @@
+Stop asking AI to “clean up” your meeting notes.
+
+Give it a finish line:
+
+“Turn these sample notes into a table with four columns: task, owner, deadline, and source sentence. If an owner or date is missing, write unknown. Don't fill the gaps.”
+
+Then check the table against the notes.
+
+1) Does every task point back to something someone actually said?
+2) Did it turn a suggestion into a commitment?
+3) Are the missing details still visible?
+
+Use a made-up example first. For real work, use your organization's approved tools and data rules.
+
+The useful part is the review step. A tidy action list can still be wrong.
+
+Once the small example works, save the instructions and reuse them. You now have a workflow you can inspect instead of a vague request you have to rewrite.

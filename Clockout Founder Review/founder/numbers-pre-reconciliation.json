@@ -1,0 +1,27 @@
+{
+  "business": "Clockout — solo business optimization and AI implementation (Donovin Sims)",
+  "unit": "engagement (one scoped implementation project)",
+  "price": 2500,
+  "variable": [
+    {"label": "Card processing 2.9% + $0.30 (ESTIMATE at $2,500; actual processor unverified)", "cost": 72.80},
+    {"label": "Software/licences Clockout carries for the build (ESTIMATE)", "cost": 40.00},
+    {"label": "On-site travel and mileage (ESTIMATE: 2 trips, 100 mi total)", "cost": 70.00},
+    {"label": "Handover pack printing/binding (ESTIMATE)", "cost": 15.00},
+    {"label": "Guarantee provision: balance waived on failed acceptance (ASSUMPTION: 10% claim rate x $1,750)", "cost": 175.00}
+  ],
+  "fixed_monthly": [
+    {"label": "Software subscriptions: workspace, site hosting, AI tools (ESTIMATE)", "cost": 120.00},
+    {"label": "Phone and internet share (ESTIMATE)", "cost": 60.00},
+    {"label": "Business liability insurance (ESTIMATE; actual policy unverified)", "cost": 75.00},
+    {"label": "Bookkeeping/accounting (ESTIMATE; actual provider unverified)", "cost": 100.00},
+    {"label": "Banking and miscellaneous (ESTIMATE)", "cost": 25.00}
+  ],
+  "startup": [
+    {"label": "Proof-demo build and printed samples (SCENARIO, not a quote)", "cost": 600.00},
+    {"label": "Simple site message/contact-route update (SCENARIO; no rebuild)", "cost": 200.00}
+  ],
+  "days_per_month": 30,
+  "capacity_per_day": 0.09,
+  "plan_per_day": 0.067,
+  "ramp_per_day": [0.033, 0.033, 0.067, 0.067, 0.067, 0.067, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1]
+}

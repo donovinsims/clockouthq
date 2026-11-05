@@ -1,0 +1,60 @@
+{
+  "original_unique_posts": 405,
+  "measured": 395,
+  "held_out": 10,
+  "format_measured_counts": {
+    "article": 12,
+    "thread": 10,
+    "quote": 107,
+    "long": 222,
+    "short": 44
+  },
+  "term_post_counts_measured": {
+    "optimize": 16,
+    "framework": 16,
+    "roadmap": 8,
+    "leverage": 4,
+    "comprehensive": 0,
+    "delve": 0,
+    "seamless": 0
+  },
+  "heuristic_sentence_spread": {
+    "short": {
+      "posts_measured": 44,
+      "median_sentence_length_std_dev_heuristic_words": 3.1,
+      "sentence_count_used_for_heuristic": 103,
+      "heuristic_caveat": "Regex boundaries and X line breaks approximate sentences; descriptive only; do not compare with Ghostwriter human/AI cutoffs."
+    },
+    "long": {
+      "posts_measured": 222,
+      "median_sentence_length_std_dev_heuristic_words": 5.5,
+      "sentence_count_used_for_heuristic": 3688,
+      "heuristic_caveat": "Regex boundaries and X line breaks approximate sentences; descriptive only; do not compare with Ghostwriter human/AI cutoffs."
+    },
+    "quote": {
+      "posts_measured": 107,
+      "median_sentence_length_std_dev_heuristic_words": 4.4,
+      "sentence_count_used_for_heuristic": 792,
+      "heuristic_caveat": "Regex boundaries and X line breaks approximate sentences; descriptive only; do not compare with Ghostwriter human/AI cutoffs."
+    },
+    "thread": {
+      "posts_measured": 10,
+      "median_sentence_length_std_dev_heuristic_words": 2.9,
+      "sentence_count_used_for_heuristic": 41,
+      "heuristic_caveat": "Regex boundaries and X line breaks approximate sentences; descriptive only; do not compare with Ghostwriter human/AI cutoffs."
+    },
+    "article": {
+      "posts_measured": 12,
+      "median_sentence_length_std_dev_heuristic_words": 6.1,
+      "sentence_count_used_for_heuristic": 1884,
+      "heuristic_caveat": "Regex boundaries and X line breaks approximate sentences; descriptive only; do not compare with Ghostwriter human/AI cutoffs."
+    }
+  },
+  "preserved_primary_corpus": true,
+  "original_ghostwriter_source": "ghostwriter-skills.zip Ghostwriter 1.1.0 MIT",
+  "adapted_skills": [
+    "voice-analyze",
+    "voice-apply"
+  ],
+  "independent_blind_test_performed": false
+}
