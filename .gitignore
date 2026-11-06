@@ -25,3 +25,4 @@ session-state*
 storage-state*
 auth-state*
 .netrc
+.agents/
