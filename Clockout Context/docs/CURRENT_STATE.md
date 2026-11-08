@@ -1,12 +1,22 @@
 # Current state — dated business baseline
 As of **2026-10-29**, America/Chicago. Review due **2026-11-10**, or immediately when new evidence changes priorities.
 
+## Website acquisition decision — 2026-11-07
+
+D21 / U07 adopts a personalized two-page demo before new website outreach. Phase 1 reconciles the docs. Build approval comes before any website construction, including the master template. Pilot preview publication requires separate approval after QA. Future build approvals may expressly include a preconfigured preview destination. Outreach and production launch always require separate approval. See the [canonical workflow](04-offers-and-sales/website-sales-operating-system.md) and [execution policy](07-tools-and-systems/execution-system.md#demo-authorization-and-enforcement). The proposed one-page paid offer and dated November 10 cash review retain their scope.
+
+**U08 / D22 documentation scope.** The [Phase 2–6 roadmap](09-execution-and-decisions/clockouthq-2-0-implementation.md) and technical specifications are ready for review. Actual implementation awaits separate authorization. Tracker ownership, the restricted runtime, preview destination, and sender are unresolved. The D21 founder gates and current business baseline still apply.
+
+**U09 / D23 final handoff.** The [implementation handoff](CHECKPOINT.md) and [OD01–OD23 review](OPEN_DECISIONS.md#implementation-readiness-review--2026-11-07) are complete. The next work belongs in a fresh Codex conversation. Phase 2 preflight is first after explicit authorization; no implementation or operational facts changed in this session.
+
 ## October 29 mission
 **CONFIRMED:** Collect at least **$500 by November 10, 2026** through local website sales. Prioritize available money, customer conversations, and promised delivery.
 
 **PROPOSED introductory offer:** $500 for a tightly scoped one-page website, $250 upfront and $250 after approval before launch. Donovin revised the price on 2026-10-31. Current mission U02 supplies the proposed scope and suggested terms. It is a test, not permanent pricing or proof of any customer contract.
 
-## Next actions, in order
+## October 29 proposed actions — historical
+
+The original sprint actions below are retained for the November 10 review. D21 supersedes the contact-first sequence for new website prospects. Use the current website procedure after the controls and action approvals are in place.
 1. Verify how a customer can pay and when the money becomes available. Record payout delays, fees, holds, and any receipts already received.
 2. Research a small, manageable group of local owner-led businesses with a demonstrable website problem and accessible decision-maker.
 3. Contact owners personally using a specific observation. Ask for a conversation and permission to share a small concept; do not build full unpaid sites.
@@ -14,7 +24,7 @@ As of **2026-10-29**, America/Chicago. Review due **2026-11-10**, or immediately
 5. Build the approved site, test it, obtain approval, collect the balance before launch, and complete the authorized launch and handoff.
 6. Update the cash and action trackers after each material event.
 
-The detailed [sprint plan](09-execution-and-decisions/website-sales-sprint.md) is proposed execution guidance. It does not imply that outreach has begun.
+The detailed [sprint plan](09-execution-and-decisions/website-sales-sprint.md) records the original proposed sequence and dates. Outreach results remain unverified.
 
 ## Current evidence table
 | Topic | Status |
@@ -30,7 +40,7 @@ The detailed [sprint plan](09-execution-and-decisions/website-sales-sprint.md) i
 | Google Business Profile | Earlier verification pending; Oct 13 service edits failed; current status UNKNOWN |
 | Property management | Owner interest confirmed; focused validation deferred until post-sprint review |
 | Pietro's project | Founder-confirmed complete in U02; historical only, no reopened backlog |
-| GitHub knowledge repository | Initial setup completed 2026-10-30. PUBLIC visibility and ADMIN read access verified 2026-11-02; owner chose to keep public and pause this update’s push. Local main fast-forwarded to 0a3d45f before corrections. See W04. |
+| GitHub knowledge repository | Active ClockoutHQ remote verified PRIVATE on November 7 (W05). W04 records the predecessor’s November 2 state. |
 
 ## Focus boundary through November 10
 Park rebranding, a new CRM build, complex agent infrastructure, speculative full builds, mandatory social campaigns, and broad market expansion unless a concrete sales or delivery blocker requires them.
@@ -48,7 +58,7 @@ The no-new-prospects/no-conversations confirmation describes Oct 13 through the 
 
 Read [CHECKPOINT.md](CHECKPOINT.md) to resume document work, and [DOCS_MAINTENANCE.md](DOCS_MAINTENANCE.md) for the update transaction.
 
-## Repository status — 2026-10-30
+## Historical predecessor repository status — 2026-10-30
 
 Git is rooted at the parent folder of `docs/` and the initial snapshot was pushed to the private repository after API visibility verification. Business facts above were not changed by repository setup. See CHANGELOG and the Git guide.
 
@@ -59,4 +69,4 @@ Master v3 completes the documentation implementation and documentation-only scen
 
 Codex authentication and this session’s local workflow are verified; OpenCode’s existing default source-to-JSON run passed. GitHub read access and initial synchronization are verified; OD14 initial setup is closed. Optional tools, production site/profile, payment readiness and business outcomes remain unverified. See [core workflow evidence](10-reference-and-archive/CORE_WORKFLOW_VERIFICATION.md) (U05/W04).
 
-The October 30 private-repository observation above is historical. GitHub now reports PUBLIC; Donovin explicitly chose to keep it public and prepare these corrections locally with the push paused. The current offer remains $500 / $250 + $250, preserving the newer remote changes. No new sales, payment or production readiness is implied.
+The October 30 private-repository observation above is historical. On November 2 GitHub reported the predecessor as PUBLIC. Donovin chose to keep that repository public and prepare these corrections locally with the push paused. The current offer remains $500 / $250 + $250, preserving the newer remote changes. No new sales, payment or production readiness is implied.

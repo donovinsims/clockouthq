@@ -36,7 +36,7 @@ See [provenance rules](10-reference-and-archive/PROVENANCE.md), [coverage and li
 ## First use
 1. Extract the ZIP to a local folder you own. Keep the ZIP as the original baseline.
 2. Open this README and CURRENT_STATE. Work from one maintained copy.
-3. The Git repository root is the parent folder containing `docs/`; `docs/` is tracked inside it. The repository `clockout-knowledge-base` was created on 2026-10-30; current visibility is PUBLIC (verified 2026-11-02), and this update’s push is paused by owner instruction — see the [GitHub guide](07-tools-and-systems/github-setup-and-maintenance.md) for the maintenance loop. No parent-root copies or file rearrangement are required.
+3. The active Git root is `/Users/forex/ClockoutHQ`, with this documentation under `Clockout Context/docs/`. Use the [Git guide](07-tools-and-systems/github-setup-and-maintenance.md) for the active remote and maintenance loop.
 4. Use the [update prompt](10-reference-and-archive/templates/update-prompt.md) after meaningful work.
 5. Keep client records and secrets outside this reusable knowledge base.
 
@@ -51,10 +51,14 @@ Founder-confirmed Oct 29 baseline: no new prospects or sales conversations since
 
 For quick orientation read [current state](CURRENT_STATE.md), [checkpoint](CHECKPOINT.md), and relevant [open decisions](OPEN_DECISIONS.md). For execution use the [website sales operating system](04-offers-and-sales/website-sales-operating-system.md) and [working forms](10-reference-and-archive/templates/website-project-forms.md); broader strategy and delivery remain in their canonical sections above. Procedures are proposed unless evidence and an agreement establish otherwise.
 
+## ClockoutHQ 2.0
+
+The [implementation roadmap](09-execution-and-decisions/clockouthq-2-0-implementation.md) links the Operations Manager and Demo Factory specifications and records each phase’s acceptance criteria. Current execution authority is documented in [CURRENT_STATE.md](CURRENT_STATE.md).
+
 ## Final review records
 
 [Improvement report](10-reference-and-archive/OPERATING_SYSTEM_IMPROVEMENT_REPORT.md), [validation](10-reference-and-archive/OPERATING_SYSTEM_VALIDATION.md), [13 scenarios](10-reference-and-archive/FUNCTIONAL_SCENARIOS.md) and [per-file coverage](10-reference-and-archive/file-coverage.csv) describe exactly what was changed and checked. Historical consolidation reports are preserved as dated records. This folder is the single active knowledge base; completed client records and secrets belong in approved private storage.
 
 ## November 2 readiness review
 
-[Core workflow verification](10-reference-and-archive/CORE_WORKFLOW_VERIFICATION.md) records the dated Codex/OpenCode/GitHub checks, corrected initial-setup status, current PUBLIC visibility and owner-directed push pause. Historical reports below and in section 10 retain their original dates and do not establish current privacy or production readiness.
+[Core workflow verification](10-reference-and-archive/CORE_WORKFLOW_VERIFICATION.md) records the dated Codex/OpenCode/GitHub checks, corrected initial-setup status, then-PUBLIC visibility and owner-directed push pause for the predecessor. Historical reports below and in section 10 retain their original dates and do not establish current privacy or production readiness.

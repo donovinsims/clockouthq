@@ -53,6 +53,8 @@ Copy the relevant section into a private working document for each prospect or c
 
 ## Design review and revision
 - Private preview / date / reviewer and authority:
+- Mobile first-screen result / viewport / visible service and area / primary action and verified destination / proof if available / issue to fix:
+- If a Reference Library method influenced a project decision, record the saved source and what changed:
 - What supports the agreed task / what fails acceptance:
 - One consolidated list: item, page, desired change, in scope Y/N, decision:
 - Out-of-scope change request, impact on price/time and written approval:
@@ -83,3 +85,23 @@ Copy the relevant section into a private working document for each prospect or c
 - Invoice sent / payment pending / settled / available dates and amounts:
 - Fees, refunds, holds, direct costs and net available:
 - Verify against payment source; never count a quote or unsettled payment as available cash.
+
+## Demo approval brief
+
+Record the prospect or master-template ID, revision, verified identity and service coverage, qualification and unknowns, dated evidence, asset rights, design direction, proposed copy and sections for both pages, proposed CTA and simulations, risks, and effort cap. For each finding record observation, evidence, proposed change and confidence. Stop at the written brief until founder approval.
+
+## Build and preview authorization record
+
+Record Donovin’s explicit decision, operation, exact target and brief/input digest, allowed scope, timestamp, expiry, and revocation or use state. A batch identifies each approved target and revision. The pilot uses a separate preview publication approval after QA, tied to the exact artifact digest and destination. For future combined approval, use the [execution policy](../../07-tools-and-systems/execution-system.md#demo-authorization-and-enforcement) and record the preview environment explicitly. This form is review evidence. The protected executor controls permission.
+
+## Two-page demo QA
+
+- Exactly two pages, prominent unofficial disclosure, working links and navigation.
+- Review rendered mobile and desktop screenshots, first screen and CTA, reflow, keyboard, focus, contrast and console behavior.
+- Verify business claims, service areas, attribution, rights, research dates and each report finding. Label uncertainty.
+- Verify local-only inquiry and chatbot behavior, no personal data collection or outbound inquiry, and no private material in assets.
+- Record checks, artifacts and blocking defects. After authorized publication verify the approved artifact, HTTPS, destination, access and indexing controls. Close blocking defects before release.
+
+## Outreach approval record
+
+Record the QA/build revision and verified preview, recipient and channel, sender, subject, exact body and links, attachments, approval and expiry, suppression and required disclosures. Record actual send evidence or uncertain status separately. Each follow-up requires authorization.

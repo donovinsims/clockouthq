@@ -1,5 +1,26 @@
 # Changelog
 Record material business and documentation changes here. Preserve event dates separately from the date they were reconstructed. Detailed history is in section 09.
+## 2026-11-07 — ClockoutHQ 2.0 implementation handoff
+
+- U09 / D23. Reviewed [OD01–OD23](OPEN_DECISIONS.md#implementation-readiness-review--2026-11-07), reconciled conditional tooling with the three-type pilot, and made [CHECKPOINT.md](CHECKPOINT.md) the fresh-chat handoff.
+- Specified the first authorized Phase 2 preflight and retained the construction, pilot preview, outreach and production deployment gates. Actual implementation awaits the founder’s separate fresh-chat authorization.
+
+## 2026-11-07 — ClockoutHQ 2.0 Phase 2–6 documentation
+
+- U08 / D22. Completed the [implementation roadmap](09-execution-and-decisions/clockouthq-2-0-implementation.md), [Operations Manager spec](07-tools-and-systems/operations-manager-spec.md) and [Demo Factory spec](04-offers-and-sales/demo-factory-spec.md). Defined phase files, responsibilities, scope and verification, including restricted scheduling, exact founder approvals, retry handling and demo QA.
+- Reconciled active entry points, package metadata, checkpoint and open decisions. Preserved Phase 1 and predecessor history. Next step is founder review and separate Phase 2 authorization.
+
+## 2026-11-07 — ClockoutHQ 2.0 Phase 1 reconciliation
+
+- U07 / D21. Verified a recoverable working-tree snapshot, then reconciled the website sales system, offer, playbook, forms, outreach and QA around the two-page demo-first sequence. Retained the dated sprint and paid offer terms.
+- Documented construction, preview publication, outreach and launch boundaries in the execution system. Reconciled current state, open decisions, Git pointers and tool readiness. W05 records the active private remote and restored skill read. Next step is founder review of a minimal Phase 2 gate prototype.
+
+## 2026-11-07 — toolkit and website workflow plan
+- Saved the combined [toolkit rollout](07-tools-and-systems/tool-register.md#toolkit-rollout-plan) from Donovin's two shortlists. The plan records the initial local pilots, the existing skills to use by website stage and the triggers for later installs. D20 recorded the first local toolkit smoke test and contractor pilot as prospective work. D21 controls the order and authorization for website construction.
+
+## 2026-11-07 — website playbook and Reference Library integration
+
+- Added the owner-supplied [website playbook](04-offers-and-sales/clockout_website_playbook_2026.md) and a stage guide for applying attributed Reference Library methods. The [website operating system](04-offers-and-sales/website-sales-operating-system.md) and [project forms](10-reference-and-archive/templates/website-project-forms.md) now route the work and capture its evidence. See U06 and D19 for the owner instruction and adoption boundary.
 
 ## 2026-11-01 — website offer price applied across the docs
 - Donovin's 2026-10-31 website offer ($500; $250 upfront, $250 before launch) now replaces the previous figure in every website-offer reference, including history, source extracts, claims, coverage, and templates. Cash examples were recalculated: one deposit $250, two deposits $500, one paid site $500. Checksums regenerated.

@@ -19,10 +19,9 @@ The client should own the domain and hosting accounts directly; agree any except
 
 Agree price, deposit/balance gate, acceptance criteria, revision boundary, delivery dependencies, cancellation/refund terms, rights, support and launch authority before payment. Do not automatically call a deposit nonrefundable. Delivery timing remains a per-engagement agreement: the secondary's 2–3 business-day aspiration is not an adopted guarantee.
 
-## Sell before full build
-Research and qualify → verify one observable issue → identify legitimate owner contact → personal outreach → confirm genuine interest → small unofficial homepage concept when justified → written scope → verified deposit → build/test → approval/balance → authorized launch/handoff.
+## Pre-sale demo and paid website
 
-The established general proof-first model permits small relevant proof before outreach, but the cash sprint should avoid days of speculative unpaid work. A targeted concept is illustrative until approved and launched; do not impersonate an official live business site.
+Follow the [website sales operating system](website-sales-operating-system.md). The approved two-page pre-sale concept shows a landing page and an owner-facing opportunities report. Its simulated interactions are illustrative. Paid scope is agreed separately in writing. The proposed one-page offer above carries its own scope, deposit, production construction approval, client acceptance, balance and separate launch authorization. Demo features do not become included deliverables by appearing in the preview.
 
 ## Cash implication
 One $250 deposit is below the $500 target. Two deposits total $500 gross but create two delivery obligations. One fully paid $500 site meets the gross target; fees, holds, refunds, direct costs and settlement determine accessible money. Do not count unpaid invoices or pending settlement as available cash.

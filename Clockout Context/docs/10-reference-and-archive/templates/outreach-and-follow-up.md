@@ -1,13 +1,17 @@
 # Outreach and follow-up drafts
-PROPOSED scripts. Personalize using verified observations. Donovin sends or separately approves sending. No message was sent for this package.
+Draft examples. For website prospecting, first complete the approved demo, QA and authorized preview release. Verify the link and obtain separate outreach approval of the exact sender, recipient, channel, subject, body and attachments. See the [website sales operating system](../../04-offers-and-sales/website-sales-operating-system.md#conversations-and-response-paths).
 
 ## Initial website message
-Hi [name], I'm Donovin with Clockout in Roscoe. I was looking at [business]'s website and noticed [specific observed issue]. I help local owners make it easier for customers to understand what they do and get in touch. Would it be useful if I sent a quick example of how I'd improve that?
 
-## Share proof
-Here's the small concept I mentioned: [link]. It focuses on [observed problem] and [practical improvement]. It's an illustration, not a finished or live site. If it fits what you need, I can outline a fixed scope and price.
+Subject: A website concept for [business]
+
+Hi [name], I’m Donovin with Clockout. I noticed [dated, verified observation] while looking for [service]. I made an unofficial concept showing how [specific customer task] could be easier: [approved, verified preview link]. Would a short conversation be useful? This is a promotional note about Clockout’s website services. Reply “no thanks” to opt out.
+
+Donovin Sims, Clockout · [verified business contact] · [valid physical postal address]
 
 ## Follow-up
+
+Use only an approved follow-up and check suppression before sending.
 Hi [name], following up on [specific context]. Is improving [issue] something you want to address now, or should I close the loop for the moment?
 
 ## Referral request after a real successful engagement

@@ -100,7 +100,7 @@ P0: current blockers (OD01–04). P1: next-phase or engagement-dependent needs (
 
 - **Status:** OPEN; unverified where evidence is missing.
 
-- **Next action:** Read-only check, then obtain authorization for concrete fixes
+- **Next action:** Verify the Clockout CTA and an existing preview destination, access policy and removal path. Seek separate release approval for the pilot artifact.
 
 - **Decision owner:** Donovin; professional review where the specific engagement requires it.
 
@@ -260,7 +260,7 @@ P0: current blockers (OD01–04). P1: next-phase or engagement-dependent needs (
 
 - **Status:** OPEN; unverified where evidence is missing.
 
-- **Next action:** Pick smallest existing tracker that supports current work
+- **Next action:** Confirm the authoritative tracker. Use one private local SQLite store only if no authoritative tracker exists and Phase 2 is authorized.
 
 - **Decision owner:** Donovin; professional review where the specific engagement requires it.
 
@@ -270,11 +270,11 @@ P0: current blockers (OD01–04). P1: next-phase or engagement-dependent needs (
 
 ## OD14 — CLOSED · initial repository setup
 
-- **Topic / current understanding:** Repository/account/folder and initial sync are established. Git is rooted at the parent of docs/; origin is donovinsims/clockout-knowledge-base, branch main.
+- **Topic / current understanding:** Repository/account/folder and initial sync are established. These initial records refer to the predecessor. See the [current Git layout](07-tools-and-systems/github-setup-and-maintenance.md#exact-layout) for the consolidated checkout.
 - **Evidence:** October 30 setup checkpoint; U05/W04 direct November 2 local Git and GitHub observations.
-- **Status:** CLOSED for initial setup. GitHub currently reports PUBLIC visibility; Donovin explicitly chose to keep it public and prepare this update locally without pushing.
+- **Status:** CLOSED for initial setup. On November 2 the predecessor was PUBLIC. Donovin chose to leave that predecessor public and prepare the update locally.
 - **Resolution:** Existing remote changes were preserved by fast-forwarding local main to 0a3d45f before corrections. No duplicate repository was created. Initial setup is not a pending authorization request.
-- **Continuing requirement:** Review changes, permissions and actual visibility before any future authorized push. This update’s push is paused; closure does not imply it was uploaded or that all tools/business systems are verified.
+- **Continuing requirement:** Review changes, permissions and actual visibility before any future authorized push. The November 2 predecessor update’s push was paused. Initial setup closure does not establish authority for a current push.
 - **Decision owner:** Donovin.
 - **Last reviewed:** 2026-11-02.
 
@@ -400,6 +400,59 @@ P0: current blockers (OD01–04). P1: next-phase or engagement-dependent needs (
 
 
 Resolve by recording source/date/owner/decision and implementation evidence in the decision log. Preserve the OD ID. Do not close an item merely because a template or plan exists.
+
+## OD21 — P0 · before enabling Phase 2 controls
+
+- **Decision:** Choose the actual restricted research identity and founder-only execution boundary.
+- **Status:** OPEN. The proposed design is documented; isolation has not been tested on the actual runtime.
+- **Next action:** After Phase 2 authorization, review permissions and validate bypass probes from the actual identity. Resolve OD13 tracker ownership before enabling live state.
+- **Owner and evidence:** Donovin. U08 / D22 and the [Operations Manager spec](07-tools-and-systems/operations-manager-spec.md).
+
+## OD22 — P0 · before enabling pilot outreach
+
+- **Decision:** Confirm an existing founder-owned sender, suppression handling, evidence lookup and approved test destination.
+- **Status:** OPEN. Provider selection and sender readiness are unverified.
+- **Next action:** Verify sender and receipt lookup with applicable approval. Resolve OD05 preview and CTA readiness, verify the approved live artifact, and obtain separate exact-message approval.
+- **Owner and evidence:** Donovin. D21 and the [outreach verification plan](09-execution-and-decisions/clockouthq-2-0-implementation.md#phase-5--prove-the-prospect-pilot-and-economics).
+
+## OD23 — P2 · before scheduling Phase 6
+
+- **Decision:** Confirm restricted scheduling profile, cadence and capacity.
+- **Status:** OPEN. Manual workflow is the starting point. The actual scheduled boundary is unverified.
+- **Next action:** After manual pilot evidence and separate authorization, probe the scheduled identity and verify machine/app availability, caps, no privileged paths, restart and recovery. Retain manual operation if isolation cannot be proven.
+- **Owner and evidence:** Donovin. D21 and the [scheduled research plan](09-execution-and-decisions/clockouthq-2-0-implementation.md#phase-6--schedule-bounded-research-and-review-results).
+
+## Implementation readiness review — 2026-11-07
+
+U09 / D23 reviewed OD01–OD23 against the existing records and the adopted D19–D22 policy. OD14 remains closed for predecessor setup. The other decisions retain their open status. Confirmed boundaries and recommended defaults below resolve what can be assumed for planning. Live facts, engagement-specific agreements and additional authority require their own evidence.
+
+| ID | Confirmed or documented evidence | Still open and simplest next step | When it matters |
+| --- | --- | --- | --- |
+| OD01 | U02 and S01 identify collection readiness as a priority. | Verify the existing payment route, fees, holds and time to cleared funds using private records. | Before quoting payment terms or accepting money. |
+| OD02 | U02 and D14 record the proposed $500 one-page offer, $250 upfront and $250 before launch. D21 separates demo from paid scope. | Use the proposed terms as a quoting baseline. Agree each actual scope, acceptance, ownership and support in writing. | First paid quote; independent of Phase 2. |
+| OD03 | U02 confirms only the October 13–29 acquisition interval. | Reconcile private receipts, spendable cash and later activity with Donovin. | Business priority and November 10 review; no dependency for inert fixtures. |
+| OD04 | D21 and paid delivery guidance require separate production construction and launch authority. | Verify written client rights, ownership, acceptance, payment conditions and exact launch approval. | Before affected production work or launch. |
+| OD05 | D21 requires separate pilot preview approval and live verification. | Verify the Clockout CTA, an existing preview destination, access, indexing and removal. Prefer the smallest existing authorized host. | Before real preview release and outreach. |
+| OD06 | S10/L03 are dated profile evidence. D21 permits only appropriately sourced public observations in research. | Leave the owner profile alone until access and actual saved state are verified. | When Clockout GBP changes or private data are in scope. |
+| OD07 | U02 records the November 10 review. D21 changes website acquisition, while the cash objective and review remain dated. | Decide after actual cash, pipeline, capacity and obligations are reconciled. | Before changing the business priority. |
+| OD08 | S13 and U02 defer property-management validation until review. | Keep it parked pending the founder's market decision and evidence of a painful workflow. | Separate property-management work. |
+| OD09 | S13, S04 and U02 record pilot permission and privacy concerns. | Agree access, data handling and support with the specific participant. | Before a property-management pilot. |
+| OD10 | U02/S04 leave legal, tax, insurance and agreement readiness unverified. | Review owner records and the actual engagement requirements. | Before the affected contract or regulated work. |
+| OD11 | D14 and D21 retain a proposed introductory offer. | Decide permanent pricing after actual demand, costs and delivery effort are known. | After pilot evidence. |
+| OD12 | S04/S08/S09 are business references. | Keep additional paid services deferred until a buyer need, margin and support scope justify explicit adoption. | Later offer expansion. |
+| OD13 | D22 specifies one authoritative tracker. Existing docs do not establish a live incumbent. | Ask Donovin whether an incumbent owns the workflow. If none does, use one private SQLite store after authorization. Preserve an incumbent and verify its semantics before integration. | Before authoritative Phase 2 state. Scratch fixtures need no live tracker. |
+| OD14 | Initial predecessor setup is closed under U05/W04. W05 records the consolidated private repository separately. | Recheck current checkout and obtain applicable Git authorization at the time of action. | No implementation blocker. |
+| OD15 | D19 adopts the website playbook. D21 separates the demo from existing production sites. | For the approved master, default to minimal Astro and component CSS per spec. Historical component conflicts stay open for any affected existing site. | Before adopting a disputed dependency or changing that site. |
+| OD16 | L01/L09 conflict about agent-template permission. | Use original or clearly licensed assets and code. Retrieve exact terms before reusing the disputed library. | Only if the affected asset or template is proposed. |
+| OD17 | L01/L02/L10 are source references with unresolved public-claim approval. | Use substantiated and authorized titles or evidence. Omit disputed claims. | Before using affected claims publicly. |
+| OD18 | S04/U02 establish planning context, not current finances. | Keep detailed books private and reconcile cleared funds, costs and obligations before judging margins or reserves. | Business review and pilot economics. |
+| OD19 | The coverage register identifies missing historical sources. | Recover originals with provenance when available. Preserve unknowns in the meantime. | Historical recovery; no Phase 2 dependency. |
+| OD20 | S04/U02 and D22 favor evidence before expansion. | Defer recurring products and broader tools until repeatable demand and delivery support a decision. | After pilot evidence. |
+| OD21 | D21/D22 require a founder-operated boundary that research cannot bypass. | Use the simplest existing enforceable identity or isolation profile. Probe actual permissions and alternate paths. Seek separate approval for any account or permission changes. | First Phase 2 preflight and before enabling protected actions. |
+| OD22 | D21 requires separate exact-message approval and reliable outcome evidence. | Prefer a founder-owned existing sender with suppression and receipt lookup. Verify an authorized founder-owned test and keep real sends disabled until it passes. | Before enabling pilot outreach. |
+| OD23 | D22 specifies bounded research-only scheduling after the manual pilot. | Start manual. Select and test a restricted scheduler and founder-approved cadence only after pilot evidence. | Before Phase 6 scheduling. |
+
+Implementation authorization is separate from resolving an OD item. Phase 2 starts with OD13 and OD21. The other items constrain their specific business, release, outreach, or later automation actions.
 
 ## Decision support and closing rule
 

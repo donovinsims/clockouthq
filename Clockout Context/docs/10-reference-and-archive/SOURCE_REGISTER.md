@@ -53,3 +53,20 @@ U04 records the accuracy/reconciliation authority: audit and improve the complet
 ## U05/W04 core readiness and repository reconciliation — 2026-11-02
 
 U05 records the owner’s correction/testing request and later instruction to keep the repository PUBLIC, prepare changes locally and pause the push. W04 records direct local CLI, authenticated GitHub, synchronization and bounded workflow observations in [CORE_WORKFLOW_VERIFICATION.md](CORE_WORKFLOW_VERIFICATION.md). No secrets or private customer data are included; optional services and production/business outcomes remain unverified.
+
+## U06 website build workflow — 2026-11-07
+
+U06 records Donovin’s instruction to use the supplied [website playbook](../04-offers-and-sales/clockout_website_playbook_2026.md) and incorporate relevant Reference Library methods by stage. The JSON register records the original attachment digest. Part E9 attributes the saved methods and links them by repository path. Third-party results remain source claims.
+
+## 2026-11-07 — ClockoutHQ 2.0 reconciliation
+
+- U07 · Direct founder instructions in the ClockoutHQ 2.0 Codex chat and attached 2.0 guide. Donovin authorized documentation reconciliation with a pre-edit snapshot, minimal operations design, separate pilot preview approval and optional future explicit preview scope. Use D21 for adopted policy. The guide establishes no completed business action.
+- W05 · Phase 1 direct observations. GitHub reported PRIVATE for `donovinsims/clockouthq`, default branch `main`. The restored global quota-optimizer instruction file was readable. These checks establish only the observed metadata and local skill accessibility.
+
+## 2026-11-07 — ClockoutHQ 2.0 full documentation
+
+- U08 · Direct founder instruction in the ClockoutHQ 2.0 Codex chat. Donovin authorized all remaining documentation and validation, expressly withheld implementation authorization, and reaffirmed the construction, outreach and initial preview publication gates. See D22. This establishes scope and intent, not a deployed system or business result.
+
+## 2026-11-07 — ClockoutHQ 2.0 final handoff
+
+- U09 · Direct owner instruction in the supplied finalization request. Authorizes review of OD01–OD23, documentation reconciliation, verification and the fresh-chat handoff. Implementation and other operational work require explicit authorization in the fresh chat. See D23.

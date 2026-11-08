@@ -1,5 +1,5 @@
 # Lean execution system
-PROPOSED organization derived from S02/L01/S11. No app configuration performed.
+D21 adopts the website workflow and approval policy. The proposed Operations Manager and its controls await separate implementation and verification. The tracking model derives from S02/L01/S11.
 
 Use one canonical action tracker. Keep business knowledge in these docs, private customer/payment records in their approved systems, and next actions in the chosen tracker. Link between them rather than copying all content.
 
@@ -9,11 +9,26 @@ Use one canonical action tracker. Keep business knowledge in these docs, private
 **Company:** current three outcomes, waiting items, open decisions and parked ideas.
 
 ## Proposed stages
-Prospects: candidate → researched → qualified → contacted → replied → discovery → targeted proof/proposal → agreement/deposit → delivery → balance/approval → delivered/closed; lost/deferred/not-fit exits retain reasons and next dates. Proof can precede outreach in the broader model, while the cash sprint favors confirmed interest before custom concept work.
+Prospects follow the [website sales operating system](../04-offers-and-sales/website-sales-operating-system.md). Record build approval, QA, preview release and verification, outreach approval and actual contact outcomes separately. Keep failed, deferred, revoked, opted-out and uncertain outcomes visible.
 Delivery: ready → doing → waiting on client → QA → approved → balance verified → launched → handed off.
 Company work: inbox → next → doing → waiting → done, with parked ideas separate.
 
 A sale and a receipt are separate events; a launched project can still have support obligations.
+
+## Demo authorization and enforcement
+
+Phase 1 records policy. Until enforcement is verified, stop before website construction, preview publication and prospect outreach. Donovin controls privileged execution for the pilot. Research may read approved public sources and submit a validated brief. Deny it write access to the approval store, executor and build workspace. Keep publication and messaging credentials, authenticated browser sessions and equivalent connectors outside research and build. Test this separation from the actual runner. Drafts, chat claims, sandbox approvals and scheduled tasks cannot issue founder grants.
+
+| Operation | Required founder approval |
+| --- | --- |
+| Website construction | Before the first website file, scaffold or component, verify a grant for the exact prospect or reusable master-template ID, brief revision and input digest, permitted scope, founder identity, expiry and revocation/use state. Production construction requires its own authorization for written paid scope. |
+| Preview publication | For the pilot, require separate approval after QA for the exact reviewed artifact digest and named preview destination. Future build approvals may explicitly include publishing to a specifically named, preconfigured preview environment with a fixed destination, access policy and allowed route scope. The executor must verify QA and bind release to the exact artifact from the approved build. Reject implied permission, unknown environments and destination drift. Verify the released artifact before outreach. |
+| Prospect outreach | Always separate. Bind approval to the verified preview/build, sender, recipient, channel and exact payload. Recheck suppression, record actual send evidence, and reconcile uncertain results before retrying. |
+| Production launch | Always separate. Verify written scope, client acceptance, payment conditions and applicable launch authority. |
+
+**Proposed minimum.** Start with one founder-operated CLI, one protected tracker and inert build and send adapters. Confirm OD13 first. If no tracker is authoritative, use local SQLite and private artifact files. Verify grants at the privileged entry points and reject missing, mismatched, stale, revoked and replayed grants before side effects. Record the last verified step and a unique contact attempt. Defer scheduling, hosted services and unattended privileged workers until the manual pilot demonstrates a need. Measure success by demo quality, preparation cost and reliable controls.
+
+Read the [Operations Manager implementation specification](operations-manager-spec.md) for protected command and data contracts, recovery, and restricted research scheduling. Use the [roadmap](../09-execution-and-decisions/clockouthq-2-0-implementation.md) for implementation order and tests. Both are future execution specifications.
 
 ## Daily routine
 Check due customer obligations and revenue follow-ups, choose one major outcome, perform the next action, record result and next date. Do not let an exciting tool become today's priority without a clear business dependency.

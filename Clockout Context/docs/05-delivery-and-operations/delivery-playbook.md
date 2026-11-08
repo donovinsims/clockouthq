@@ -1,6 +1,8 @@
 # Delivery playbook
 Principles established in S04/L01; operational steps are a PROPOSED reusable process, to be agreed per engagement.
 
+An approved pre-sale demo is sales collateral. Use the [website sales handoff](../04-offers-and-sales/website-sales-operating-system.md#demo-brief-review-and-release) to start a separate paid engagement with written scope, payment, authorized production construction, acceptance and launch.
+
 ## 1. Diagnose
 Map the actual workflow and a recent example. Identify the owner, users, inputs, tools, handoffs and failure points. Establish a baseline and measurement window. Confirm whether a process change or existing feature can solve the problem.
 

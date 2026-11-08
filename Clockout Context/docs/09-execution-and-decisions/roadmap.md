@@ -4,6 +4,10 @@ As of 2026-10-29. Priority intent from S01/S04; detailed sequence proposed.
 ## Active — through November 10
 Website sales cash sprint, payment readiness, founder conversations and promised delivery. See CURRENT_STATE and sprint plan.
 
+## ClockoutHQ 2.0 delivery plan
+
+Use the [separate implementation roadmap](clockouthq-2-0-implementation.md) for Phases 2–6. These specifications await implementation authorization and do not change the November 10 cash review or current delivery obligations.
+
 ## Next — after results review
 Reconcile actual sprint outcomes and customer obligations. Resume the company-building work and property-management hypothesis. Choose one workflow and one paid pilot if validated.
 
@@ -20,7 +24,7 @@ Repeatable offer, documented case study with permission, referral process, measu
 | Legal/admin/contract readiness | Verify before relevant engagement; OD10 |
 | PM validation | Deferred until review; OD08/09 |
 | Profitable permanent pricing | Needs actual evidence; OD11 |
-| Repo setup | Initial setup complete; OD14 CLOSED on 2026-11-02. Local main synchronized before corrections; current update remains local and push paused under U05 |
+| Repo setup | Predecessor setup closed under OD14. See the [current Git layout](../07-tools-and-systems/github-setup-and-maintenance.md#exact-layout) for the consolidated repository |
 | Component policy reconciliation | Open; OD15; no automatic redesign |
 | Template permissions | Open; OD16 |
 | Source recovery | Open; OD19 |

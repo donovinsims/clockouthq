@@ -9,11 +9,13 @@ formats:
 - JSON
 - CSV
 scope: Professional plus relevant personal context
-active_mission: Documentation complete; latest recorded business mission is the dated
-  October 29 website cash plan, outcomes unverified
+active_mission: Dated October 29 website cash plan and November 10 review; outcomes unverified.
+clockouthq_2_0_status: documentation_complete_implementation_pending
+clockouthq_2_0_roadmap: 09-execution-and-decisions/clockouthq-2-0-implementation.md
 next_review: '2026-11-10'
 owner: Donovin Sims
-repository_status: initialized_remote_public_verified_2026-11-02
+repository_status: consolidated_clockouthq_private
+predecessor_repository_status: initialized_remote_public_verified_2026-11-02
 external_mutations_for_this_delivery: none
 canonical_entrypoints:
 - README.md
@@ -21,6 +23,7 @@ canonical_entrypoints:
 - CURRENT_STATE.md
 - CHANGELOG.md
 - OPEN_DECISIONS.md
+- 09-execution-and-decisions/clockouthq-2-0-implementation.md
 source_register: 10-reference-and-archive/source-register.json
 claims_register: 10-reference-and-archive/claims.yaml
 coverage: 10-reference-and-archive/file-coverage.csv
@@ -36,8 +39,8 @@ sections:
 - 08-finance-and-goals
 - 09-execution-and-decisions
 - 10-reference-and-archive
-repository_root: parent folder containing docs
-documentation_root: docs
+repository_root: ClockoutHQ
+documentation_root: Clockout Context/docs
 checkpoint: CHECKPOINT.md
 maintenance_sop: DOCS_MAINTENANCE.md
 consolidation_report: 10-reference-and-archive/CONSOLIDATION_REPORT.md
@@ -49,9 +52,9 @@ documentation_completed: '2026-10-30'
 business_baseline_date: '2026-10-29'
 improvement_report: 10-reference-and-archive/OPERATING_SYSTEM_IMPROVEMENT_REPORT.md
 functional_scenarios: 10-reference-and-archive/FUNCTIONAL_SCENARIOS.md
-current_documentation_authority: U05
+current_documentation_authority: U09
 accuracy_review: 10-reference-and-archive/ACCURACY_AND_DEPTH_REVIEW.md
-repository_visibility_verified: public
-repository_visibility_review_date: '2026-11-02'
-push_status: paused_by_owner_local_changes_only
+repository_visibility_verified: private
+repository_visibility_review_date: '2026-11-07'
+push_status: local_changes_only_separate_authorization_required
 core_workflow_verification: 10-reference-and-archive/CORE_WORKFLOW_VERIFICATION.md

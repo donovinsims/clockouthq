@@ -1,6 +1,8 @@
 # QA, launch and support checklist
 PROPOSED operational template. Apply the relevant checks; do not create busywork unrelated to scope.
 
+Use the [two-page demo QA form](../10-reference-and-archive/templates/website-project-forms.md#two-page-demo-qa) for speculative previews. The production checklist below governs paid delivery, including real operation of any agreed customer inquiry path.
+
 ## Website acceptance
 - Approved business name, offer, contact details, hours and geographic claims.
 - Owner has rights to copy, images, logos and testimonials.

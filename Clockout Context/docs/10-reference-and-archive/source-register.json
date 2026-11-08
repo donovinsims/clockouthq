@@ -537,5 +537,62 @@
     "use": "Observed versions, authentication, default OpenCode smoke test, GitHub PUBLIC visibility and preserved remote synchronization; no publication or production certification",
     "author": "Codex active session",
     "confidence": "direct_observation_limited_to_recorded_checks"
+  },
+  {
+    "id": "U06",
+    "type": "current_owner_instruction_with_attachment",
+    "title": "Clockout website playbook and Reference Library integration",
+    "locator": "Current Codex chat and supplied clockout_website_playbook_2026.md, version 1.0",
+    "retrieved": "2026-11-07",
+    "payload_sha256": "c4bef94677094b20dbe59b235af9aaf7de2bb571bb68f981390e42745de4d9e6",
+    "use": "Use the supplied playbook for website work and route relevant Reference Library methods by stage",
+    "limit": "Research cutoff 2026-11-06. Attachment author unspecified. Third-party results remain attributed.",
+    "author": "Donovin Sims (owner instruction and attachment supplier)",
+    "confidence": "direct_owner_instruction_and_attachment"
+  },
+  {
+    "id": "U07",
+    "type": "current_owner_instruction_with_attachment",
+    "title": "ClockoutHQ 2.0 Phase 1 authorization and approval boundaries",
+    "locator": "ClockoutHQ 2.0 Codex chat, supplied version 2.0 guide and founder Phase 1 approval",
+    "retrieved": "2026-11-07",
+    "use": "Demo-first acquisition and Phase 1 documentation reconciliation",
+    "limit": "Phase 1 only. Implementation, construction, publication, outreach and launch require their own authority.",
+    "author": "Donovin Sims",
+    "confidence": "direct_owner_instruction"
+  },
+  {
+    "id": "W05",
+    "type": "direct_observation",
+    "title": "Phase 1 active remote and quota skill check",
+    "locator": "Authenticated GitHub repository metadata and local skill read in Phase 1 Codex session",
+    "retrieved": "2026-11-07",
+    "use": "Verified consolidated remote privacy and default branch, and readable quota optimizer instructions",
+    "limit": "Metadata and skill accessibility only.",
+    "author": "Codex active session",
+    "confidence": "direct_observation_limited_to_recorded_checks"
+  },
+  {
+    "id": "U08",
+    "type": "current_owner_instruction",
+    "title": "ClockoutHQ 2.0 documentation-only authorization",
+    "locator": "ClockoutHQ 2.0 Codex chat after Phase 1",
+    "retrieved": "2026-11-07",
+    "use": "Complete and validate documentation for Phases 2–6 while preserving mandatory founder gates",
+    "limit": "No application code, build, service configuration, install, publication, launch, outreach or Git publication. Implementation requires a separate request.",
+    "author": "Donovin Sims",
+    "confidence": "direct_owner_instruction"
+  },
+  {
+    "id": "U09",
+    "type": "current_owner_instruction_with_attachment",
+    "title": "ClockoutHQ 2.0 finalization and fresh-chat handoff",
+    "locator": "ClockoutHQ 2.0 Codex chat and supplied finalization request",
+    "retrieved": "2026-11-07",
+    "payload_sha256": "9c508276758f6ba79c34c2aadc2698fa919662203608c799305820e9f87960b4",
+    "use": "Finalize documentation, review OD01–OD23, preserve approvals and prepare the canonical handoff",
+    "limit": "Documentation and validation only. Future execution requires explicit authority in the fresh conversation.",
+    "author": "Donovin Sims",
+    "confidence": "direct_owner_instruction"
   }
 ]

@@ -1,6 +1,8 @@
 # Website sales sprint — through November 10
 Mission confirmed by current owner request and S01. Detailed schedule is PROPOSED execution guidance, not claimed work completed.
 
+**Historical acquisition plan.** D21 superseded this sprint’s contact-first sequence for new website prospects. Use the [current website procedure](../04-offers-and-sales/website-sales-operating-system.md). Original dates, cash target and review remain dated records.
+
 ## Outcome
 At least $500 accessible by Nov 10 from local website sales, with accepted scope and manageable delivery obligations. Use the proposed introductory offer in section 04. No actual prospect, sale or payment is established here.
 

@@ -13,6 +13,8 @@ Use the smallest relevant artifact. Label concepts as illustrative, not live cli
 Bound it to one meaningful bottleneck, concise evidence and one practical recommendation. The owner can then choose a deeper assessment or implementation where useful. Do not turn a free look into unlimited consulting or a mandatory paid-assessment funnel.
 
 ## Personal outreach sequence
+
+For website prospecting, use the [website outreach sequence](website-sales-operating-system.md#conversations-and-response-paths). Its construction, preview release and outreach gates govern the generic guidance below.
 1. Verify the observation and correct owner/channel.
 2. Write a short message in Donovin's voice.
 3. Make one modest invitation: conversation or permission to share proof.
@@ -43,11 +45,11 @@ Count researched, qualified, contacted, replied, conversations, quotes, agreemen
 ## Pipeline record and handoff
 Use the stage definitions in [execution system](../07-tools-and-systems/execution-system.md), with separate fields for client acceptance, gross payment, settlement and availability. A pipeline label must not collapse these into a single “paid” claim. Record loss/defer reasons and a dated next action.
 
-For the cash sprint, confirm interest before investing in a custom concept; a small pre-outreach proof remains available under the broader model when justified. Do not pressure an uninterested owner with a full unsolicited build. Use legitimate contacts and respect no-contact requests.
+The October 29 cash sprint previously favored confirming interest before a custom concept. For new website prospects, follow the [demo-first website procedure](website-sales-operating-system.md), including separate founder authorization before outreach. Do not pressure an uninterested owner with a full unsolicited build. Use legitimate contacts and respect no-contact requests.
 
 ## Full sales process and decision gates
 
-This is a proposed repeatable method aligned to S04, not evidence of completed outreach. Research → diagnose → select relevant proof → personal outreach → conversation → written agreement → implementation. The free look is a bounded first conversation or observation, not a promise to deliver an entire unpaid project.
+This is the general proposed sales method from S04. For new website prospects, the [website sales operating system](website-sales-operating-system.md) controls the sequence and approvals. Research → diagnose → select relevant proof → personal outreach → conversation → written agreement → implementation. The free look is a bounded first conversation or observation, not a promise to deliver an entire unpaid project.
 
 1. **Qualify:** capture source/date, actual observation, affected customer or workflow, possible impact, decision-maker and ability to deliver. Use [website procedure](website-sales-operating-system.md) for website opportunities. If no credible pain or no permission to proceed, stop.
 2. **Choose proof:** an unofficial concept, visibility snapshot or lead-handling demonstration must connect to the specific observation. Clearly label illustrative work and avoid unauthorized data, logos, claims and testimonials. Ask before sharing or building more.

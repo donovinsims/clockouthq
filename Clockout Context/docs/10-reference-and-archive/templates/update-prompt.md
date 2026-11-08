@@ -1,7 +1,7 @@
 # Source-of-truth update prompt
 Copy this into a future Codex/OpenCode/assistant session. It grants no external action beyond the actual user's request.
 
-Open the repository root (the parent folder containing docs/) and work inside docs/. Read AGENTS.md, CURRENT_STATE.md, CHECKPOINT.md when resuming, and OPEN_DECISIONS.md.
+Open the consolidated ClockoutHQ repository. Read its root AGENTS.md, then work inside `Clockout Context/docs/` for documentation. Read its AGENTS.md, CURRENT_STATE.md, CHECKPOINT.md when resuming, and OPEN_DECISIONS.md. For ClockoutHQ 2.0 follow the [implementation roadmap](../../09-execution-and-decisions/clockouthq-2-0-implementation.md) and the current authorization.
 
 Reconcile the new evidence I provide with the existing Clockout source of truth. Distinguish owner decisions, direct observations, reported results, recommendations, hypotheses and unknowns. Do not infer revenue, customers, completed work or publication from plans.
 

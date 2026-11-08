@@ -1,4 +1,51 @@
-# Master v3 checkpoint — 2026-10-30
+# ClockoutHQ documentation checkpoint
+
+## Current implementation handoff — 2026-11-07 (U09 / D23)
+
+**Read first in the fresh Codex conversation.** Start from the ClockoutHQ root README and AGENTS.md, then this checkpoint and the [implementation roadmap](09-execution-and-decisions/clockouthq-2-0-implementation.md). Read the spec for the authorized phase. This session finalized preparation only. A fresh chat must receive explicit authorization before implementation.
+
+### Repository and objective
+
+The actual checkout at this handoff was `/Users/forex/ClockoutHQ`, branch `main`, HEAD `afa3f21`, origin `donovinsims/clockouthq`. GitHub privacy was verified under W05. The working tree includes uncommitted and untracked documentation and unrelated existing changes. This handoff lives in the current local tree. Reinspect it before work, and preserve it if starting from a different checkout. A fresh clone of HEAD may omit the specs and website playbook. There is no `systems/` tree, Operations Manager runtime, Demo Factory, or verified deployment or sending path in this checkout.
+
+Build an approval-controlled workflow that turns bounded public research into a personalized, high-quality two-page demo and, only with separate approval, outreach. Phase 0 audit, Phase 1 reconciliation and Phases 2–6 specifications are complete. The demo complements the existing paid scope. Keep the proposed offer, business obligations and dated cash review in [current state](CURRENT_STATE.md).
+
+### Phase order and canonical material
+
+| Phase | Deliverable and acceptance owner |
+| --- | --- |
+| 2 | Prove gate enforcement and recovery with a founder-operated CLI and inert adapters. The [Operations Manager spec](07-tools-and-systems/operations-manager-spec.md) defines roles, data, trust boundary and tests. |
+| 3 | Qualify and audit within the authorized public research budget. Stop at a versioned two-page brief. Reuse the [sales system](04-offers-and-sales/website-sales-operating-system.md) and [working forms](10-reference-and-archive/templates/website-project-forms.md). |
+| 4 | Obtain the master-template build grant, then build and review one fictional local demo. Use the [Demo Factory spec](04-offers-and-sales/demo-factory-spec.md) and [website playbook](04-offers-and-sales/clockout_website_playbook_2026.md#pre-sale-demo-mode). |
+| 5 | Prove the approved real-prospect path and three-type pilot. Keep artifact, QA, publication, verified preview and outreach evidence distinct. Use the existing paid delivery process after written agreement. |
+| 6 | Schedule bounded research only after the manual pilot and restricted scheduler checks. Keep a manual fallback. Scale on actual evidence. |
+
+The [roadmap verification matrix](09-execution-and-decisions/clockouthq-2-0-implementation.md#verification-matrix) sets pass/fail evidence for each phase. The [tool register](07-tools-and-systems/tool-register.md#demo-pilot-routing) owns routing and install triggers. At handoff, 40 workspace skill instruction files were readable. Use Context Mode, the restored quota optimizer and Karpathy Guidelines for Phase 2. Use `dispatch`, `brief`, public SEO/GBP checklists and `client-deliverables` when Phase 3 is authorized. Use the frontend builder and testing skills, `improve-ui` and `better-accessibility` for approved demo work. `build-local-site` is reference only. Readability establishes availability, and integrations or browser tests still need phase-specific verification. Reuse Donovin’s voice project and the attributed Reference Library where applicable.
+
+### Decisions, dependencies and safeguards
+
+- **Adopted:** D19–D22 preserve the playbook, staged tooling and demo-first sequence. Use one authoritative tracker, founder-controlled protected execution, restricted research, and one static artifact per prospect with exactly two pages and local-only simulations. A private SQLite store is the default only if no authoritative incumbent exists. Minimal Astro and component CSS are the proposed master defaults, subject to approved construction and dependency checks.
+- **First dependencies:** [OD13 and OD21](OPEN_DECISIONS.md#implementation-readiness-review--2026-11-07) cover tracker authority and the actual isolated runner. Decide these before enabling live state or relying on an enforcement boundary. OD05 preview/CTA, OD22 sender and OD23 schedule can wait for their applicable phases. The review records the status and dependency of every OD01–OD23 item.
+- **Mandatory:** Explicit founder approval before any website construction, including master or prospect templates. Initial and all pilot preview releases require a separate post-QA approval for the exact artifact and destination. Only a future grant that explicitly names a preconfigured preview environment may combine construction and preview authorization. Prospect outreach always requires separate exact-payload approval. Production deployment always requires separate launch authorization. Verify gates technically under the [execution policy](07-tools-and-systems/execution-system.md#demo-authorization-and-enforcement).
+- **Known risks:** A normal worktree, prompt or owner-privileged Codex session does not prove isolation. Keep any bypassable command disabled. A saved approval or timeout does not prove execution; reconcile ambiguous outcomes before retries. Hold unsupported claims, rights, unsafe preview data and changed targets. No provider, installed skill, or schedule counts as operational from documentation alone.
+
+### Exact first implementation task
+
+After explicit Phase 2 authorization, run the **read-only Phase 2 preflight**. Reinspect the Git root, branch, status and relevant files. Confirm with Donovin which tracker, if any, is authoritative. Identify the existing candidate research identity and founder-only boundary. Record whether the research identity can reach protected paths, approval state, authenticated connectors, publishing or messaging routes and what permission changes would be required. If no suitable identity exists, record the blocker and keep live state and protected actions disabled. A read-only preflight grants no permission to create accounts or change host settings. Within the scope authorized in the fresh chat, continue with inert fixture tests only and record exact results before enabling any live capability.
+
+## Phase 2–6 documentation handoff — 2026-11-07 (U08 / D22)
+
+The authorized documentation pass for Phases 2–6 is complete. Review the [implementation roadmap](09-execution-and-decisions/clockouthq-2-0-implementation.md) and its linked technical specifications. Phase 1 approval requirements remain in force. No live execution readiness has been established.
+
+Resume only after explicit implementation authorization. Start Phase 2 with OD13 tracker ownership and OD21 runner boundary. Prove founder-only dispatch with inert build, publication and outreach adapters. Keep OD05 preview/CTA, OD22 sender and OD23 schedule decisions open until their evidence and approvals exist.
+
+## Phase 1 handoff — 2026-11-07 (U07 / D21)
+
+Phase 1 reconciled the sales workflow, forms, offer, execution policy and Git pointers. The pre-edit working tree was archived and a scratch restore verified. The Phase 1 validator and local docs ZIP verification passed, and the diff was reviewed. See the [changelog](CHANGELOG.md#2026-11-07--clockouthq-20-phase-1-reconciliation) and [execution policy](07-tools-and-systems/execution-system.md#demo-authorization-and-enforcement).
+
+Resume with Donovin’s Phase 1 review. After separate Phase 2 authorization, confirm OD13 tracker ownership and prove the restricted research boundary and founder-only entry points with inert adapters. Test bypass attempts and interrupted operations. Preview destination, sender readiness, business outcomes and live enforcement remain open.
+
+## Historical Master v3 checkpoint — 2026-10-30
 
 Documentation implementation is complete. Start with CURRENT_STATE for the dated business baseline, then the relevant canonical manual. Website sales, general sales/free look, business plan, property-management validation and solo delivery/operations have been deepened; supporting guides and templates are reconciled. All 13 documentation-only scenarios are recorded, and the final validator/checksum/package checks passed as described in section 10.
 
@@ -16,7 +63,7 @@ The initial commit was pushed to the PRIVATE repository `donovinsims/clockout-kn
 
 A full re-verification pass (U04) re-read every canonical document against its packaged source extract. It found no unsupported material claim to correct and added only four recovered dated-context items (founder AI-experimentation self-report and philosophy; dated "essentially zero" starting point; L01 value-pricing direction; L01 standing idea filter) plus governance registration (U04 extract, C23 review claim, decision D17) and [ACCURACY_AND_DEPTH_REVIEW.md](10-reference-and-archive/ACCURACY_AND_DEPTH_REVIEW.md), which records the method, checks, uncertainties and limits. Business fact state is unchanged: the October 29 mission, offer status, GBP/website unknowns and November 10 gate all stand exactly as documented above. Structural validation, regenerated checksums and the verified archive check all passed; see validation-results.json and the review report for exact boundaries.
 
-## Current handoff — 2026-11-02 (U05/W04)
+## Historical predecessor handoff — 2026-11-02 (U05/W04)
 
 Core readiness/status corrections are prepared locally. Before editing, local main was fast-forwarded to 0a3d45f, preserving all four newer remote commits and the $500 / $250 + $250 offer. Codex login and this session’s research/deliverable/review work passed; OpenCode’s existing default source-to-JSON run passed; GitHub metadata confirmed ADMIN read access, main and PUBLIC visibility. OD14 initial setup is closed. See [core workflow evidence](10-reference-and-archive/CORE_WORKFLOW_VERIFICATION.md) for exact checks and limits.
 

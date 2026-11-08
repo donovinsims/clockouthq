@@ -1,12 +1,14 @@
 # Git setup and maintenance
-Setup completed 2026-10-30 after explicit owner authorization. Routine updates still follow the authority and authorization rules in AGENTS.md.
+The predecessor repository was set up on 2026-10-30. Routine updates to ClockoutHQ follow the authorization rules in AGENTS.md.
 
 ## Exact layout
-The Git repository root is the **parent folder that contains docs/**: currently `/Users/forex/Clockout-Context-Files-MASTER-2026-10-29`. `docs/` is tracked inside it and remains the documentation root: README.md, AGENTS.md, CURRENT_STATE.md, CHECKPOINT.md, DOCS_MAINTENANCE.md, manifest.yaml, SHA256SUMS and .gitignore sit there. Never initialize a second repository inside docs/, and never move, flatten or duplicate the documentation tree.
+The active Git root is `/Users/forex/ClockoutHQ`. This documentation root is `Clockout Context/docs/` inside it. Preserve the existing layout and single Git repository.
 
-The parent folder also keeps the dated ZIP archive, Finder metadata and tool state. The root `.gitignore` excludes them, so they stay local without being committed. Remote: `clockout-knowledge-base`, **PUBLIC as verified 2026-11-02**, under the authenticated owner account (`donovinsims`). It was private at initial setup; Donovin now explicitly chose to keep it public and pause this update’s push (U05/W04). Keep this business knowledge repository separate from the production website source.
+The active remote is `donovinsims/clockouthq`, branch `main`. Authenticated GitHub metadata reported PRIVATE on 2026-11-07 (W05). Keep local tool state and private records out of Git. Client production repositories are separate.
 
-## Completed setup — 2026-10-30
+## Historical predecessor setup — 2026-10-30
+
+These commands document the completed predecessor setup.
 ~~~sh
 cd /Users/forex/Clockout-Context-Files-MASTER-2026-10-29
 git init -b main
@@ -34,10 +36,10 @@ Nothing here happens automatically. GitHub does not mirror your edits.
 A file edit that has not been committed and pushed exists only on this Mac.
 
 ## Daily loop
-Run from the repository root, not from inside docs/.
+Run from the active repository root.
 
 ~~~sh
-cd /Users/forex/Clockout-Context-Files-MASTER-2026-10-29
+cd /Users/forex/ClockoutHQ
 git status                      # what changed, what is staged
 git diff                        # read the actual change
 ~~~
@@ -45,17 +47,17 @@ git diff                        # read the actual change
 Review the content, then record it deliberately:
 
 ~~~sh
-git add docs/CURRENT_STATE.md docs/CHANGELOG.md   # only the files you reviewed
+git add "Clockout Context/docs/CURRENT_STATE.md" "Clockout Context/docs/CHANGELOG.md"   # only the files you reviewed
 git diff --cached                                 # final check before recording
 git commit -m "docs: reconcile verified sprint results"
 git push
 git status                                        # expect "up to date" and a clean tree
 ~~~
 
-Prefer explicit `git add <path>` over `git add .` so an unexpected export, archive or private file is never swept in. Paths are listed relative to the repository root, so documentation files take a `docs/` prefix.
+Prefer explicit `git add <path>` over `git add .` so an unexpected export, archive or private file is never swept in. Paths are listed relative to the repository root, so these documentation files take the `Clockout Context/docs/` prefix.
 
 ## Open, inspect, and pull
-Open the repository folder itself in Codex/OpenCode/VS Code; the agent then sees `docs/` plus the ignored local files. Before resuming, check whether the remote moved:
+Open the repository folder itself in Codex/OpenCode/VS Code; the agent then sees `Clockout Context/docs/` within the consolidated workspace. Before resuming, check whether the remote moved:
 
 ~~~sh
 git fetch origin
@@ -69,9 +71,9 @@ git pull --ff-only            # only when there are no local edits
 A committed version is always recoverable, which is the main reason to commit.
 
 ~~~sh
-git log --oneline -- docs/CURRENT_STATE.md     # find the commit
-git show <commit>:docs/CURRENT_STATE.md        # read it without changing anything
-git restore --source=<commit> -- docs/CURRENT_STATE.md   # restore that file
+git log --oneline -- "Clockout Context/docs/CURRENT_STATE.md"
+git show "<commit>:Clockout Context/docs/CURRENT_STATE.md"
+git restore --source=<commit> -- "Clockout Context/docs/CURRENT_STATE.md"
 ~~~
 
 `git restore` overwrites the working copy of that one file. Commit the restore as a new change; do not rewrite published history to pretend the later version never existed. An uncommitted edit has no history and cannot be recovered by Git.
@@ -101,7 +103,7 @@ Never resolve a conflict with `git checkout --ours/--theirs` on whole files, `gi
 3. Update OPEN_DECISIONS if an item was resolved, added or re-scoped.
 4. Append CHANGELOG; preserve the superseded intent in history rather than overwriting it.
 5. Update CHECKPOINT if the resume state changed.
-6. Run the validator from docs/ and review the diff.
+6. Run the validator from `Clockout Context/docs/` and review the diff.
 7. Regenerate SHA256SUMS after the content is final, rerun the validator, then commit and push under the applicable authorization.
 
 ~~~sh
@@ -122,6 +124,6 @@ Never: force-push, rewrite published history, commit credentials, push sensitive
 ## Backup and meaning
 Keep the dated ZIP and an independent backup as appropriate. Review access periodically. Git history records edits; it does not prove cleared funds, site publication, profile verification or business outcomes. A remote is not automatic backup.
 
-## Current handoff — 2026-11-02
+## Historical predecessor handoff — 2026-11-02
 
-Initial setup is complete (OD14 closed). Authenticated GitHub metadata reports PUBLIC visibility, default branch main and ADMIN permission. The clean local checkout was fast-forwarded from 6d6836d to remote 0a3d45f, preserving the $500 offer changes. This update is prepared locally; Donovin paused the push and requested no visibility change. The commands in the maintenance loop are guidance, not authorization to override that pause. Recheck current remote state and applicable owner authorization before a future push. See [verification evidence](../10-reference-and-archive/CORE_WORKFLOW_VERIFICATION.md).
+Initial setup is complete (OD14 closed). Authenticated GitHub metadata reported PUBLIC visibility for the predecessor, default branch main and ADMIN permission. The clean local checkout was fast-forwarded from 6d6836d to remote 0a3d45f, preserving the $500 offer changes. This update is prepared locally; Donovin paused the push and requested no visibility change. The commands in the maintenance loop are guidance, not authorization to override that pause. Recheck current remote state and applicable owner authorization before a future push. See [verification evidence](../10-reference-and-archive/CORE_WORKFLOW_VERIFICATION.md).
