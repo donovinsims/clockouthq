@@ -1,5 +1,10 @@
 # Changelog
 Record material business and documentation changes here. Preserve event dates separately from the date they were reconstructed. Detailed history is in section 09.
+## 2026-11-08 — Local-first operations and Attio CRM
+
+- U10 / D24. Approved private local SQLite and artifact authority, bounded outbound CRM projections and offline operation. W06 verified the existing Companies, People, Deals and Clockout Pipeline schema.
+- Added the [Attio sync specification](07-tools-and-systems/attio-sync-spec.md) for field ownership, deduplication, the durable outbox, conflicts and recovery. Updated OD13, execution policy, roadmap, tool routing and handoff. Live sync readiness remains open.
+
 ## 2026-11-07 — ClockoutHQ 2.0 implementation handoff
 
 - U09 / D23. Reviewed [OD01–OD23](OPEN_DECISIONS.md#implementation-readiness-review--2026-11-07), reconciled conditional tooling with the three-type pilot, and made [CHECKPOINT.md](CHECKPOINT.md) the fresh-chat handoff.

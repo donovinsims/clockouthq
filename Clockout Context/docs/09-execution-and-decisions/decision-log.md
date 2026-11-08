@@ -48,3 +48,7 @@ When resolving an open decision, add: date, owner, decision, alternatives consid
 ## ClockoutHQ 2.0 fresh-chat handoff — 2026-11-07
 
 - D23 · U09: Donovin limited this conversation to final documentation, decisions, validation and handoff. Implementation, public prospect research, website construction and automation are reserved for a fresh Codex conversation with explicit authorization. D21 construction, initial preview, outreach and separate production deployment approvals remain in force. The checkpoint is the canonical handoff. Recommendations in the decision review grant no operational authority.
+
+## Local-first records and Attio CRM — 2026-11-08
+
+- D24 · U10: Donovin adopted private local SQLite plus artifact storage as the complete operational authority and the existing Attio workspace as the sales CRM. Sync a minimized, evidence-backed outbound projection using existing objects and Clockout Pipeline. Keep raw evidence, approvals and execution history local. Preserve local operation during an Attio outage and surface conflicts without silent overwrite. W06 verified schema only; no new object, list or attribute is required for the pilot. [OD13](../OPEN_DECISIONS.md#od13--p2) stays open for actual integration readiness. The existing construction, publication, outreach and production approval gates remain in force.

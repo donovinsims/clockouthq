@@ -9,6 +9,8 @@ D21 / U07 adopts a personalized two-page demo before new website outreach. Phase
 
 **U09 / D23 final handoff.** The [implementation handoff](CHECKPOINT.md) and [OD01–OD23 review](OPEN_DECISIONS.md#implementation-readiness-review--2026-11-07) are complete. The next work belongs in a fresh Codex conversation. Phase 2 preflight is first after explicit authorization; no implementation or operational facts changed in this session.
 
+**U10 / D24 architecture — November 8.** Private local SQLite and artifacts hold complete Clockout operational data. The existing Attio workspace is the CRM for companies, contacts, deals and sales follow-up and receives controlled outbound projections after verification and activation approval. W06 is schema evidence only. [OD13](OPEN_DECISIONS.md#od13--p2) and the [sync specification](07-tools-and-systems/attio-sync-spec.md) distinguish the adopted design from unverified readiness.
+
 ## October 29 mission
 **CONFIRMED:** Collect at least **$500 by November 10, 2026** through local website sales. Prioritize available money, customer conversations, and promised delivery.
 

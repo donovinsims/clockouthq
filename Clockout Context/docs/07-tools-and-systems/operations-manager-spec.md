@@ -4,12 +4,12 @@ Status: documentation complete, implementation pending separate authorization. [
 
 ## Runtime and responsibilities
 
-- **Donovin** owns priorities, the authoritative tracker decision, grant issuance and revocation, privileged command invocation, pilot release, sending, and go/no-go reviews. A specific approval is recorded before its associated action.
+- **Donovin** owns priorities, Attio sync policy and reconciliation, grant issuance and revocation, privileged command invocation, pilot release, sending, and go/no-go reviews. A specific approval is recorded before its associated action.
 - **Research runner** reads permitted public sources and submits structured observations and briefs. It cannot approve, write site source or build outputs, publish, contact, or mutate the authoritative tracker. Use a separate restricted identity or demonstrably equivalent OS-enforced boundary. A research job can be manual or scheduled under the same restrictions.
 - **Founder-operated CLI** is the only managed path to ingest, approve, revoke, claim, reconcile, and release work. It validates data and current state before dispatch. Run it from a founder-controlled environment with trusted executable paths, a sanitized environment, and no agent-writable commands, hooks or credential stores. Research and build identities cannot invoke it with founder authority.
 - **Approved builder** gets the frozen public-safe input, reviewed template revision, scoped workspace and local QA instructions only after a build grant is checked and claimed. It has no approval, preview publishing, production, or messaging credentials. The founder checks visual QA and authorizes release separately for every pilot preview.
 
-Start with one local Python CLI using the standard library. Resolve [OD13](../OPEN_DECISIONS.md#od13--p2) before making an authoritative store. If no incumbent is authoritative, use SQLite and private artifact files under the approved local toolkit directory outside Git. If an incumbent exists, preserve it and verify it can support the required ownership and transactional semantics before integrating. A scratch fixture database is acceptable for Phase 2 tests after authorization. Never create competing live trackers or schedule privileged operations.
+Start with one standard-library Python CLI, private SQLite and owner-private artifact files under the approved local toolkit directory outside Git. Preserve complete lead research, prospect records, raw evidence and screenshots, findings, briefs, task states, approvals, execution logs and CRM reconciliation records locally. Back up and restore the database and artifact files as one consistent set. Attio is the existing CRM and receives bounded outbound projections under [OD13](../OPEN_DECISIONS.md#od13--p2). Attio outages must leave all local operations usable. No second operational tracker is needed.
 
 | Future file | Responsibility |
 | --- | --- |
@@ -19,6 +19,8 @@ Start with one local Python CLI using the standard library. Resolve [OD13](../OP
 | `systems/operations/research.py`, `tests/` | Phase 3 intake, deduplication and brief validation; fixture tests across phases |
 
 Add a provider adapter only when its exact action is authorized and needed. Keep stub dispatch local and inert in Phase 2. Keep local storage owner-private with approved backups, bounded retention and a tested restore. Keep verified financial records in the existing private financial system and store only references and confirmed aggregates here.
+
+Use the [Attio synchronization spec](attio-sync-spec.md) for the observed field mapping, ownership, durable outbox and conflict recovery. Keep the local writer independent of Attio. Add the future adapter at `systems/operations/attio_sync.py` only within the authorized phase, behind a disabled-by-default sync boundary. Use the existing store and tests for outbox, binding and attempt state. Research, build and outreach entry points do not carry Attio credentials or call CRM synchronously.
 
 ## Data and operator contracts
 

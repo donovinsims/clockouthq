@@ -594,5 +594,27 @@
     "limit": "Documentation and validation only. Future execution requires explicit authority in the fresh conversation.",
     "author": "Donovin Sims",
     "confidence": "direct_owner_instruction"
+  },
+  {
+    "id": "U10",
+    "type": "current_owner_instruction",
+    "title": "Local-first SQLite and existing Attio CRM architecture",
+    "locator": "ClockoutHQ 2.0 architecture addendum in the active Codex chat",
+    "retrieved": "2026-11-08",
+    "use": "Adopt private local persistence and controlled outbound CRM projection",
+    "limit": "The documentation describes intended integration and preserves action-specific approvals.",
+    "author": "Donovin Sims",
+    "confidence": "direct_owner_instruction"
+  },
+  {
+    "id": "W06",
+    "type": "direct_observation",
+    "title": "Attio object, list and attribute metadata review",
+    "locator": "Authenticated Attio connector object/list and attribute definition queries",
+    "retrieved": "2026-11-08",
+    "use": "Verified current object and Clockout Pipeline schema for a minimal field map",
+    "limit": "Metadata only. No record-level read, write, permission proof, or sync run.",
+    "author": "Codex active session",
+    "confidence": "direct_observation_limited_to_schema"
   }
 ]

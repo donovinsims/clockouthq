@@ -1,7 +1,7 @@
 # Lean execution system
 D21 adopts the website workflow and approval policy. The proposed Operations Manager and its controls await separate implementation and verification. The tracking model derives from S02/L01/S11.
 
-Use one canonical action tracker. Keep business knowledge in these docs, private customer/payment records in their approved systems, and next actions in the chosen tracker. Link between them rather than copying all content.
+Use the private local SQLite ledger and artifact store as the authority for Clockout operational work. Attio is the existing sales CRM and receives a controlled projection under [OD13](../OPEN_DECISIONS.md#od13--p2). Keep payment records in their approved private system and link to verified results where needed.
 
 ## Minimum records
 **Prospect:** alias/business, evidence, qualification, proof type, stage, last contact, next action/date.
@@ -26,7 +26,7 @@ Phase 1 records policy. Until enforcement is verified, stop before website const
 | Prospect outreach | Always separate. Bind approval to the verified preview/build, sender, recipient, channel and exact payload. Recheck suppression, record actual send evidence, and reconcile uncertain results before retrying. |
 | Production launch | Always separate. Verify written scope, client acceptance, payment conditions and applicable launch authority. |
 
-**Proposed minimum.** Start with one founder-operated CLI, one protected tracker and inert build and send adapters. Confirm OD13 first. If no tracker is authoritative, use local SQLite and private artifact files. Verify grants at the privileged entry points and reject missing, mismatched, stale, revoked and replayed grants before side effects. Record the last verified step and a unique contact attempt. Defer scheduling, hosted services and unattended privileged workers until the manual pilot demonstrates a need. Measure success by demo quality, preparation cost and reliable controls.
+**Proposed minimum.** Start with one founder-operated CLI, local SQLite, private artifacts and inert build, release, send and CRM adapters. Test owner-only entry points and reject missing, mismatched, stale, revoked and replayed grants before side effects. The [Attio sync policy](attio-sync-spec.md) keeps CRM access outside research and authorization paths. Measure success by demo quality, preparation cost and reliable controls.
 
 Read the [Operations Manager implementation specification](operations-manager-spec.md) for protected command and data contracts, recovery, and restricted research scheduling. Use the [roadmap](../09-execution-and-decisions/clockouthq-2-0-implementation.md) for implementation order and tests. Both are future execution specifications.
 

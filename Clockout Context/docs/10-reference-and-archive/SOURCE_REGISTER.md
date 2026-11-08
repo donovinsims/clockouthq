@@ -70,3 +70,8 @@ U06 records Donovin’s instruction to use the supplied [website playbook](../04
 ## 2026-11-07 — ClockoutHQ 2.0 final handoff
 
 - U09 · Direct owner instruction in the supplied finalization request. Authorizes review of OD01–OD23, documentation reconciliation, verification and the fresh-chat handoff. Implementation and other operational work require explicit authorization in the fresh chat. See D23.
+
+## 2026-11-08 — Local-first persistence and Attio
+
+- U10 · Direct founder instruction in the ClockoutHQ 2.0 architecture addendum. Donovin approved private SQLite and artifacts as the complete operational authority, the existing Attio CRM and controlled outbound synchronization. See D24. This documentation update records design, not implementation or synchronization results.
+- W06 · Read-only Attio schema queries confirmed Companies, People, Deals and the Companies-backed Clockout Pipeline list with the fields documented in the [sync spec](../07-tools-and-systems/attio-sync-spec.md). No CRM records were read or modified. Data matching, field usage, permissions and sync behavior are unverified.

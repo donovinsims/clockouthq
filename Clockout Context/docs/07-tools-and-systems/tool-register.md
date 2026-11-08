@@ -34,6 +34,10 @@ A payment route, a prospect tracker and a dependable delivery process matter mor
 Confirm current version, actual plan limits, account owner/access, credential storage, registrar, hosting route, costs/renewals, and Git permissions before treating them as configured facts. Do not dump credentials or make a new tool purchase as part of checking. Use the least costly adequate current tool, and keep business documentation separate from site source. Source A02/U02.
 For any proposed tool, record purpose, owner, account type, cost, data handled, export/rollback path, permissions, current capability evidence and a stop condition. Test the smallest representative workflow in a non-production context before promising a feature. Confirm client ownership and access transfer for delivery tools. Do not treat an installed tool, historical mention or mentor recommendation as current production infrastructure.
 
+## Attio CRM
+
+W06 confirms Companies, People, Deals and the Companies-backed Clockout Pipeline list by read-only metadata. Use the existing Attio connector for schema and capability verification, then use an approved scoped transport only after sync tests and separate authorization. Local SQLite remains the operational authority and must work offline from CRM. See the [field mapping and sync policy](attio-sync-spec.md). The existing workspace is the only CRM target. Schema changes, record imports, live write readiness and access from the future runner are unverified.
+
 ## Demo pilot routing
 
 Start with the [website sales operating system](../04-offers-and-sales/website-sales-operating-system.md) and its forms. Phase 0 found 40 readable workspace skill links. Apply relevant local SEO and GBP checklists with dated public evidence. Hold provider-dependent or owner-only work pending verification of access, cost and terms. Use `build-local-site` only as a reference after construction approval. The pilot excludes its bulk generation and deployment workflow.

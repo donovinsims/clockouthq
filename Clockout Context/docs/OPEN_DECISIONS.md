@@ -250,23 +250,11 @@ P0: current blockers (OD01–04). P1: next-phase or engagement-dependent needs (
 
 ## OD13 — P2
 
-- **Topic / current understanding:** CRM/Plane/Things role and source-of-truth ownership
-
-- **Evidence:** S02; U02
-
-- **Why / impact:** Multiple tools can create duplicated state
-
-- **Dependencies:** Current workflow and actual account plan
-
-- **Status:** OPEN; unverified where evidence is missing.
-
-- **Next action:** Confirm the authoritative tracker. Use one private local SQLite store only if no authoritative tracker exists and Phase 2 is authorized.
-
-- **Decision owner:** Donovin; professional review where the specific engagement requires it.
-
-- **Last reviewed:** 2026-10-29.
-
-
+- **Decision confirmed (U10 / D24, November 8):** Local SQLite plus owner-private artifact storage is authoritative for all Clockout-managed operations. Attio is the existing CRM for companies, contacts, deals and sales follow-up. Use controlled outbound synchronization to support sales work and keep operations independent of CRM availability.
+- **Rationale:** Durable full local evidence and approvals protect recoverability and scope. A bounded Attio projection avoids duplicate work while preserving CRM-owned fields.
+- **Schema evidence:** W06 verified Companies, People, Deals and the Companies-backed Clockout Pipeline list. See the [field mapping and ownership](07-tools-and-systems/attio-sync-spec.md).
+- **Status:** Architecture confirmed; actual sync readiness OPEN. Field usage and existing identifier values, permissions, side effects, matches, retries and automatic execution are unverified.
+- **Next action:** Verify the local storage and backup boundary in Phase 2. Before enabling Attio sync, recheck the observed schema and prove the scoped tests and protections in the sync spec. Donovin owns activation approval.
 
 ## OD14 — CLOSED · initial repository setup
 
@@ -405,7 +393,7 @@ Resolve by recording source/date/owner/decision and implementation evidence in t
 
 - **Decision:** Choose the actual restricted research identity and founder-only execution boundary.
 - **Status:** OPEN. The proposed design is documented; isolation has not been tested on the actual runtime.
-- **Next action:** After Phase 2 authorization, review permissions and validate bypass probes from the actual identity. Resolve OD13 tracker ownership before enabling live state.
+- **Next action:** After Phase 2 authorization, review permissions and validate bypass probes from the actual identity. Verify OD13 private local storage and keep CRM credentials outside the research identity.
 - **Owner and evidence:** Donovin. U08 / D22 and the [Operations Manager spec](07-tools-and-systems/operations-manager-spec.md).
 
 ## OD22 — P0 · before enabling pilot outreach
@@ -424,7 +412,7 @@ Resolve by recording source/date/owner/decision and implementation evidence in t
 
 ## Implementation readiness review — 2026-11-07
 
-U09 / D23 reviewed OD01–OD23 against the existing records and the adopted D19–D22 policy. OD14 remains closed for predecessor setup. The other decisions retain their open status. Confirmed boundaries and recommended defaults below resolve what can be assumed for planning. Live facts, engagement-specific agreements and additional authority require their own evidence.
+U09 / D23 reviewed OD01–OD23. The matrix includes the November 8 OD13 architecture decision under U10 / D24. OD14 remains closed. OD13 architecture is confirmed and sync readiness remains open. The other decisions retain their open status.
 
 | ID | Confirmed or documented evidence | Still open and simplest next step | When it matters |
 | --- | --- | --- | --- |
@@ -440,7 +428,7 @@ U09 / D23 reviewed OD01–OD23 against the existing records and the adopted D19�
 | OD10 | U02/S04 leave legal, tax, insurance and agreement readiness unverified. | Review owner records and the actual engagement requirements. | Before the affected contract or regulated work. |
 | OD11 | D14 and D21 retain a proposed introductory offer. | Decide permanent pricing after actual demand, costs and delivery effort are known. | After pilot evidence. |
 | OD12 | S04/S08/S09 are business references. | Keep additional paid services deferred until a buyer need, margin and support scope justify explicit adoption. | Later offer expansion. |
-| OD13 | D22 specifies one authoritative tracker. Existing docs do not establish a live incumbent. | Ask Donovin whether an incumbent owns the workflow. If none does, use one private SQLite store after authorization. Preserve an incumbent and verify its semantics before integration. | Before authoritative Phase 2 state. Scratch fixtures need no live tracker. |
+| OD13 | D24 selects private SQLite and local artifacts as the operational authority and Attio as the CRM. W06 verifies the schema. | Verify storage and backup boundaries, then mapping, permissions, deduplication, conflicts and independent operation before activation. | Local boundary in Phase 2; live sync readiness before Phase 5 activation. |
 | OD14 | Initial predecessor setup is closed under U05/W04. W05 records the consolidated private repository separately. | Recheck current checkout and obtain applicable Git authorization at the time of action. | No implementation blocker. |
 | OD15 | D19 adopts the website playbook. D21 separates the demo from existing production sites. | For the approved master, default to minimal Astro and component CSS per spec. Historical component conflicts stay open for any affected existing site. | Before adopting a disputed dependency or changing that site. |
 | OD16 | L01/L09 conflict about agent-template permission. | Use original or clearly licensed assets and code. Retrieve exact terms before reusing the disputed library. | Only if the affected asset or template is proposed. |
@@ -452,7 +440,7 @@ U09 / D23 reviewed OD01–OD23 against the existing records and the adopted D19�
 | OD22 | D21 requires separate exact-message approval and reliable outcome evidence. | Prefer a founder-owned existing sender with suppression and receipt lookup. Verify an authorized founder-owned test and keep real sends disabled until it passes. | Before enabling pilot outreach. |
 | OD23 | D22 specifies bounded research-only scheduling after the manual pilot. | Start manual. Select and test a restricted scheduler and founder-approved cadence only after pilot evidence. | Before Phase 6 scheduling. |
 
-Implementation authorization is separate from resolving an OD item. Phase 2 starts with OD13 and OD21. The other items constrain their specific business, release, outreach, or later automation actions.
+Implementation authorization is separate from resolving an OD item. Phase 2 starts with local storage verification under OD13 and isolation under OD21. The other items constrain their specific business, release, outreach, or later automation actions.
 
 ## Decision support and closing rule
 

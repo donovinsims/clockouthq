@@ -28,7 +28,8 @@ Repeatable offer, documented case study with permission, referral process, measu
 | Component policy reconciliation | Open; OD15; no automatic redesign |
 | Template permissions | Open; OD16 |
 | Source recovery | Open; OD19 |
-| CRM, recurring offers, workshops, software products | Parked until a demonstrated need |
+| Existing Attio CRM integration | Architecture adopted under D24; scoped sync readiness remains open under OD13 |
+| Recurring offers, workshops, software products | Parked until a demonstrated need |
 
 ## Historical work
 Pietro's is founder-confirmed complete in U02 and excluded from active backlog. Historical Toast/menu details are not copied into Clockout tasks. If a new support request arrives, scope it separately.
